@@ -67,6 +67,8 @@ Ruelle:Rival:c,b:https://www.youtube.com/watch?v=o87vay63FZ0&list=UU-Jo3qUcaJPx7
 Thomas Bergersen:Mountain Call:c:https://www.youtube.com/watch?v=ibufSTLNQrU
 Tommee Profitt:Onward & Upward [featuring Fleurie]:c:https://www.youtube.com/watch?v=Tp4m5A2GM9U
 Ruelle:Skin And Bones:c,b:https://www.youtube.com/watch?v=5F1CktXVrBw&list=UU-Jo3qUcaJPx7fyUJXOjMyw&index=8
+Thousand Foot Krutch:Push:c:https://www.youtube.com/watch?v=9VON4tVuaKE
+Thausand Foot Krutch:Off The Rails:c:https://www.youtube.com/watch?v=9VON4tVuaKE
 Fleurie:Soldier:c,b:https://www.youtube.com/watch?v=32W3J7XaNH8
 Nessa Barret: La Di Die [Featuring jxdn]:c:https://www.youtube.com/watch?v=5Mzvo8rr8xc
 Gentri:Soldier:c,b:https://www.youtube.com/watch?v=Jd_jXenFl1g&list=UU4KEno3vtFbQussF1SM-9Lg&index=63
@@ -134,6 +136,7 @@ Mercedes Lackey:Battle Dawn:c:https://www.youtube.com/watch?v=CKEqKDvRdo4
 Two Steps From Hell:BattleBorne:c:https://www.youtube.com/watch?v=MM9bi06JVV8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=66
 2WEI:Battlefields (Mortal Engines Trailer):c:https://www.youtube.com/watch?v=0gP6TEe4fbI
 Thousand Foot Krutch:Be Somebody:c:https://www.youtube.com/watch?v=PGSvITdmrXM
+Thousand Foot Krutch:Honest::https://www.youtube.com/watch?v=qjwvcwIbYOU
 Thomas Bergersen:In Orbit:c:https://www.youtube.com/watch?v=XW-hWnXA9X0
 John Dreamer:Becoming A Legend:c:https://www.youtube.com/watch?v=toPm-L7Ib44
 Efisio Cross:Before The Apocalypse:c:https://www.youtube.com/watch?v=oyFXMFtkqT0
@@ -191,6 +194,7 @@ Zayde Wolf:Dangerous:c:https://www.youtube.com/watch?v=80TPyqacv3I
 Gentri:Dare:c:https://www.youtube.com/watch?v=hiTwY1nQjCE&list=UU4KEno3vtFbQussF1SM-9Lg&index=70
 Intermediate Music:Dark Angel:c:https://www.youtube.com/watch?v=jZtjv1hsphM
 Shinedown:Darkside:c:https://www.youtube.com/watch?v=OmcHOGkfV5c
+Thousand Foot Krutch:Light Up::https://www.youtube.com/watch?v=4YT8wraO5Vk
 Cami-cat:Daybreak:c:https://www.youtube.com/watch?v=Fq4MoUMKOTE
 Thousand Foot Krutch:Honest:c:https://www.youtube.com/watch?v=UznRqXRhaH4
 Ruelle:Dead of Night:c:https://www.youtube.com/watch?v=ltDGG5pdvds&list=UU-Jo3qUcaJPx7fyUJXOjMyw&index=33
@@ -206,7 +210,7 @@ Tommee Profitt:Monsters [featuring Xeah]:c,b:https://www.youtube.com/watch?v=6UL
 Zayde Wolf:Do What We Wanna Do:c:https://www.youtube.com/watch?v=gUhyKgK97L8
 Kevin Simon:Doragon:c:https://www.youtube.com/watch?v=_8mM55uNmZ8
 Tommee Profitt: Tomorrow We Fight [featuring Svrcina]:c:https://www.youtube.com/watch?v=xdrgTAt6Qxs
-Thousand Foot Krutch:I See Red::https://www.youtube.com/watch?v=rTyKk53Wq3w
+Thousand Foot Krutch:I See Red:c:https://www.youtube.com/watch?v=rTyKk53Wq3w
 Two Steps From Hell:Dragon Rider:c:https://www.youtube.com/watch?v=pKv_wua6kFE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=36
 Clamavi De Profundis:Dragonshore:c:https://www.youtube.com/watch?v=zL9u-GHgi_c
 Tommee Profitt:Rescue [featuring Raine Wilder & Svrcina]::https://www.youtube.com/watch?v=BWQ_hm9HWmo
@@ -217,6 +221,7 @@ Fox Sailer:Elven Kingdom:c:https://www.youtube.com/watch?v=jMuTP8Oq4Hc
 Beth Crowley:Empire:c:https://www.youtube.com/watch?v=e8CZO3xA8jUs
 Two Steps From Hell:Evergreen:c:https://www.youtube.com/watch?v=fZ1y_Z6Bc0M&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=42
 Paul Cauthen:Everybody Walkin' This Land:c:https://www.youtube.com/watch?v=L_ieGSsWd8U
+Thousand Foot Krutch:In My Room::https://www.youtube.com/watch?v=tOT0ewK1QYo
 Tommee Profitt:Eye Of The Tiger [cover]:c:https://www.youtube.com/watch?v=Rk8QRRVxrOY
 Neoni:Fallout:c:https://www.youtube.com/watch?v=J9Q1J5I7ac0
 Two Steps From Hell:Fearless:c:https://www.youtube.com/watch?v=7SePx4QzzmY&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=46
@@ -252,6 +257,7 @@ Two Steps From Hell:High C's:c:https://www.youtube.com/watch?v=MdrPl_7LncU&list=
 Smash Into Pieces:Higher:c:https://www.youtube.com/watch?v=D1o1LfiaXbk
 Tommee Profitt:Undone [featuring Fleurie]:c:https://www.youtube.com/watch?v=DPaQ3N_89KA
 The Score:Higher:c:https://www.youtube.com/watch?v=XclXvB1Gmnc
+Thousand Foot Krutch:Fly On The Wall [Robbie Bronnimann Mix]:c:https://www.youtube.com/watch?v=ZY1_2nsdBMY
 Position Music:Hiraeth:c:https://www.youtube.com/watch?v=KiJ8xz4BogE
 Tommee Profitt:Moonlight Sonata Mvt3::https://www.youtube.com/watch?v=aIprkYTGzDo
 Bonnie Tyler:Holding Out For A Hero:c:https://www.youtube.com/watch?v=bWcASV2sey0
