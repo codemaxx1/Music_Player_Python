@@ -52,24 +52,27 @@ def myCommand():
     duration = float(player.get_length() / 1000)
     deltaTime = deltaTime
 
+
     if (play == True):
         deltaTime = time.time() - timeStart
+        print("\t"*7 + 'Time remaining: ' + str(round((duration - deltaTime)/60)) + ":" + str(round(duration - deltaTime) % 60))
 
-        print(duration - deltaTime)
 
     if (deltaTime > duration):
         # time.sleep(duration)
         commands().music('next')
+        print("\t"*7 +  "did you forget about the video?\n")
 
     command = ''
 
     timeout = duration
     input1 = 'next'
-    print("command? ('toggle' = pause/play, 'next' = next, 'combat' = combat, 'normal' = normal, 'boss' = boss)")
+
+    print("\n\n\ncommand? ('toggle' = pause/play, 'next' = next, 'combat' = combat, 'normal' = normal, 'boss' = boss)\n")
     rlist, _, _ = select([sys.stdin], [], [], timeout)
     if rlist:
         input2 = str(sys.stdin.readline())
-        print( '"'+str(input2.split('\n')[0])+'"')
+        #print( '"'+str(input2.split('\n')[0])+'"')
         input1 = input2.split('\n')
         input1 = input1[0]
 
@@ -94,6 +97,10 @@ def myCommand():
     if input1 == 'boss':
         genre = 'b'
         print('boss mode')
+
+    if input1 == 'exit':
+        print('exiting')
+        sys.exit("user inputted exit command")
 
     return command
 
@@ -121,7 +128,7 @@ class commands:
         global countArray
         # genre = ''
 
-        print("genre = " + '"' + genre + '"')
+        print("\t"*7 + "genre = " + '"' + genre + '"')
 
         if order == "next":
             player.stop()
@@ -138,21 +145,21 @@ class commands:
                     countArray.append(0)
             file.close()
             
-            #random.shuffle(array)
-            print('# of lines in file:' + str(len(array)))
-            print("genre = " + '"' + genre + '"')
+            random.shuffle(array)
+            print("\t"*7 + '# of lines in file:' + str(len(array)))
+            print("\t"*7 + "genre = " + '"' + genre + '"')
             for i in countArray:
                 sumPlays += countArray[i]
             average = float(sumPlays / len(array))
             first = False
-            print('average plays: ' + str(average))
+            print("\t"*7 + 'average plays: ' + str(average))
             URLlineRandom = random.randint(0, len(array))
 
             splittedArray = array[URLlineRandom].split(':')
-            print("splittedArray:" + str(splittedArray))
-            print("array[-3] = " + str(splittedArray[-3]))
+            print("\t"*7 + "split Array:" + str(splittedArray))
+            #print("array[-3] = " + str(splittedArray[-3]))
 
-            print('length of countArray:' + str(len(countArray)))
+            #print('length of countArray:' + str(len(countArray)))
             for i in range(len(countArray)):
                 #print('testing term number: ' + str(i))
                 #next
@@ -160,10 +167,10 @@ class commands:
                 #print("splittedArray:" + str(splittedArray))
                 #print("array[-3] = " + str(splittedArray[-3]))
                 #if (genre in splittedArray[-3] and genre != '' and genre == 'c'):
-                #if (genre in splittedArray[-3] and genre != '' and genre == 'c'):
+                #if (genre in splittedArray[-3] and genre != ' ' and genre != '' and genre == 'c'):
                 if(True):
                     specArray = array[URLlineRandom].split(':')
-                    if(specArray[-3] != ' ' and (countArray[i] < countArray[URLlineRandom])):
+                    if(specArray[-3] != ' ' and specArray[-3] != 'c' and (countArray[i] < countArray[URLlineRandom])):
                         URLlineRandom = i
                         print('combat sting override')
 
@@ -194,19 +201,23 @@ class commands:
                 commands().music('next')
                 '''
             countArray[URLlineRandom] += 1
-            print('this songs number of plays: ' + str(countArray[URLlineRandom]))
+            print("\t"*7 + 'this song\'s number of plays: ' + str(countArray[URLlineRandom]))
 
-            print('random int :' + str(URLlineRandom))
+            print("\t"*7 + 'random int :' + str(URLlineRandom))
+
 
             URLlineNumber = array[URLlineRandom]
             listOfInfo = URLlineNumber.split(':')
             songURL = 'https:' + listOfInfo[-1]
-            print('song name: ' + str(listOfInfo[1]) + "\nauthor: " + str(listOfInfo[0]))
-            terandelleResponse('song name: ' + str(listOfInfo[1]) + ". Author: " + str(listOfInfo[0]))  #
+            #print('song name: ' + str(listOfInfo[1]) + "\nauthor: " + str(listOfInfo[0]))
+
+            terandelleResponse('\n'*3 + '*'*20 + ' song name: ' + str(listOfInfo[1]) + ". Author: " + str(listOfInfo[0]) + ' ' +'*'*20 + '\n')   #
+
             play = True
-            print('go!')
+            #print('go!')
             video = pafy.new(songURL)
-            best = video.getbest()
+            best = video.getbestaudio()
+            #best = video.getbest()
             playurl = best.url
             # print('best url:'+str(playurl))
             Instance = vlc.Instance()
@@ -218,16 +229,14 @@ class commands:
             timeStart = time.time()
             time.sleep(1.5)
             duration = float(player.get_length() / 1000)
-            # commands().music('next')
+
 
         if order == 'pause':
             if order == "pause" and play == True:
                 play = False
                 player.pause()
 
-
-
-            elif order == 'pause' and play == False:
+            else:
                 play = True
                 player.pause()
 
