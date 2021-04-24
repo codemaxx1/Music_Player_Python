@@ -2,7 +2,7 @@
 # n = normal/nature
 #
 
-from gtts import gTTS  # importing libraries
+# importing libraries
 import time
 import os
 import re
