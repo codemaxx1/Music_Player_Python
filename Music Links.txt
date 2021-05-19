@@ -207,12 +207,20 @@ Brian Delgado:I'm Vengeance:c:https://www.youtube.com/watch?v=vu5SbIb63FI
 Brian Delgado:My Sacrifice Will Not Be Forgotten:c:https://www.youtube.com/watch?v=KQNdZPPyPlk
 Brooks And Dunn:Ain't Nothing 'Bout You::https://www.youtube.com/watch?v=SpJdhC5E8Vg
 Cabal Mind and Max Grigoryev:The World Of Fantasy:c,i:https://www.youtube.com/watch?v=fsD8Cd3VVbg	
-Cabel Mind:Bringing Law And Order:c:https://www.youtube.com/watch?v=Xm3_5DZgNME
-Cabel Mind:Distant Shatters:c,b:https://www.youtube.com/watch?v=d2Dv9e1sFn0
-Cabel Mind:Out Of The Flames:c,b:https://www.youtube.com/watch?v=aIgDu26jVGM
-Cabel Mind:Samain:c:https://www.youtube.com/watch?v=jYJuAoPzNLk
-Cabel Mind:Sierra Bravo:c:https://www.youtube.com/watch?v=wG2TOGmxk3E
-Cabel Mind:Time Master:c:https://www.youtube.com/watch?v=kymAvCGB_dU
+Cabal Mind:Bringing Law And Order:c:https://www.youtube.com/watch?v=Xm3_5DZgNME
+Cabal Mind:Distant Shatters:c,b:https://www.youtube.com/watch?v=d2Dv9e1sFn0
+Cabal Mind:Out Of The Flames:c,b:https://www.youtube.com/watch?v=aIgDu26jVGM
+Cabal Mind:Samain:c:https://www.youtube.com/watch?v=jYJuAoPzNLk
+Cabal Mind:Sierra Bravo:c:https://www.youtube.com/watch?v=wG2TOGmxk3E
+Cabal Mind:Tell Them I'm Alive:c,i:https://www.youtube.com/watch?v=T5U5IKDjqrE
+Cabal Mind:Time Master:c:https://www.youtube.com/watch?v=kymAvCGB_dU
+Cabal Mind:The Knife's Edge:c,i,b:https://www.youtube.com/watch?v=q0MfI5YegYM
+Cabal Mind:A Soul To Sell:c,i,b:https://www.youtube.com/watch?v=eYPXYvvRd0A
+Cabal Mind:Digital Annihilation:c,i,b:https://www.youtube.com/watch?v=mFeNPnoecMw
+Cabal Mind:Samain:c,i:https://www.youtube.com/watch?v=jYJuAoPzNLk
+Cabal Mind:She Holds The Guns:c,i:https://www.youtube.com/watch?v=kpsida_hMWQ
+Cabal Mind:Rising Spirit:c,i:https://www.youtube.com/watch?v=qxE6HPETYfU
+
 Caleb Hyles:Be Prepared (The Lion King):c,b:https://www.youtube.com/watch?v=R9A5Aatkfwc
 Caleb Hyles:The Wellerman::https://www.youtube.com/watch?v=JRWw6jpKquo
 Cami-cat:Daybreak:c:https://www.youtube.com/watch?v=Fq4MoUMKOTE
@@ -328,7 +336,9 @@ Frostudio Chambersonic:All is Found [cover] (Frozen 2):c,i:https://www.youtube.c
 Frostudio Chambersonic:Show Yourself (Frozen 2):i:https://www.youtube.com/watch?v=rRTiPtHqNws
 Frostudio Chambersonic:Emergency Surface:c,i:https://www.youtube.com/watch?v=N5pNC7jDK7k
 Frostudio Chambersonic:Let It Go (Frozen)::https://www.youtube.com/watch?v=AF2CRoPhN2Y
+Frostudio Chambersonic:Undeniable:i:https://www.youtube.com/watch?v=rf5054brQUM9:51 AM 5/15/2021
 Frostudio Chambersonic:Let It Go [instrumental] (Frozen):i:https://www.youtube.com/watch?v=55Ht_Cyn3EQ
+Frostudio Chambersonic:Ultra Violet:c,i:https://www.youtube.com/watch?v=GxR-1Avj2qE
 Gentri:A Million Dreams (The Greatest Showman)::https://www.youtube.com/watch?v=tXWnezdvavA&list=UU4KEno3vtFbQussF1SM-9Lg&index=37
 Gentri:Barricade:c:https://www.youtube.com/watch?v=2GEO3u1uoIA&list=UU4KEno3vtFbQussF1SM-9Lg&index=51
 Gentri:Danny Boy::https://www.youtube.com/watch?v=KZ3E7kIYtR0&list=UU4KEno3vtFbQussF1SM-9Lg&index=13
@@ -373,6 +383,8 @@ Intermediate Music:Survive the Game (Hunger Games|Catching Fire):c:https://www.y
 Intermediate Music:The End Of Days:c,b:https://www.youtube.com/watch?v=0Lf5HL_Z0vc
 Intermediate Music:The Mighty Shall Rise:c:https://www.youtube.com/watch?v=8eCLV434TCo
 Intermediate Music:We Made This War:c:https://www.youtube.com/watch?v=zX_cEhJfX2I
+Ivan Torrent:Gallactic Invasion:c,i,b:https://www.youtube.com/watch?v=F8AEHMQP3LQ
+Ivan Torrent:Impossible [Featuring Rangel Da Silva]::https://www.youtube.com/watch?v=Bm5f_glnQ5M
 Jack Trammel:Sail:c:https://www.youtube.com/watch?v=fx8PJF8IFZY
 James Mraz:Have It All::https://www.youtube.com/watch?v=lCTVccHc5hA
 James Paget:Believe:c:https://www.youtube.com/watch?v=03m0YF9Npg8&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=3
@@ -604,6 +616,16 @@ Samuel Kim Music:Toss A Coin To Your Witcher::https://www.youtube.com/watch?v=PD
 Samuel Kim Music:Vode An and Clones Them [Mix]:c,b:https://www.youtube.com/watch?v=xpff8KnBA3I
 Samuel Kim Music:Wonder Woman 1984 Music::https://www.youtube.com/watch?v=QfIsdBDniE8&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=160
 Samuel Kin Music:Avengers Orchestral:c:https://www.youtube.com/watch?v=fGxdYs0_q1w
+Samuel Kim Music:Star Wars Main Theme (Star Wars):c,i:https://www.youtube.com/watch?v=VQwM1oMzne4
+Samuel Kim Music:The Imperial March (Star Wars):i:https://www.youtube.com/watch?v=Sp9S6C55wQ8
+Samuel Kim Music:Order 66 theme (star wars):c,b,i:https://www.youtube.com/watch?v=wBLGSAipX2M
+Samuel Kim Music:Jonathan Joestar theme (JoJo's Bizzare Adventure):c,i:https://www.youtube.com/watch?v=3lTcZL9J5ow
+Samuel Kim Music:Giorno's Theme (JoJo's Bizare Adventure):i:https://www.youtube.com/watch?v=hRok6zPZKMA
+Samuel Kim Music:Kakyoin's Theme (JoJo's Bizarre Adventure):i,c:https://www.youtube.com/watch?v=mZ_ZwWJsSk4
+Samuel Kim Music:Gurenge (Demon Slayer) [featuring Unravel] [attack on titan style]:c:https://www.youtube.com/watch?v=UWCwnnO0SuI
+Samuel Kim Music:Kamado Tanjiro no Uta [featuring Call of Silence] (Demon Slayer):c,i:https://www.youtube.com/watch?v=Nq5MPsZiyyk
+Samuel Kim Music:Rengoku Theme [Demon Slayer]:c,i:https://www.youtube.com/watch?v=SVhHhtG4DPM
+Samuel Kim Music:
 Sawano Hiroyuki:aLIEz (Aldnoah Zero):c:https://www.youtube.com/watch?v=wtW529XbOyU
 Shinedown:Atlas Fall:c:https://www.youtube.com/watch?v=YiVkAvm-BVE
 Shinedown:Attention Attention:c:https://www.youtube.com/watch?v=AwGbu4Hgj0Q
