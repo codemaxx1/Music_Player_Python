@@ -219,8 +219,15 @@ Cabal Mind:A Soul To Sell:c,i,b:https://www.youtube.com/watch?v=eYPXYvvRd0A
 Cabal Mind:Digital Annihilation:c,i,b:https://www.youtube.com/watch?v=mFeNPnoecMw
 Cabal Mind:Samain:c,i:https://www.youtube.com/watch?v=jYJuAoPzNLk
 Cabal Mind:She Holds The Guns:c,i:https://www.youtube.com/watch?v=kpsida_hMWQ
+Cabal Mind:Coma:c,i:https://www.youtube.com/watch?v=W-z_B63YI7M
+Cabal Mind:Last Birth:c,i:https://www.youtube.com/watch?v=dviCeagpOVA
+Cabal Mind:And Leave The World Behind:c,i,b:https://www.youtube.com/watch?v=cxxn3VAAnTM
+Cabal Mind:Chasing The Leviathan:c,i:https://www.youtube.com/watch?v=6fGGmuvkk7U
+Cabal Mind:Ashes Of Redemption:c,i:https://www.youtube.com/watch?v=fsP7-9iffo4
+Cabal Mind:Through Temples and Ruins:c,i:https://www.youtube.com/watch?v=zFx8YuZJkv8
+Cabal Mind:Sierra Bravo:c,i:https://www.youtube.com/watch?v=wG2TOGmxk3E
+Cabal Mind:Titan's Sorrow:c,i,b:https://www.youtube.com/watch?v=uDednqRRJtQ
 Cabal Mind:Rising Spirit:c,i:https://www.youtube.com/watch?v=qxE6HPETYfU
-
 Caleb Hyles:Be Prepared (The Lion King):c,b:https://www.youtube.com/watch?v=R9A5Aatkfwc
 Caleb Hyles:The Wellerman::https://www.youtube.com/watch?v=JRWw6jpKquo
 Cami-cat:Daybreak:c:https://www.youtube.com/watch?v=Fq4MoUMKOTE
@@ -384,6 +391,8 @@ Intermediate Music:The End Of Days:c,b:https://www.youtube.com/watch?v=0Lf5HL_Z0
 Intermediate Music:The Mighty Shall Rise:c:https://www.youtube.com/watch?v=8eCLV434TCo
 Intermediate Music:We Made This War:c:https://www.youtube.com/watch?v=zX_cEhJfX2I
 Ivan Torrent:Gallactic Invasion:c,i,b:https://www.youtube.com/watch?v=F8AEHMQP3LQ
+Ivan Torrent:Glimmer Of Hope:c,i:https://www.youtube.com/watch?v=ODgUlTAVMiU
+
 Ivan Torrent:Impossible [Featuring Rangel Da Silva]::https://www.youtube.com/watch?v=Bm5f_glnQ5M
 Jack Trammel:Sail:c:https://www.youtube.com/watch?v=fx8PJF8IFZY
 James Mraz:Have It All::https://www.youtube.com/watch?v=lCTVccHc5hA
@@ -455,7 +464,7 @@ Max Grigoryev:The Unsubdued:c,i:https://www.youtube.com/watch?v=QASjLo7CstY
 Max Grigoryev:Bright Future Tomorrow:c,i:https://www.youtube.com/watch?v=AnfwNZWowVg
 Max Grigoryev:Way To Valhalla:c,i:https://www.youtube.com/watch?v=rUBvh7-NVlc
 Max Grigoryev:The Last Crusade Knights:c,i:https://www.youtube.com/watch?v=05gH4x5MmLs
-Max Grigoryev:https:птичка:c,i://www.youtube.com/watch?v=_5GrvvtuaIs
+Max Grigoryev:птичка:c,i:https://www.youtube.com/watch?v=_5GrvvtuaIs
 Max Grigoryev:The Future:c,i:https://www.youtube.com/watch?v=3kDYqyqwqpI
 Max Grigoryev:Devestation:c,b,i:https://www.youtube.com/watch?v=7urRhuDM6cI
 Max Grigoryev:Essence:c,i:https://www.youtube.com/watch?v=VLm1dVyrzME
@@ -472,6 +481,8 @@ Merethe Soltvedt:You Can Go Miles::https://www.youtube.com/watch?v=89lNxhl2pg8
 Michael Schulte:Back To The Start::https://www.youtube.com/watch?v=SF8OalDtKnQ
 Miley Syrus:Jolene::https://www.youtube.com/watch?v=wOwblaKmyVw
 Missing in Action:Ashes Remain:c:https://www.youtube.com/watch?v=IfWWJBcOX3U
+Mufaya:A Warrior's Footsteps:c,i:https://www.youtube.com/watch?v=UMt5Z2Bnr7U
+Mufaya:The Last Spirit Guardian:c,i:https://www.youtube.com/watch?v=QM2BHc1UnMY
 Nathan Wagner:1,000 Lifetimes::https://www.youtube.com/watch?v=PWC2-8KfRdY&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=69
 Nathan Wagner:Burn:c:https://www.youtube.com/watch?v=gStLzynyYJo&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=76
 Nathan Wagner:Deception:c:https://www.youtube.com/watch?v=lYdepUeRpXs&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=68
@@ -625,7 +636,11 @@ Samuel Kim Music:Kakyoin's Theme (JoJo's Bizarre Adventure):i,c:https://www.yout
 Samuel Kim Music:Gurenge (Demon Slayer) [featuring Unravel] [attack on titan style]:c:https://www.youtube.com/watch?v=UWCwnnO0SuI
 Samuel Kim Music:Kamado Tanjiro no Uta [featuring Call of Silence] (Demon Slayer):c,i:https://www.youtube.com/watch?v=Nq5MPsZiyyk
 Samuel Kim Music:Rengoku Theme [Demon Slayer]:c,i:https://www.youtube.com/watch?v=SVhHhtG4DPM
-Samuel Kim Music:
+Samuel Kim Music:Inosuke Theme (Demon Slayer):c,i:https://www.youtube.com/watch?v=mp_t-oMycyE&list=PL9PLUrw0CbcS0ZQNU4S32zwShVmWFE_rN&index=22
+Samuel Kim Music:The Clones Theme (Star Wars):c,i:https://www.youtube.com/watch?v=UM_XVDG4Xto
+Samuel Kim Music:Something In The Way (The Batman) [cover]:c,i:https://www.youtube.com/watch?v=IHHQm4MeoV0
+Samuel Kim Music:The Batman Theme x The Imperial March [mashup]:c,i,b:https://www.youtube.com/watch?v=zmeVHKr-Pd4
+Samuel Kim Music:DCTV Crisis on Infinite Earths Theme (Arrowverse)c,i:https://www.youtube.com/watch?v=YYFxsIhky6Q
 Sawano Hiroyuki:aLIEz (Aldnoah Zero):c:https://www.youtube.com/watch?v=wtW529XbOyU
 Shinedown:Atlas Fall:c:https://www.youtube.com/watch?v=YiVkAvm-BVE
 Shinedown:Attention Attention:c:https://www.youtube.com/watch?v=AwGbu4Hgj0Q
