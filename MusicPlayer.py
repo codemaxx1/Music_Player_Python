@@ -1,22 +1,18 @@
-# c = combat
-# n = normal/nature
-#
 
 # importing libraries
 import time
 import os
 import re
-# import .GPIO as GPIO
 import sys
 import vlc
 import pafy
 import random
-from select import select
+import datetime
 import subprocess
 
-#change the volume
-#volume = 100
-#os.system('amixer cset numid=1 90%')
+from gtts import gTTS
+from select import select
+
 
 Instance = vlc.Instance()
 player = Instance.media_player_new()
@@ -29,18 +25,19 @@ countArray = []
 
 genre = ''
 
+global day
+day = datetime.datetime.today().weekday()
 
 def terandelleResponse(audio):
-    print(audio)
-    '''for line in audio.splitlines():
+    #print("audio:"+audio)
+    for line in audio.splitlines():
         tts = gTTS(text=str(audio))
-        tts.save('Mtts.mp3')
-        os.system('mpg321 Mtts.mp3')
-        '''
+        tts.save('tts.mp3')
+        os.system('mpg321 tts.mp3')
+
 
 # speech recognition system returns the text
 def myCommand():
-    #global volume
     global player
     global play
     global timeStart
@@ -48,9 +45,11 @@ def myCommand():
     global duration
     global deltaTime
 
+
     # time.sleep(1.5)
     duration = float(player.get_length() / 1000)
     deltaTime = deltaTime
+
 
 
     if (play == True):
@@ -76,7 +75,7 @@ def myCommand():
         input1 = input2.split('\n')
         input1 = input1[0]
 
-
+    print("timout" + timeout)
 
     if input1 == "toggle":
         command = 'pause music'
@@ -104,7 +103,21 @@ def myCommand():
 
     return command
 
-
+def playSong(songURL):
+    video = pafy.new(songURL)
+    best = video.getbestaudio()
+    # best = video.getbest()
+    playurl = best.url
+    # print('best url:'+str(playurl))
+    Instance = vlc.Instance()
+    player = Instance.media_player_new()
+    Media = Instance.media_new(playurl)
+    Media.get_mrl()
+    player.set_media(Media)
+    player.play()
+    timeStart = time.time()
+    time.sleep(1.5)
+    duration = float(player.get_length() / 1000)
 
 def assistant(command):
     # print(command)
@@ -114,7 +127,6 @@ def assistant(command):
     commands().music(musicOrder)
 
 
-# commands().sentry()
 
 class commands:
 
@@ -126,7 +138,6 @@ class commands:
         global genre
         global first
         global countArray
-        # genre = ''
 
         print("\t"*7 + "genre = " + '"' + genre + '"')
 
@@ -167,7 +178,8 @@ class commands:
                 #print("splittedArray:" + str(splittedArray))
                 #print("array[-3] = " + str(splittedArray[-3]))
                 #if (genre in splittedArray[-3] and genre != '' and genre == 'c'):
-                #if (genre in splittedArray[-3] and genre != ' ' and genre != '' and genre == 'c'):
+
+                print("genre:" + genre)
                 if(True):
                     specArray = array[URLlineRandom].split(':')
                     if(specArray[-3] != ' ' and specArray[-3] != 'c' and (countArray[i] < countArray[URLlineRandom])):
@@ -178,57 +190,26 @@ class commands:
                         URLlineRandom = i
                         print('general combat sting override')
 
-                elif (genre in splittedArray[-3] and genre != '' and genre == 'b'):
-                    specArray = array[URLlineRandom].split(':')
-                    if(specArray[-3] != '' and (countArray[i] < countArray[URLlineRandom])):
-                        URLlineRandom = i
-                        print('boss sting override')
-
-                    elif(specArray[-3] == ''):
-                        URLlineRandom = i
-                        print('general combat sting override')
-
-
-                else:
-                    if countArray[i] < countArray[URLlineRandom] and genre == '':
-                        URLlineRandom = i
-                        print('normal stirng ovewrride')
 
 
 
-            '''if (countArray[URLlineRandom] > (average + 1)):
-                # break
-                commands().music('next')
-                '''
+
             countArray[URLlineRandom] += 1
-            print("\t"*7 + 'this song\'s number of plays: ' + str(countArray[URLlineRandom]))
 
+            print("\t"*7 + 'this song\'s number of plays: ' + str(countArray[URLlineRandom]))
             print("\t"*7 + 'random int :' + str(URLlineRandom))
 
 
             URLlineNumber = array[URLlineRandom]
             listOfInfo = URLlineNumber.split(':')
+            songName = str(listOfInfo[1])
+            authorName = str(listOfInfo[0])
             songURL = 'https:' + listOfInfo[-1]
-            #print('song name: ' + str(listOfInfo[1]) + "\nauthor: " + str(listOfInfo[0]))
 
-            terandelleResponse('\n'*3 + '*'*20 + ' song name: ' + str(listOfInfo[1]) + ". Author: " + str(listOfInfo[0]) + ' ' +'*'*20 + '\n')   #
+            print('\n'*3 + '*'*20 + ' song name: ' + songName + ". Author: " + authorName + ' ' +'*'*20 + '\n')   #
+            terandelleResponse("song name:" + songName + "Author: "+ authorName)
 
-            play = True
-            #print('go!')
-            video = pafy.new(songURL)
-            best = video.getbestaudio()
-            #best = video.getbest()
-            playurl = best.url
-            # print('best url:'+str(playurl))
-            Instance = vlc.Instance()
-            player = Instance.media_player_new()
-            Media = Instance.media_new(playurl)
-            Media.get_mrl()
-            player.set_media(Media)
-            player.play()
-            timeStart = time.time()
-            time.sleep(1.5)
-            duration = float(player.get_length() / 1000)
+            playSong(songURL)
 
 
         if order == 'pause':
