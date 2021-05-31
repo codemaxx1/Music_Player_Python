@@ -55,7 +55,21 @@ def getData(dataArray):
 #play the song for an inputted URL
 def playSong(URL):
     global timeout
+
     say(songName + " by " + songAuthor)
+
+    #tell what movie or tv show the music is from
+    fromMoviesOrTV = songName.split("(")
+    print("fropm,mpooves ior tv:" + str(fromMoviesOrTV))
+    for i in fromMoviesOrTV:
+        whatFrom = i.split(")")
+        print(str(whatFrom) )
+
+        print("length of whatfrom:" + str(len(whatFrom)))
+        if(len(whatFrom) > 1):
+            say("from " + str(whatFrom[0]))
+
+
     URL = "https:"+URL
     #get the audio link
     video = pafy.new(URL)
@@ -85,39 +99,44 @@ def playerController(command):
     global genre
     number = random.randint(0, len(getFileInfo()))
 
+    # if it is Sunday, only play instrumental music
+    if (day == 6):
+        genre = "i"
 
     # if an input is passed
     if(command == "next"):
         player.stop()
 
-        # if it is Sunday
-        if (day == 6 and not player.is_playing):
-            genre = "i"
-
+        # read the file and get the songs
         fileArray = getFileInfo()
+
+        # shuffle the playlist
         random.shuffle(fileArray)
 
-        fileArray = getFileInfo()
-
+        # split the data from the single song pointed to and get its name, author, etc.
         songArray = getData(fileArray[number])
 
+        #ensure that the song's genre listing contains the genre set
         if(genre in songGenre):
             say(command)
             playSong(songURL)
-            print("*" * 50 + "songName: " + songName + "*" * 50 + "\n" + " " * 50 + "genre:" + genre + "\tsongGenre:" + songGenre)
+            print("\n"*30)
+            print("*" * 50 + "Name: " + songName + "*" * 50 + "\n" + " "*50+"Author:" + songAuthor + "\n" + " " * 50 + "genre:" + genre + "\tsongGenre:" + songGenre)
 
         else:
             playerController("next")
 
 
-    if command == 'toggle':
+    elif command == 'toggle':
         player.pause();
         say(command)
         time.sleep(1)
 
+    elif command == "":
+        print()
+
     else:
-        #player.play()
-        print("command not found")
+        print("Error: \"" + command+"\" command not found")
 
 
 #
@@ -125,7 +144,7 @@ def command():
     global genre
     #timeout = player.get_length()
     timeout = 0
-    print("\n\n\ncommand? ('toggle' = pause/play, 'next' = next, 'combat' = combat, 'normal' = normal, 'boss' = boss)\n")
+    print("\n\n\ncommand? ('toggle' = pause/play, 'next' = next, 'combat' = combat, 'normal' = normal, 'boss' = boss, 'instrumental' = instrumental)\n")
 
     input1 = ""
 
@@ -133,12 +152,18 @@ def command():
 
     userInput = ""
     timeout = float(player.get_length() / 1000)
+    timeRemaining = (timeout - (player.get_position() * timeout))
 
+    #when the song has ended
+    if(timeRemaining < 1):
+        playerController("next")
 
-    print("song length:"+str(timeout))
+    print(" " * 50 + "song length:"+str(round(timeout,0)))
+    print(" " * 50 + "song position" + str(round(player.get_position(),0)))
+    print(" " * 50 + "time remaining:" + str(round(timeRemaining,0)))
 
     #get user input on a timeout
-    rlist, _, _ = select([sys.stdin], [], [], timeout)
+    rlist, _, _ = select([sys.stdin], [], [], round(timeRemaining,0))
     if rlist:
         input2 = str(sys.stdin.readline())
         input1 = input2.split('\n')
@@ -156,6 +181,10 @@ def command():
     if input1 == "combat":
         genre = 'c'
         print("combat genre")
+
+    if input1 == "instrumental":
+        genre = 'i'
+        print("instrumental genre")
 
     if input1 == 'normal':
         genre = ''
