@@ -1,14 +1,14 @@
 :Be Prepared (The Lion King):b:https://www.youtube.com/watch?v=zPUe7O3ODHQ
 :Breathless (Aldnoah Zero):c:https://www.youtube.com/watch?v=MGFiqGGVAuk
 :Country Road memory of Merlin (Kingsman)::https://www.youtube.com/watch?v=3VdIfIZHJ_M
-:Demise Of A Nation::https://www.youtube.com/watch?v=eduwBgDcMwY
-:Fairy Tail Main Theme::https://www.youtube.com/watch?v=m6kb96YWXMA
-:Heart of Darkness (Music to become the villan):b:https://www.youtube.com/watch?v=FuWHRJTWAsg
-:Heroic Desire (Is it wrong to try to pick up girls in a dungeon?):c:https://www.youtube.com/watch?v=pWlfyXi0KYs
-:Into the fray (Haikyuu)::https://www.youtube.com/watch?v=xdeBp4F1BQk
+:Demise Of A Nation:i:https://www.youtube.com/watch?v=eduwBgDcMwY
+:Fairy Tail Main Theme:i:https://www.youtube.com/watch?v=m6kb96YWXMA
+:Heart of Darkness (Music to become the villan):i,b:https://www.youtube.com/watch?v=FuWHRJTWAsg
+:Heroic Desire (Is it wrong to try to pick up girls in a dungeon?):c,i:https://www.youtube.com/watch?v=pWlfyXi0KYs
+:Into the fray (Haikyuu):i:https://www.youtube.com/watch?v=xdeBp4F1BQk
 :Lovers (Naruto)::https://www.youtube.com/watch?time_continue=6&v=KmrTuNXVrf4&feature=emb_title
 :Loyal Brave True (Mulan)::https://www.youtube.com/watch?v=Qo8gX1Evay8
-:Luffy Moukou (One Piece)::https://www.youtube.com/watch?v=xUeaLmNDpG8
+:Luffy Moukou (One Piece):i:https://www.youtube.com/watch?v=xUeaLmNDpG8
 :Lullaby Of Woe (The Witcher):b:https://www.youtube.com/watch?v=JFUsPfuwjpw
 :Nichtcore Champions:c:https://www.youtube.com/watch?v=9n08VvYTQew&list=PLZtnLDtq1Rx5VxGUVfnaCW49bbYCsguM9&index=5
 :Nichtcore Dream On::https://www.youtube.com/watch?v=JQjPaqs2_04
@@ -23,7 +23,7 @@
 :Nightcore Angel of the Morning::https://www.youtube.com/watch?v=7PyWds66hvs
 :Nightcore Angel With A Shotgun:c:https://www.youtube.com/watch?v=cvaIgq5j2Q8
 :Nightcore Army::https://www.youtube.com/watch?v=fNNhfN_ZtCk
-:Nightcore Arrival To Earth:c:https://www.youtube.com/watch?v=HcomWaqjwnc
+:Nightcore Arrival To Earth (Transformers):c:https://www.youtube.com/watch?v=HcomWaqjwnc
 :Nightcore Back To The Start::https://www.youtube.com/watch?v=wHAFcQzY7PbM
 :Nightcore Bad Liar::https://www.youtube.com/watch?v=4OcdJzbOLb8
 :Nightcore Battle Cry::https://www.youtube.com/watch?v=jp09ktChKOo
@@ -31,7 +31,7 @@
 :Nightcore Believer::https://www.youtube.com/watch?v=9dQNoOWjLWk
 :Nightcore Born For This:c:https://www.youtube.com/watch?v=W_J1kTajcao
 :Nightcore Boulevard Of Broken Dreams::https://www.youtube.com/watch?v=iW5fN65oNls
-:Nightcore C'monhttps://www.youtube.com/watch?v=oTlzKGypedA
+:Nightcore C'mon::https://www.youtube.com/watch?v=oTlzKGypedA
 :Nightcore Cost of the crown::https://www.youtube.com/watch?v=Zzj7eO7R-w0
 :Nightcore Dancing with Tears in my Eyes::https://www.youtube.com/watch?v=OhDlxHzj_4M
 :Nightcore Demons::https://www.youtube.com/watch?v=DGkzt85hJSM
@@ -46,8 +46,8 @@
 :Nightcore Flesh and Bone::https://www.youtube.com/watch?v=RZVwHvPF-ds
 :Nightcore God is a Girl::https://www.youtube.com/watch?v=TiVIFMbwxOc
 :Nightcore Hard To Kill:c,b:https://www.youtube.com/watch?v=yG-K_MIbOVQ
-:Nightcore Heart of Courage (Remix):c:https://www.youtube.com/watch?v=7SbnOio8LCQ
-:Nightcore Heart Of Courage:c:https://www.youtube.com/watch?v=wLJ3lmGMark
+:Nightcore Heart of Courage (Remix):i,c:https://www.youtube.com/watch?v=7SbnOio8LCQ
+:Nightcore Heart Of Courage:i,c:https://www.youtube.com/watch?v=wLJ3lmGMark
 :Nightcore Helium:: https://www.youtube.com/watch?v=ELqkg0WSX7E 
 :Nightcore House Of The Rising Sun::https://www.youtube.com/watch?v=k-ruWgFKm7s
 :Nightcore I Need A Hero (Shrek 2)::https://www.youtube.com/watch?v=LUNl3ImqZG8
@@ -99,13 +99,13 @@
 :Nightcore You Raise Me Up::https://www.youtube.com/watch?v=Zn2noxMBhbY
 :Prince Ali [Reprise]::https://www.youtube.com/watch?v=ROIMTOX4FPg
 :Say My Name (Beetlejuice)::https://www.youtube.com/watch?v=nE0ElmZm-6c
-:Seiken Tsukai no World Break main theme::https://www.youtube.com/watch?v=cxXxYQYSl2E
-:Tales of Zestiria The X Opening Theme:c:https://www.youtube.com/watch?v=9vjsu3Lb9Co
+:Seiken Tsukai no World Break main theme:i:https://www.youtube.com/watch?v=cxXxYQYSl2E
+:Tales of Zestiria The X Opening Theme:c,i:https://www.youtube.com/watch?v=9vjsu3Lb9Co
 :The Devil And The Huntsman (King Arthur):c:https://www.youtube.com/watch?v=yGnfFW-vyzU
 :The Hero (One Punch Man):c:https://www.youtube.com/watch?v=sfFv3MTPdkw&t=133s
-:The Penny Whistle Of The Howling Wolf::https://www.youtube.com/watch?v=kNV593nUTQw
+:The Penny Whistle Of The Howling Wolf:i:https://www.youtube.com/watch?v=kNV593nUTQw
 :Unstoppable (Alita Battle Angel):c:https://www.youtube.com/watch?v=ekM0VflXyok
-:Zaveid's Battle Theme (Tales Of Zestria the X):c:https://www.youtube.com/watch?v=hr23P9_DPwg
+:Zaveid's Battle Theme (Tales Of Zestria the X):i,c:https://www.youtube.com/watch?v=hr23P9_DPwg
 2WEI:Bad Boys vs. The Hollow:b:https://www.youtube.com/watch?v=__-mSpLnaXM
 2WEI:Battlefields (Mortal Engines Trailer):c:https://www.youtube.com/watch?v=0gP6TEe4fbI
 2WEI:Chainsaw Symphony:c,b:https://www.youtube.com/watch?v=eRmfu4EHFy8
@@ -124,8 +124,8 @@
 2WEI:Survivor [instrumental, cover]:c:https://www.youtube.com/watch?v=9xXLMXZ85zg
 2WEI:Toxic [cover]:c,b:https://www.youtube.com/watch?v=Rk-h6gSocnU
 2WEI:Warriors [cover]:c:https://www.youtube.com/watch?v=pEZIYGN5HIo
-Acherontic Dawn:Defending Gaia:c:https://www.youtube.com/watch?v=pJ6CIPysJfE
-Adam Lambert:Runnin':C:https://www.youtube.com/watch?v=M-YvkPtneYE
+Acherontic Dawn:Defending Gaia:i,c:https://www.youtube.com/watch?v=pJ6CIPysJfE
+Adam Lambert:Runnin':c:https://www.youtube.com/watch?v=M-YvkPtneYE
 Aerosmith:Dream On::https://www.youtube.com/watch?v=sZfZ8uWaOFI
 Alan Walker:Faded::https://www.youtube.com/watch?v=qdpXxGPqW-Y
 All Good Things:Angry Young Men:c:https://www.youtube.com/watch?v=IdyQBYSsja0
@@ -152,7 +152,7 @@ Annapantsu:Prince Ali (Aladdin)::https://www.youtube.com/watch?v=buhxqbrY-Do
 Annapantsu:Rising Hope (The Irregular At Magic High School)::https://www.youtube.com/watch?v=pR6bKjI8VSE&list=PLL4sH3IVkDRRxIO-MQIk0wi9bSruZ-CwC&index=19
 Annapantsu:What's New Scooby-Doo (Scooby-Doo)::https://www.youtube.com/watch?v=YNKBcYtVQHQ
 Apollon de Moura:Cthulhu Awakens:b:https://www.youtube.com/watch?v=C7xBEsLmklc
-Arn Andersson:Wisdom Of The Ages:c:https://www.youtube.com/watch?v=xJptrq-Yquk
+Arn Andersson:Wisdom Of The Ages:i,c:https://www.youtube.com/watch?v=xJptrq-Yquk
 Astyria:Darkness Inside::https://www.youtube.com/watch?v=TPv71UXBkV4
 Auli'i Cravalho:How Far I'll Go (Moana)::https://www.youtube.com/watch?v=cPAbx5kgCJo
 Automachine:Live Free Or Die:c:https://www.youtube.com/watch?v=BycjCK6UHNI
@@ -200,14 +200,14 @@ Beth Crowley:Wild Heart::https://www.youtube.com/watch?v=Qk1LlQG8tbs&list=UUKiam
 Beth Crowley:With You::https://www.youtube.com/watch?v=D_IUHbot-Lg&list=UUKiamQNDwgPEj38TvPlsTBQ&index=72
 Beth Crowley:Worth It::https://www.youtube.com/watch?v=GrhPxnLMLqg&list=UUKiamQNDwgPEj38TvPlsTBQ&index=15
 Bill Conti:Gonna Fly Now::https://www.youtube.com/watch?v=ioE_O7Lm0I4
-Billie Ellish:Not Time To Die (James Bond: No Time To Die)::https://www.youtube.com/watch?v=GB_S2qFh5lU
+Billie Ellish:No Time To Die (James Bond No Time To Die)::https://www.youtube.com/watch?v=GB_S2qFh5lU
 Billy Boyd:The Last Goodbye::https://www.youtube.com/watch?v=oFORTe2T15U
 Bonnie Tyler:Holding Out For A Hero:c:https://www.youtube.com/watch?v=bWcASV2sey0
 Brian Delgado:I'm Vengeance:c:https://www.youtube.com/watch?v=vu5SbIb63FI
-Brian Delgado:My Sacrifice Will Not Be Forgotten:c:https://www.youtube.com/watch?v=KQNdZPPyPlk
+Brian Delgado:My Sacrifice Will Not Be Forgotten:i,c:https://www.youtube.com/watch?v=KQNdZPPyPlk
 Brooks And Dunn:Ain't Nothing 'Bout You::https://www.youtube.com/watch?v=SpJdhC5E8Vg
 Cabal Mind and Max Grigoryev:The World Of Fantasy:c,i:https://www.youtube.com/watch?v=fsD8Cd3VVbg	
-Cabal Mind:Bringing Law And Order:c:https://www.youtube.com/watch?v=Xm3_5DZgNME
+Cabal Mind:Bringing Law And Order:i,c:https://www.youtube.com/watch?v=Xm3_5DZgNME
 Cabal Mind:Distant Shatters:c,b:https://www.youtube.com/watch?v=d2Dv9e1sFn0
 Cabal Mind:Out Of The Flames:c,b:https://www.youtube.com/watch?v=aIgDu26jVGM
 Cabal Mind:Samain:c:https://www.youtube.com/watch?v=jYJuAoPzNLk
@@ -234,7 +234,7 @@ Cami-cat:Daybreak:c:https://www.youtube.com/watch?v=Fq4MoUMKOTE
 Caroline Jones:Rise::https://www.youtube.com/watch?v=Eu-xNin-iNk
 Chemistry:Period (Fullmetal Alchemist: Brotherhood):c:https://www.youtube.com/watch?v=KMZBauH47Jo
 Christian Reindl:Claim Your Weapon:c:https://www.youtube.com/watch?v=5EqdHxLoWFM
-Christopher Lennertz:A Future For The Krogan (Mass Effect 3)::https://www.youtube.com/watch?v=29IgcwhkUrI
+Christopher Lennertz:A Future For The Krogan (Mass Effect 3):i,c:https://www.youtube.com/watch?v=29IgcwhkUrI
 Citizen Soldier:Death Of Me:c:https://www.youtube.com/watch?v=ahMZEFLTm6U
 Citizen Soldier:Devil Inside:c:https://www.youtube.com/watch?v=B_9fg9PRKck
 Citizen Soldier:Found:c:https://www.youtube.com/watch?v=EdfhzKK3WJs
@@ -256,65 +256,65 @@ Clamavi De Profundis:Strong:c:https://www.youtube.com/watch?v=AxIPEnZpJdo
 Clamavi De Profundis:The Dragon Is Withered::https://www.youtube.com/watch?v=8xc89HmZFwE
 Clamavi De Profundis:The Song Of Hammerdeep::https://www.youtube.com/watch?v=y2EnV6wunZY
 Critical Roll:Legend of Vox Machina::https://www.youtube.com/watch?v=HUpfKPkDdRw
-Critical Roll:Your Turn to Roll::https://www.youtube.com/watch?v=LhFETREAvhc
+Critical Roll:Your Turn to Roll:c:https://www.youtube.com/watch?v=LhFETREAvhc
 Dan Vasc:I See Fire [cover]:c:https://www.youtube.com/watch?v=q204k5i9eh8
 Dan Vasc:I'll Make A Man Out Of You:c:https://www.youtube.com/watch?v=js7mx3EgiDU
 Dave Rodgers:Deja Vu:c:https://www.youtube.com/watch?v=tdeJiw6qMkA
 David Chappel:Heroes Never Die:c:https://www.youtube.com/watch?v=D6uTtpZf9Ko
 DHT:Listen To Your Heart::https://www.youtube.com/watch?v=x9U65tEwc8o
 Diane Taraz:Johnny Has Gone For a Soldier::https://www.youtube.com/watch?v=KqMgjqViB5c
-Dream Factory Music:Dawn Of A New World:c:https://www.youtube.com/watch?v=UiVYYQ_JlSQ
-Edvin Marton:Tchaikovsky Remix:c:https://www.youtube.com/watch?v=FwA25yJOQFY
-Efisio Cross:All Heroes Suffer:c,b:https://www.youtube.com/watch?v=BuqiymOs-Vs
-Efisio Cross:Almighty:c,b:https://www.youtube.com/watch?v=OrubM2bwE60
-Efisio Cross:As Long As God Loves Us::https://www.youtube.com/watch?v=PTZgVUxm0jk&t=198s
-Efisio Cross:Before The Apocalypse:c:https://www.youtube.com/watch?v=oyFXMFtkqT0
-Efisio Cross:By The Blood Of Our King:c:https://www.youtube.com/watch?v=d2SgNpyHbok
-Efisio Cross:Conqueror Of Hearts:c:https://www.youtube.com/watch?v=d0wIRikSdFE
-Efisio Cross:Crown Of Thorns::https://www.youtube.com/watch?v=OEi0zp-ZbVg
-Efisio Cross:Father Of The Orphans:c,b:https://www.youtube.com/watch?v=Eq0_W3Kh7Bo
-Efisio Cross:Hell Shall Perish:c:https://www.youtube.com/watch?v=4diJ-wu3FH4
-Efisio Cross:I Will Never Abandom You:c:https://www.youtube.com/watch?v=ay-2Q8a7yZU
-Efisio Cross:Invincible Messiah:c:https://www.youtube.com/watch?v=1qHmBT1E-Bo
-Efisio Cross:King Yeshua The Messiah::https://www.youtube.com/watch?v=hwIcv62WZ6A
-Efisio Cross:Kiss Me Before You Go::https://www.youtube.com/watch?v=LgIuzhEWHSI
-Efisio Cross:The Return Of The Christ:c:https://www.youtube.com/watch?v=1B2hJFaP0Mc&t=240s
-Efisio Cross:Through The Storms We Stand:c:https://www.youtube.com/watch?v=Mvf3iHo9whk
-Efisio Cross:Thy Sleep Shall Be Sweet::https://www.youtube.com/watch?v=dLxjaMKmkxs
-Efisio Cross:Viens Petite Rose:c:https://www.youtube.com/watch?v=Dgk3xq5g1GY
-Efisio Cross:Women Of Grace::https://www.youtube.com/watch?v=CpqUx1YkbkM
+Dream Factory Music:Dawn Of A New World:c,i:https://www.youtube.com/watch?v=UiVYYQ_JlSQ
+Edvin Marton:Tchaikovsky Remix:c,i:https://www.youtube.com/watch?v=FwA25yJOQFY
+Efisio Cross:All Heroes Suffer:c,b,i:https://www.youtube.com/watch?v=BuqiymOs-Vs
+Efisio Cross:Almighty:c,b,i:https://www.youtube.com/watch?v=OrubM2bwE60
+Efisio Cross:As Long As God Loves Us:i:https://www.youtube.com/watch?v=PTZgVUxm0jk&t=198s
+Efisio Cross:Before The Apocalypse:c,i:https://www.youtube.com/watch?v=oyFXMFtkqT0
+Efisio Cross:By The Blood Of Our King:c,i:https://www.youtube.com/watch?v=d2SgNpyHbok
+Efisio Cross:Conqueror Of Hearts:i,c:https://www.youtube.com/watch?v=d0wIRikSdFE
+Efisio Cross:Crown Of Thorns:i:https://www.youtube.com/watch?v=OEi0zp-ZbVg
+Efisio Cross:Father Of The Orphans:i,c,b:https://www.youtube.com/watch?v=Eq0_W3Kh7Bo
+Efisio Cross:Hell Shall Perish:c,i:https://www.youtube.com/watch?v=4diJ-wu3FH4
+Efisio Cross:I Will Never Abandom You:c,i:https://www.youtube.com/watch?v=ay-2Q8a7yZU
+Efisio Cross:Invincible Messiah:c,i:https://www.youtube.com/watch?v=1qHmBT1E-Bo
+Efisio Cross:King Yeshua The Messiah:i:https://www.youtube.com/watch?v=hwIcv62WZ6A
+Efisio Cross:Kiss Me Before You Go:i:https://www.youtube.com/watch?v=LgIuzhEWHSI
+Efisio Cross:The Return Of The Christ:c,i:https://www.youtube.com/watch?v=1B2hJFaP0Mc&t=240s
+Efisio Cross:Through The Storms We Stand:i,c:https://www.youtube.com/watch?v=Mvf3iHo9whk
+Efisio Cross:Thy Sleep Shall Be Sweet:i:https://www.youtube.com/watch?v=dLxjaMKmkxs
+Efisio Cross:Viens Petite Rose:i,c:https://www.youtube.com/watch?v=Dgk3xq5g1GY
+Efisio Cross:Women Of Grace:i:https://www.youtube.com/watch?v=CpqUx1YkbkM
 ElanyiMusic:Be Thou My Vision::https://www.youtube.com/watch?v=_VpSqAcLrDI&list=UUe32KL4vjDdhFurvCHfWU9Q&index=25
 ElanyiMusic:Footsteps::https://www.youtube.com/watch?v=dYVpb4dpWTE&list=UUe32KL4vjDdhFurvCHfWU9Q&index=9
 ElanyiMusic:Gone, Gone, Gone::https://www.youtube.com/watch?v=XcCjFlxDkc4&list=UUe32KL4vjDdhFurvCHfWU9Q&index=43
 ElanyiMusic:Oceans::https://www.youtube.com/watch?v=ssBmFi51z_k&list=UUe32KL4vjDdhFurvCHfWU9Q&index=26
 ElanyiMusic:What A Beautiful Name::https://www.youtube.com/watch?v=rXqd36oY7Jg&list=UUe32KL4vjDdhFurvCHfWU9Q&index=3
-End of Silence:From Hell To Glory:c:https://www.youtube.com/watch?v=gcnJD7q1YZc
-Ennio Morricone:The Good the Bad and the Ugly:c:https://www.youtube.com/watch?v=h1PfrmCGFnk
+End of Silence:From Hell To Glory:c,i:https://www.youtube.com/watch?v=gcnJD7q1YZc
+Ennio Morricone:The Good the Bad and the Ugly:c,i:https://www.youtube.com/watch?v=h1PfrmCGFnk
 Enya:May It Be::https://www.youtube.com/watch?v=i7MLT4MmAK8
 Epic Rock:No One Stands Alone:c:https://www.youtube.com/watch?v=s--xys1mv2g
-Epic Score:Liberators:c:https://www.youtube.com/watch?v=tjUpKDgM80k
-Epic Score:Siren's Call:c:https://www.youtube.com/watch?v=8NknmpdEEFI
+Epic Score:Liberators:c,i:https://www.youtube.com/watch?v=tjUpKDgM80k
+Epic Score:Siren's Call:c,i:https://www.youtube.com/watch?v=8NknmpdEEFI
 Eurielle:City Of The Dead::https://www.youtube.com/watch?v=5VInr-cSNNU
 Fall Out Boy:Immortals (Big Hero 6):c:https://www.youtube.com/watch?v=Y4o_8zbelwY
 Fall Out Boy:Lght Em Up:c:https://www.youtube.com/watch?v=LkIWmsP3c_s
-Fearless Motivation:Heroes Are Made By The Path They Choose:c:https://www.youtube.com/watch?v=I68LeM1d9EE
-Felicia Farerre:Secret Garden::https://www.youtube.com/watch?v=CCVZ8axb9nE
+Fearless Motivation:Heroes Are Made By The Path They Choose:c,i:https://www.youtube.com/watch?v=I68LeM1d9EE
+Felicia Farerre:Secret Garden:i:https://www.youtube.com/watch?v=CCVZ8axb9nE
 Fleurie:Breathe:c:https://www.youtube.com/watch?v=JE60q4Kf8f8
 Fleurie:Hurricane:c:https://www.youtube.com/watch?v=nZcf3oXfz5k
 Fleurie:Sirens:c:https://www.youtube.com/watch?v=RFXkdXBZCDE
 Fleurie:Soldier:c,b:https://www.youtube.com/watch?v=32W3J7XaNH8
 Florance + the machines:Jenny of Oldstones (Game Of Thrones):c:https://www.youtube.com/watch?v=eTa1jHk1Lxc
-Fox Sailer:A World of Knights and Dragons:c,b:https://www.youtube.com/watch?v=TPphu2_vcIE
-Fox Sailer:Albina:c:https://www.youtube.com/watch?v=GNNwAxEIyvE
-Fox Sailer:Belt of Orion:c:https://www.youtube.com/watch?v=CnBj-y1-jrg
-Fox Sailer:Climb To The Top::https://www.youtube.com/watch?v=ERumlrkBac4
-Fox Sailer:Cross The World:c:https://www.youtube.com/watch?v=V_dwrONAdnI
-Fox Sailer:Elven Kingdom:c:https://www.youtube.com/watch?v=jMuTP8Oq4Hc
-Fox Sailer:Lionheart:c:https://www.youtube.com/watch?v=9kKdHWg3jrU
-Fox Sailer:Lord of Fire:c:https://www.youtube.com/watch?v=OqkE6-Tb_nQ
-Fox Sailer:The Legend of the Sword:c:https://www.youtube.com/watch?v=A9qRtuUqfd0
-Fox Sailer:The Mainsail:c:https://www.youtube.com/watch?v=Q4ttJhAzII0
-Fox Sailer:Winter Morning::https://www.youtube.com/watch?v=-4hEpFvn9cw
+Fox Sailer:A World of Knights and Dragons:c,b,i:https://www.youtube.com/watch?v=TPphu2_vcIE
+Fox Sailer:Albina:c,i:https://www.youtube.com/watch?v=GNNwAxEIyvE
+Fox Sailer:Belt of Orion:c,i:https://www.youtube.com/watch?v=CnBj-y1-jrg
+Fox Sailer:Climb To The Top:i:https://www.youtube.com/watch?v=ERumlrkBac4
+Fox Sailer:Cross The World:c,i:https://www.youtube.com/watch?v=V_dwrONAdnI
+Fox Sailer:Elven Kingdom:c,i:https://www.youtube.com/watch?v=jMuTP8Oq4Hc
+Fox Sailer:Lionheart:c,i:https://www.youtube.com/watch?v=9kKdHWg3jrU
+Fox Sailer:Lord of Fire:c,i:https://www.youtube.com/watch?v=OqkE6-Tb_nQ
+Fox Sailer:The Legend of the Sword:c,i:https://www.youtube.com/watch?v=A9qRtuUqfd0
+Fox Sailer:The Mainsail:c,i:https://www.youtube.com/watch?v=Q4ttJhAzII0
+Fox Sailer:Winter Morning:i:https://www.youtube.com/watch?v=-4hEpFvn9cw
 Frostudio Chambersonic:Baby Shark:c,i:https://www.youtube.com/watch?v=_38FySusPuY
 Frostudio Chambersonic:Belle Epoque (Beauty and the Beast):i:https://www.youtube.com/watch?v=icXQ0mDjDYA
 Frostudio Chambersonic:Hymn of the Spirits (Frozen 2):c,i:https://www.youtube.com/watch?v=Eh7U1WWJwHU
@@ -356,8 +356,8 @@ Gentri:Let It Be [Beatles Cover]::https://www.youtube.com/watch?v=b3wu3RbVqd8
 Gentri:Made of Stone:c:https://www.youtube.com/watch?v=gZXVxCNf5sM&list=UU4KEno3vtFbQussF1SM-9Lg&index=17
 Gentri:More::https://www.youtube.com/watch?v=hE5k_aJL3IQ&list=UU4KEno3vtFbQussF1SM-9Lg&index=31
 Gentri:Soldier:c,b:https://www.youtube.com/watch?v=Jd_jXenFl1g&list=UU4KEno3vtFbQussF1SM-9Lg&index=63
-Globus:Madre Terra::https://www.youtube.com/watch?v=-cOz0WBoDLg
-Globus:Orchard Of Mines:c:https://www.youtube.com/watch?v=QvepGKH4hds
+Globus:Madre Terra:i:https://www.youtube.com/watch?v=-cOz0WBoDLg
+Globus:Orchard Of Mines:c,i:https://www.youtube.com/watch?v=QvepGKH4hds
 Gloria Gaynor:I will survive::https://www.youtube.com/watch?v=ARt9HV9T0w8
 Gloryhammer:Hootsforce::https://www.youtube.com/watch?v=BkUAzcja74Y
 Go Shiian:Reason (Zodiac War)::https://www.youtube.com/watch?v=jHzeUbtyjFE
@@ -379,52 +379,51 @@ Home Free:The Gambler::https://www.youtube.com/watch?v=ZZQXj7K-_1M&list=PLfWdh4X
 Human Design:King or  Not:c,b:https://www.youtube.com/watch?v=RonHnhK4GuQ
 Imagine Dragons:Birds::https://www.youtube.com/watch?v=vOXZkm9p_zY
 Imagine Dragons:Demons::https://www.youtube.com/watch?v=Tur7i37z8dI
-IMAscore:Winterstorm:c:https://www.youtube.com/watch?v=vXQnFG6Z5fE
-Immidiate Music:Follow Me:c:https://www.youtube.com/watch?v=unvPoKPbBIc
-Immidiate Music:Satellite Debris:c,b:https://www.youtube.com/watch?v=SBKpPS5E1q0
-Immidiate Music:Subversion Medley [medley]:c,b:https://www.youtube.com/watch?v=GtE41tlUeqU
+IMAscore:Winterstorm:c,i:https://www.youtube.com/watch?v=vXQnFG6Z5fE
+Immidiate Music:Follow Me:c,i:https://www.youtube.com/watch?v=unvPoKPbBIc
+Immidiate Music:Satellite Debris:c,b,i:https://www.youtube.com/watch?v=SBKpPS5E1q0
+Immidiate Music:Subversion Medley [medley]:c,b,i:https://www.youtube.com/watch?v=GtE41tlUeqU
 Indiana Evans:No Ordinary Girl (H2o Just Add Water)::https://www.youtube.com/watch?v=Am5X4lLROOU
-Intermediate Music:Dark Angel:c:https://www.youtube.com/watch?v=jZtjv1hsphM
-Intermediate Music:Fields of Glory Samply [medly]:c:https://www.youtube.com/watch?v=h7Swi97nn_c
+Intermediate Music:Dark Angel:c,i:https://www.youtube.com/watch?v=jZtjv1hsphM
+Intermediate Music:Fields of Glory Samply [medly]:c,i:https://www.youtube.com/watch?v=h7Swi97nn_c
 Intermediate Music:Survive the Game (Hunger Games|Catching Fire):c:https://www.youtube.com/watch?v=4I37V03oKVQ
-Intermediate Music:The End Of Days:c,b:https://www.youtube.com/watch?v=0Lf5HL_Z0vc
-Intermediate Music:The Mighty Shall Rise:c:https://www.youtube.com/watch?v=8eCLV434TCo
-Intermediate Music:We Made This War:c:https://www.youtube.com/watch?v=zX_cEhJfX2I
+Intermediate Music:The End Of Days:c,b,i:https://www.youtube.com/watch?v=0Lf5HL_Z0vc
+Intermediate Music:The Mighty Shall Rise:c,i:https://www.youtube.com/watch?v=8eCLV434TCo
+Intermediate Music:We Made This War:c,i:https://www.youtube.com/watch?v=zX_cEhJfX2I
 Ivan Torrent:Gallactic Invasion:c,i,b:https://www.youtube.com/watch?v=F8AEHMQP3LQ
 Ivan Torrent:Glimmer Of Hope:c,i:https://www.youtube.com/watch?v=ODgUlTAVMiU
-
 Ivan Torrent:Impossible [Featuring Rangel Da Silva]::https://www.youtube.com/watch?v=Bm5f_glnQ5M
 Jack Trammel:Sail:c:https://www.youtube.com/watch?v=fx8PJF8IFZY
 James Mraz:Have It All::https://www.youtube.com/watch?v=lCTVccHc5hA
 James Paget:Believe:c:https://www.youtube.com/watch?v=03m0YF9Npg8&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=3
-James Paget:Dream Revived::https://www.youtube.com/watch?v=5WpG_27mf98&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=10
-James Paget:Flight of The Swallows:c:https://www.youtube.com/watch?v=ToKM8RUq2mI&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=9
-James Paget:Free:c: https://www.youtube.com/watch?v=LN8qPacZa4c&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=5
-James Paget:Pluto Reborn:c:https://www.youtube.com/watch?v=Nmq20zaTVao&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=2
+James Paget:Dream Revived:i:https://www.youtube.com/watch?v=5WpG_27mf98&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=10
+James Paget:Flight of The Swallows:c,i:https://www.youtube.com/watch?v=ToKM8RUq2mI&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=9
+James Paget:Free:c:https://www.youtube.com/watch?v=LN8qPacZa4c&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=5
+James Paget:Pluto Reborn:c,i:https://www.youtube.com/watch?v=Nmq20zaTVao&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=2
 James Paget:Possibilities:c:https://www.youtube.com/watch?v=2EnCwKMrBco&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=3
-James Paget:Rubicon::https://www.youtube.com/watch?v=scL3KqBR3Bo&list=OLAK5uy_lh3whCMmBBaMauzr49AS13DbS5eJ-OD-U&index=5
+James Paget:Rubicon:i:https://www.youtube.com/watch?v=scL3KqBR3Bo&list=OLAK5uy_lh3whCMmBBaMauzr49AS13DbS5eJ-OD-U&index=5
 James Paget:Shine Bright:c:https://www.youtube.com/watch?v=LN8qPacZa4c&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=5
-James Paget:The Wondor of Gaia:c:https://www.youtube.com/watch?v=7TZUFrVQVMs&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=4
-James Paget:Throw Off the Bowlines:c:https://www.youtube.com/watch?v=aIHvr5zKquw&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=6
+James Paget:The Wondor of Gaia:c,i:https://www.youtube.com/watch?v=7TZUFrVQVMs&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=4
+James Paget:Throw Off the Bowlines:c,i:https://www.youtube.com/watch?v=aIHvr5zKquw&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=6
 Jefferson Airplane:White Rabbit::https://www.youtube.com/watch?v=dSAzIbo7zrY
 Jenn Sakura:Fear Not This Night::https://www.youtube.com/watch?v=9jRLwdNyX3w
 John Denver:Annie's Song::https://www.youtube.com/watch?time_continue=3&v=RNOTF-znQyw&feature=emb_title
-John Dreamer:Becoming A Legend:c:https://www.youtube.com/watch?v=toPm-L7Ib44
-John Dreamer:Rise:c:https://www.youtube.com/watch?v=qXJf6CVj4FM
+John Dreamer:Becoming A Legend:c,i:https://www.youtube.com/watch?v=toPm-L7Ib44
+John Dreamer:Rise:c,i:https://www.youtube.com/watch?v=qXJf6CVj4FM
 Johnny Cash:Ghost Riders In The Sky::https://www.youtube.com/watch?v=Mynzbmrtp9I
-Joseph William Morgan:Crazy Train:c:https://www.youtube.com/watch?v=HcvV_ezc5vw
+Joseph William Morgan:Crazy Train:c,i:https://www.youtube.com/watch?v=HcvV_ezc5vw
 Journey:Dopn't Stop Believing::https://www.youtube.com/watch?v=1k8craCGpgs
 Juice Newton:Angel Of the Morning::https://www.youtube.com/watch?v=HTzGMEfbnAw
 Katie Sky:Monsters::https://www.youtube.com/watch?v=k_C7WbeX-9c
 Kaylee Bryant:Stepping Into The Light (Legacies)::https://www.youtube.com/watch?v=hOy6YTm7xUU
 Kelly Clarkson:Behind These Hazel Eyes::https://www.youtube.com/watch?v=Dicb2NFI36s
 Kelly Clarkson:Breakaway::https://www.youtube.com/watch?time_continue=2&v=c-3vPxKdj6o&feature=emb_title
-Kenneth Cope:His Hands::https://www.youtube.com/watch?v=ZpsQQtknG-0
+Kenneth Cope:His Hands:s:https://www.youtube.com/watch?v=ZpsQQtknG-0
 Kenny Rogers:The Gambler::https://www.youtube.com/watch?reload=9&v=7hx4gdlfamo
-Kevin Simon:Doragon:c:https://www.youtube.com/watch?v=_8mM55uNmZ8
+Kevin Simon:Doragon:c,i:https://www.youtube.com/watch?v=_8mM55uNmZ8
 K'naan:Wavin' Flag::https://www.youtube.com/watch?v=WTJSt4wP2ME
-Laura Platt:Overwatch Trailer [Orchestral]:c:https://www.youtube.com/watch?v=DwUP87kxUyU
-Lauren Aquilina:King::https://www.youtube.com/watch?v=xywqsEsOY0g
+Laura Platt:Overwatch Trailer [Orchestral]:c,i:https://www.youtube.com/watch?v=DwUP87kxUyU
+Lauren Aquilina:King:i:https://www.youtube.com/watch?v=xywqsEsOY0g
 Lauren Daigle:You Say::https://www.youtube.com/watch?v=sIaT8Jl2zpI
 Lauren Paley:Come Little Children [Siren version]:b:https://www.youtube.com/watch?v=QzwNZL6epsk
 Lauren Paley:Jenny of Oldstones (Game Of Thrones)::https://www.youtube.com/watch?v=fTZgwpIvzC0
@@ -432,25 +431,25 @@ Lauren Paley:Jolly Sailor Bold + Secret Siren Call + Siren Song [mix]::https://w
 Lee Ann Womack:I Hope You Dance::https://www.youtube.com/watch?v=RV-Z1YwaOiw
 Lenka:Everything at once::https://www.youtube.com/watch?v=eE9tV1WGTgE
 Leriw Capaldi:Someone You Loved::https://www.youtube.com/watch?v=u1yVCeXYya4
-Lindsey Stirling:Charol Of The Bells::https://www.youtube.com/watch?v=EKkzbbLYPuI
+Lindsey Stirling:Charol Of The Bells:i,x:https://www.youtube.com/watch?v=EKkzbbLYPuI
 Lindsey Stirling:Shatter Me::https://www.youtube.com/watch?v=49tpIMDy9BE
-L'Orchestra Cinematique:Arrival To Earth:c:https://www.youtube.com/watch?v=dc94lhGnyNw
-L'Orchestra Cinematique:Avengers Theme [mashup]:c:https://www.youtube.com/watch?v=KwcVBZJd7_A
-L'Orchestra Cinematique:How Far I'll Go (Moana)::https://www.youtube.com/watch?v=zV7ZuQbBEes
-L'Orchestra Cinematique:I Put A Spell On You (Hocus Pocus)::https://www.youtube.com/watch?v=gjmpPIq2ArE
-L'Orchestra Cinematique:Imperial Suite (Star Wars):c:https://www.youtube.com/watch?v=qFPI341fCvI
-L'Orchestra Cinematique:Iron Man (Iron Man):c:https://www.youtube.com/watch?v=yPkq5YEFKgc
-L'Orchestra Cinematique:Megalovania (Undertale)::https://www.youtube.com/watch?v=N7wtU28qPFo
-L'Orchestra Cinematique:Pacific Rim Theme (Pacific Rim):c:https://www.youtube.com/watch?v=e_xsDCXhPaQ
-L'Orchestra Cinematique:Ride Of The Valkyries:c:https://www.youtube.com/watch?v=SKndcplfNhA
-L'Orchestra Cinematique:Rohan' Theme (Lord of the Rings):c:https://www.youtube.com/watch?v=1DT5vFQzaHc
-L'Orchestra Cinematique:Spider-Man Theme (Spider Man)::https://www.youtube.com/watch?v=gy3qIyOZwws
-L'Orchestra Cinematique:Statues (Harry Potter):c:https://www.youtube.com/watch?v=-4Lm8DP3Sm4
-L'Orchestra Cinematique:The Chronicles Of Narnia (The Chronicles of Narnia):c:https://www.youtube.com/watch?v=vELaj_kf7ps
-L'Orchestra Cinematique:The Polar Express (The Polar Express):x:https://www.youtube.com/watch?v=PlwuR22txFA
-L'Orchestra Cinematique:The Stranger Theme (The Stranger):c:https://www.youtube.com/watch?v=g82qKHcO6BU
-L'Orchestra Cinematique:This Is Halloween (The Nightmare Before Christmas)::https://www.youtube.com/watch?v=avqgOc6q68s
-L'Orchestra Cinematique:Toccata and Fugue in D Minor::https://www.youtube.com/watch?v=QcvjtvFEThU
+L'Orchestra Cinematique:Arrival To Earth (Transformers):c,i:https://www.youtube.com/watch?v=dc94lhGnyNw
+L'Orchestra Cinematique:Avengers Theme [mashup]:c,i:https://www.youtube.com/watch?v=KwcVBZJd7_A
+L'Orchestra Cinematique:How Far I'll Go (Moana):i:https://www.youtube.com/watch?v=zV7ZuQbBEes
+L'Orchestra Cinematique:I Put A Spell On You (Hocus Pocus):i:https://www.youtube.com/watch?v=gjmpPIq2ArE
+L'Orchestra Cinematique:Imperial Suite (Star Wars):c,i:https://www.youtube.com/watch?v=qFPI341fCvI
+L'Orchestra Cinematique:Iron Man (Iron Man):c,i:https://www.youtube.com/watch?v=yPkq5YEFKgc
+L'Orchestra Cinematique:Megalovania (Undertale):i:https://www.youtube.com/watch?v=N7wtU28qPFo
+L'Orchestra Cinematique:Pacific Rim Theme (Pacific Rim):c,i:https://www.youtube.com/watch?v=e_xsDCXhPaQ
+L'Orchestra Cinematique:Ride Of The Valkyries:c,i:https://www.youtube.com/watch?v=SKndcplfNhA
+L'Orchestra Cinematique:Rohan' Theme (Lord of the Rings):c,i:https://www.youtube.com/watch?v=1DT5vFQzaHc
+L'Orchestra Cinematique:Spider-Man Theme (Spider Man):i:https://www.youtube.com/watch?v=gy3qIyOZwws
+L'Orchestra Cinematique:Statues (Harry Potter):c,i:https://www.youtube.com/watch?v=-4Lm8DP3Sm4
+L'Orchestra Cinematique:The Chronicles Of Narnia (The Chronicles of Narnia):c,i:https://www.youtube.com/watch?v=vELaj_kf7ps
+L'Orchestra Cinematique:The Polar Express (The Polar Express):x,i:https://www.youtube.com/watch?v=PlwuR22txFA
+L'Orchestra Cinematique:The Stranger Theme (The Stranger):c,i:https://www.youtube.com/watch?v=g82qKHcO6BU
+L'Orchestra Cinematique:This Is Halloween (The Nightmare Before Christmas):h,i:https://www.youtube.com/watch?v=avqgOc6q68s
+L'Orchestra Cinematique:Toccata and Fugue in D Minor:i:https://www.youtube.com/watch?v=QcvjtvFEThU
 Louis II:Brighter Than Gold:c:https://www.youtube.com/watch?v=I6gpYWoqS44
 Luke Combs:Better Together::https://www.youtube.com/watch?v=vpTk5C2G078
 Makukah:May It Be (Lord Of The Rings)::https://www.youtube.com/watch?v=Zqo3dCxv20U
@@ -471,16 +470,16 @@ Max Grigoryev:Essence:c,i:https://www.youtube.com/watch?v=VLm1dVyrzME
 Max Grigoryev:The Sounds Of War:c,i,b:https://www.youtube.com/watch?v=uaQX2PrA57w
 Max Grigoryev:Chapter Of History:c,i:https://www.youtube.com/watch?v=TCCwodrSz6M
 Max Grigoryev:The Shadow of Death:c,i,b:https://www.youtube.com/watch?v=w7aI1wz3xZA
-Max Legend:Liberty:https:c://www.youtube.com/watch?v=kw6bDRKcC9I
-Mercedes Lackey:Battle Dawn:c:https://www.youtube.com/watch?v=CKEqKDvRdo4
+Max Legend:Liberty:https:c,i:https//www.youtube.com/watch?v=kw6bDRKcC9I
+Mercedes Lackey:Battle Dawn:c,i:https://www.youtube.com/watch?v=CKEqKDvRdo4
 Merethe Soltvedt:Dream On [cover]::https://www.youtube.com/watch?v=N2N9PrZONAI
 Merethe Soltvedt:Feeling Good::https://www.youtube.com/watch?v=gd-NWltR_3E
-Merethe Soltvedt:Luna::https://www.youtube.com/watch?v=l6H1A4pfs2w
-Merethe Soltvedt:Neverafter::https://www.youtube.com/watch?v=3fkIke15yF0
+Merethe Soltvedt:Luna:i:https://www.youtube.com/watch?v=l6H1A4pfs2w
+Merethe Soltvedt:Neverafter:i:https://www.youtube.com/watch?v=3fkIke15yF0
 Merethe Soltvedt:You Can Go Miles::https://www.youtube.com/watch?v=89lNxhl2pg8
 Michael Schulte:Back To The Start::https://www.youtube.com/watch?v=SF8OalDtKnQ
 Miley Syrus:Jolene::https://www.youtube.com/watch?v=wOwblaKmyVw
-Missing in Action:Ashes Remain:c:https://www.youtube.com/watch?v=IfWWJBcOX3U
+Missing in Action:Ashes Remain:c,i:https://www.youtube.com/watch?v=IfWWJBcOX3U
 Mufaya:A Warrior's Footsteps:c,i:https://www.youtube.com/watch?v=UMt5Z2Bnr7U
 Mufaya:The Last Spirit Guardian:c,i:https://www.youtube.com/watch?v=QM2BHc1UnMY
 Nathan Wagner:1,000 Lifetimes::https://www.youtube.com/watch?v=PWC2-8KfRdY&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=69
@@ -553,22 +552,22 @@ Peter Hollens:Skyrim Bard Song (Skyrim)::https://www.youtube.com/watch?v=VOvadjU
 Peter Hollens:Warrors:c:https://www.youtube.com/watch?v=llEfvrA4reY
 Peter Hollens:You will Be Found::https://www.youtube.com/watch?v=7uF_-ntCJM8
 Philip Phillips:Raging Fire::https://www.youtube.com/watch?v=aXRODrspQpc
-Piotr Wojtowicz:The Light Shall Never Fade::https://www.youtube.com/watch?v=W_XUirgO1kg
-Poitr Musical:Revolution:c:https://www.youtube.com/watch?v=yU3azvpIuXc
-Position Music:Fall Of Glory:c,b:https://www.youtube.com/watch?v=EfFESDS6ZzA
-Position Music:Hiraeth:c:https://www.youtube.com/watch?v=KiJ8xz4BogE
-Position Music:Meraki:c:https://www.youtube.com/watch?v=aS9rJcL3NDw
+Piotr Wojtowicz:The Light Shall Never Fade:i:https://www.youtube.com/watch?v=W_XUirgO1kg
+Poitr Musical:Revolution:c,i:https://www.youtube.com/watch?v=yU3azvpIuXc
+Position Music:Fall Of Glory:c,i,b:https://www.youtube.com/watch?v=EfFESDS6ZzA
+Position Music:Hiraeth:c,i:https://www.youtube.com/watch?v=KiJ8xz4BogE
+Position Music:Meraki:c,i:https://www.youtube.com/watch?v=aS9rJcL3NDw
 Rachel Hardy: Jenny of Oldstones (Game of Thrones):c:https://www.youtube.com/watch?v=KZ0eJ6Q54eE
 Rachel Hardy:May It Be (Lord Of The Rings)::https://www.youtube.com/watch?v=vQxmnU22kG0&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=14
-Rachel Hardy:Toss A Coin To Your Witcher::https://www.youtube.com/watch?v=g_87_sp6ROs&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=9
+Rachel Hardy:Toss A Coin To Your Witcher (The Witcher)::https://www.youtube.com/watch?v=g_87_sp6ROs&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=9
 Rachel Hardy:Wayfaring Stranger (1917)::https://www.youtube.com/watch?v=8oVGk3KzzY4&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=6
 Rachel Platton:Fight Song::https://www.youtube.com/watch?v=xo1VInw-SKc&feature=emb_title
-Really Slow Motion:Collapsing Universe:c:https://www.youtube.com/watch?v=ZcxH4wRZXoc
+Really Slow Motion:Collapsing Universe:c,i:https://www.youtube.com/watch?v=ZcxH4wRZXoc
 Richard Armitage:Misty Mountain Cold (The Hobbit)::https://www.youtube.com/watch?v=16QXu3E3NEU
 Rival x Cadmium:c:https://www.youtube.com/watch?v=kddC4gi72UE
 Rival:Let It Die::https://www.youtube.com/watch?v=3o1TwbGpxV4
 Robin Hustin x TobiMorrow:Light It Up:c:https://www.youtube.com/watch?v=bdE_SyHad90
-Ron Pope:A Drop In The Ocean::https://www.youtube.com/watch?v=mt8jifKlbTc
+Ron Pope:A Drop In The Ocean:s:https://www.youtube.com/watch?v=mt8jifKlbTc
 Ruelle:Carry You::https://www.youtube.com/watch?v=2Ek9n7B14w8&list=UU-Jo3qUcaJPx7fyUJXOjMyw&index=30
 Ruelle:Come Fly With Me:c:https://www.youtube.com/watch?v=IyYQXXI7U-g&list=UU-Jo3qUcaJPx7fyUJXOjMyw&index=23
 Ruelle:Dead of Night:c:https://www.youtube.com/watch?v=ltDGG5pdvds&list=UU-Jo3qUcaJPx7fyUJXOjMyw&index=33
@@ -593,40 +592,36 @@ Ruelle:Up In Flames:c:https://www.youtube.com/watch?v=DB9OB5wPFHk&list=UU-Jo3qUc
 Ruelle:Waves Of Gray:c,b:https://www.youtube.com/watch?v=_x-B8QO77F0&list=UU-Jo3qUcaJPx7fyUJXOjMyw&index=20
 RyanDan:Tears Of An Angel::https://www.youtube.com/watch?v=XIYj_QOvZ0c
 Sam Luff:Sign (Naruto)::https://www.youtube.com/watch?v=wa23UOWDjZ0
-Samuel Kim Music:Ahsoka Tano Theme::https://www.youtube.com/watch?v=QgIv22umB98&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=116
-Samuel Kim Music:Arrival To Earth + Hearts Of Courage (Mix):c:https://www.youtube.com/watch?v=GmjO6AOCSbc
-Samuel Kim Music:Ashoka Tano's Theme::https://www.youtube.com/watch?time_continue=2&v=QgIv22umB98&feature=emb_title
-Samuel Kim Music:Attack on Titan Theme (Attack on Titan):c,b:https://www.youtube.com/watch?v=BdgH0gFGVqs
-Samuel Kim Music:Avatar The Last Airbender Theme:c:https://www.youtube.com/watch?v=6N9SS6L0TDU&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=79
-Samuel Kim Music:Ben Solo Theme::https://www.youtube.com/watch?v=qsiL5r8Jgck&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=136
-Samuel Kim Music:Duel of the Fates:c:https://www.youtube.com/watch?v=PT7-JdKhzcU&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=183
-Samuel Kim Music:Forbidden Friendship (How To Train Your Dragon)::https://www.youtube.com/watch?v=YVtrB8k6iK4&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=18
-Samuel Kim Music:Halo Theme (Halo):c,b:https://www.youtube.com/watch?v=5-KidOOtZXs
+Samuel Kim Music:Arrival To Earth + Hearts Of Courage (Mix):c,i:https://www.youtube.com/watch?v=GmjO6AOCSbc
+Samuel Kim Music:Ashoka Tano's Theme:i:https://www.youtube.com/watch?time_continue=2&v=QgIv22umB98&feature=emb_title
+Samuel Kim Music:Attack on Titan Theme (Attack on Titan):c,b,i:https://www.youtube.com/watch?v=BdgH0gFGVqs
+Samuel Kim Music:Avatar The Last Airbender Theme:c,i:https://www.youtube.com/watch?v=6N9SS6L0TDU&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=79
+Samuel Kim Music:Ben Solo Theme:i:https://www.youtube.com/watch?v=qsiL5r8Jgck&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=136
+Samuel Kim Music:Duel of the Fates:c,i:https://www.youtube.com/watch?v=PT7-JdKhzcU&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=183
+Samuel Kim Music:Forbidden Friendship (How To Train Your Dragon):i:https://www.youtube.com/watch?v=YVtrB8k6iK4&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=18
+Samuel Kim Music:Halo Theme (Halo):c,b,i:https://www.youtube.com/watch?v=5-KidOOtZXs
 Samuel Kim Music:Hoist The Colors + What Shall We Die For (mix)::https://www.youtube.com/watch?v=GQt2mYCZYnw&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=1
 Samuel Kim Music:Hoist The Colours (Pirates of the Carribean):b,c:https://www.youtube.com/watch?v=4a1C2snQI5E
-Samuel Kim Music:How To Train Your Dragon Theme::https://www.youtube.com/watch?v=_iLHwp3Kxvw&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=49
-Samuel Kim Music:How To Train Your Dragon theme:c:https://www.youtube.com/watch?v=_iLHwp3Kxvw
-Samuel Kim Music:I'll Make A Man Out Of You (Mulan)::https://www.youtube.com/watch?v=rdbEJYS1wh4&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=130
-Samuel Kim Music:Its Our Fight and Battle [Mix]:c,b:https://www.youtube.com/watch?v=d6qkaTyyeAI
-Samuel Kim Music:Kai's Theme + Agni Kai (mix):c,b:https://www.youtube.com/watch?v=cml8Qo74zNQ&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=17
-Samuel Kim Music:Leaves From The Vine (Avatar The Last Airbender)::https://www.youtube.com/watch?v=vu9Bl4ZMOd0&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=27
-Samuel Kim Music:Loyal Brave True (Mulan)::https://www.youtube.com/watch?v=Dg4M-yt_RpQ&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=97
-Samuel Kim Music:Miles Morales Theme::https://www.youtube.com/watch?v=kmC0JVOWGHo
-Samuel Kim Music:Moff Gideon Theme (The Mandalorian):b,c:https://www.youtube.com/watch?v=gt8CLmRJSJk
-Samuel Kim Music:Resistance Theme (Star Wars):c:https://www.youtube.com/watch?v=jYGeZjQnVpc&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=85
-Samuel Kim Music:Rey's Theme::https://www.youtube.com/watch?v=-mR5QFrKC4g&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=167
-Samuel Kim Music:Rohan Theme (Lord of the Rings):c:https://www.youtube.com/watch?v=kUr0Tq-UgX0&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=40
-Samuel Kim Music:Sadness And Sorrow (Naruto)::https://www.youtube.com/watch?v=QXmLhbDlVFs
-Samuel Kim Music:Spider-Man Theme:c:https://www.youtube.com/watch?v=Hoc8VrYBDsY&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=201
-Samuel Kim Music:The Battle Theme (Chronicles Of Narnia):c:https://www.youtube.com/watch?v=yrNvfSsj2aY
-Samuel Kim Music:The Force Theme (Hans Zimmer Style):c:https://www.youtube.com/watch?v=6MjCnfoGTP8&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=173
-Samuel Kim Music:The Hobbit Theme::https://www.youtube.com/watch?v=ZyI8CxIm_P4
-Samuel Kim Music:The Hobbit Theme::https://www.youtube.com/watch?v=ZyI8CxIm_P4&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=89
-Samuel Kim Music:Toss A Coin To Your Witcher (The Witcher)::https://www.youtube.com/watch?v=PDtu2r8mYIw
-Samuel Kim Music:Toss A Coin To Your Witcher::https://www.youtube.com/watch?v=PDtu2r8mYIw&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=146
-Samuel Kim Music:Vode An and Clones Them [Mix]:c,b:https://www.youtube.com/watch?v=xpff8KnBA3I
-Samuel Kim Music:Wonder Woman 1984 Music::https://www.youtube.com/watch?v=QfIsdBDniE8&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=160
-Samuel Kin Music:Avengers Orchestral:c:https://www.youtube.com/watch?v=fGxdYs0_q1w
+Samuel Kim Music:How To Train Your Dragon theme (How To Train Your Dragon):c,i:https://www.youtube.com/watch?v=_iLHwp3Kxvw
+Samuel Kim Music:I'll Make A Man Out Of You (Mulan):i:https://www.youtube.com/watch?v=rdbEJYS1wh4&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=130
+Samuel Kim Music:Its Our Fight and Battle [Mix]:c,b,i:https://www.youtube.com/watch?v=d6qkaTyyeAI
+Samuel Kim Music:Kai's Theme + Agni Kai (mix):c,b,i:https://www.youtube.com/watch?v=cml8Qo74zNQ&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=17
+Samuel Kim Music:Leaves From The Vine (Avatar The Last Airbender):i:https://www.youtube.com/watch?v=vu9Bl4ZMOd0&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=27
+Samuel Kim Music:Loyal Brave True (Mulan):i:https://www.youtube.com/watch?v=Dg4M-yt_RpQ&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=97
+Samuel Kim Music:Miles Morales Theme:i:https://www.youtube.com/watch?v=kmC0JVOWGHo
+Samuel Kim Music:Moff Gideon Theme (The Mandalorian):b,c,i:https://www.youtube.com/watch?v=gt8CLmRJSJk
+Samuel Kim Music:Resistance Theme (Star Wars):c,i:https://www.youtube.com/watch?v=jYGeZjQnVpc&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=85
+Samuel Kim Music:Rey's Theme:i:https://www.youtube.com/watch?v=-mR5QFrKC4g&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=167
+Samuel Kim Music:Rohan Theme (Lord of the Rings):c,i:https://www.youtube.com/watch?v=kUr0Tq-UgX0&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=40
+Samuel Kim Music:Sadness And Sorrow (Naruto):i:https://www.youtube.com/watch?v=QXmLhbDlVFs
+Samuel Kim Music:Spider-Man Theme:c,i:https://www.youtube.com/watch?v=Hoc8VrYBDsY&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=201
+Samuel Kim Music:The Battle Theme (Chronicles Of Narnia):c,i:https://www.youtube.com/watch?v=yrNvfSsj2aY
+Samuel Kim Music:The Force Theme (Hans Zimmer Style):c,i:https://www.youtube.com/watch?v=6MjCnfoGTP8&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=173
+Samuel Kim Music:The Hobbit Theme:i:https://www.youtube.com/watch?v=ZyI8CxIm_P4
+Samuel Kim Music:Toss A Coin To Your Witcher (The Witcher):i:https://www.youtube.com/watch?v=PDtu2r8mYIw
+Samuel Kim Music:Vode An and Clones Them [Mix]:c,b,i:https://www.youtube.com/watch?v=xpff8KnBA3I
+Samuel Kim Music:Wonder Woman 1984 Music:i:https://www.youtube.com/watch?v=QfIsdBDniE8&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=160
+Samuel Kin Music:Avengers Orchestral:c,i:https://www.youtube.com/watch?v=fGxdYs0_q1w
 Samuel Kim Music:Star Wars Main Theme (Star Wars):c,i:https://www.youtube.com/watch?v=VQwM1oMzne4
 Samuel Kim Music:The Imperial March (Star Wars):i:https://www.youtube.com/watch?v=Sp9S6C55wQ8
 Samuel Kim Music:Order 66 theme (star wars):c,b,i:https://www.youtube.com/watch?v=wBLGSAipX2M
@@ -642,7 +637,7 @@ Samuel Kim Music:Something In The Way (The Batman) [cover]:c,i:https://www.youtu
 Samuel Kim Music:The Batman Theme x The Imperial March [mashup]:c,i,b:https://www.youtube.com/watch?v=zmeVHKr-Pd4
 Samuel Kim Music:DCTV Crisis on Infinite Earths Theme (Arrowverse)c,i:https://www.youtube.com/watch?v=YYFxsIhky6Q
 Sawano Hiroyuki:aLIEz (Aldnoah Zero):c:https://www.youtube.com/watch?v=wtW529XbOyU
-Shinedown:Atlas Fall:c:https://www.youtube.com/watch?v=YiVkAvm-BVE
+Shinedown:Atlas Fall:c,i:https://www.youtube.com/watch?v=YiVkAvm-BVE
 Shinedown:Attention Attention:c:https://www.youtube.com/watch?v=AwGbu4Hgj0Q
 Shinedown:Black Cadillac:c:https://www.youtube.com/watch?v=smvwKuqt_qU
 Shinedown:Black Soul:c:https://www.youtube.com/watch?v=LN-dyUPynBM
@@ -674,31 +669,31 @@ Smash Into Pieces:Colder::https://www.youtube.com/watch?v=5CZEvZMNrS4
 Smash Into Pieces:Everything They S4y::https://www.youtube.com/watch?v=R4_CCc6odBw
 Smash Into Pieces:Forever Alone:c:https://www.youtube.com/watch?v=mNgeWabM-us
 Smash Into Pieces:Higher:c:https://www.youtube.com/watch?v=D1o1LfiaXbk
-Smash Into Pieces:Into Light (Destiny 2):c:https://www.youtube.com/watch?v=uGIO-o2Uo3A
+Smash Into Pieces:Into Light (Destiny 2):c,i:https://www.youtube.com/watch?v=uGIO-o2Uo3A
 Smash Into Pieces:Mad World [cover]::https://www.youtube.com/watch?v=JoE7G6GLVU4
 Smash into Pieces:Stronger:c:https://www.youtube.com/watch?v=5n6RoXsrQ84
 Smash Into Pieces:The Chosen One:c:https://www.youtube.com/watch?v=mRYksAgNDaQ
 Smash Into Pieces:Wake Up:c:https://www.youtube.com/watch?v=JGoTxg-WQ2c
-Soundcritters:Unity::https://www.youtube.com/watch?v=AcW7KVQQu18
-Soundmopi:Return Of The Hero:c:https://www.youtube.com/watch?v=Tazx_vCZCv4
+Soundcritters:Unity:i:https://www.youtube.com/watch?v=AcW7KVQQu18
+Soundmopi:Return Of The Hero:c,i:https://www.youtube.com/watch?v=Tazx_vCZCv4
 State Of Mine:The Thunder Rolls [cover]:c:https://www.youtube.com/watch?v=4YS-CO2CRew
-Steve Jablonsky:Arrival To Earth:c:https://www.youtube.com/watch?v=0_FHPJIhNBw
-Steve Jablonsky:Sacrifice::https://www.youtube.com/watch?v=tpa0uDCHuY8
-Stormkeeper:The Summit:c:https://www.youtube.com/watch?v=Vz_ui_EHDgA
-Sub Pub Music:Over The Mountain:c:https://www.youtube.com/watch?v=yXFFdeGHXnM
-Supreme Devices:The Extremist:b,c:https://www.youtube.com/watch?v=521clZrK0d8
+Steve Jablonsky:Arrival To Earth (Transformers):c,i:https://www.youtube.com/watch?v=0_FHPJIhNBw
+Steve Jablonsky:Sacrifice:i:https://www.youtube.com/watch?v=tpa0uDCHuY8
+Stormkeeper:The Summit:c,i:https://www.youtube.com/watch?v=Vz_ui_EHDgA
+Sub Pub Music:Over The Mountain:c,i:https://www.youtube.com/watch?v=yXFFdeGHXnM
+Supreme Devices:The Extremist:b,c,i:https://www.youtube.com/watch?v=521clZrK0d8
 SVRCINA:Meet Me On The Battlefield::https://www.youtube.com/watch?v=GZrddJPGp1I
 Thausand Foot Krutch:Off The Rails:c:https://www.youtube.com/watch?v=9VON4tVuaKE
 The Animals:The House Of The Rising Sun::https://www.youtube.com/watch?v=0Fy7opKu46c
 The Cab:Angel With A Shotgun:c:https://www.youtube.com/watch?v=rQKMLmXc0xo
 The Charlie Daniels Band:The Devil Went Down To Georgia:c:https://www.youtube.com/watch?v=K6RUg-NkjY4
-The Danish National Symphony Orchestra:A fistful of Dollars:c:https://www.youtube.com/watch?v=4niv522mbtM&list=PLysPxrQwj2Ye15guvnfKb4N0Ahqbmn7Zl&index=40
+The Danish National Symphony Orchestra:A fistful of Dollars:c,i:https://www.youtube.com/watch?v=4niv522mbtM&list=PLysPxrQwj2Ye15guvnfKb4N0Ahqbmn7Zl&index=40
 The Danish National Symphony Orchestra:Mork er November::https://www.youtube.com/watch?v=iyIu_x36cVM&list=PLysPxrQwj2YcPqzrEsJ39MM9k6hmvLtAi&index=5
-The Danish National Symphony Orchestra:Narnia Suite:c:https://www.youtube.com/watch?v=nkcXqYaAFl0&list=PLysPxrQwj2YevRncX7gwFzXni4RuiKhka&index=10
-The Danish National Symphony Orchestra:Sherlock Suite:c:https://www.youtube.com/watch?v=CoI8ltxk30g&list=PLysPxrQwj2YdaokKTMGnujvTBAG9TNp8e&index=1
-The Danish National Symphony Orchestra:Star Trek::https://www.youtube.com/watch?v=Bfwiy9JQ-PI&list=PLysPxrQwj2Yf5zgXxNri8awObe3yf8bHj&index=13
-The Danish National Symphony Orchestra:The Good, the Bad and the Ugly:c:https://www.youtube.com/watch?v=enuOArEfqGo
-The Danish National Symphony Orchestra:Until We Go Down (Shannara Chronicles):c,b:https://www.youtube.com/watch?v=ykGBDHNP0v8&list=PLysPxrQwj2YevRncX7gwFzXni4RuiKhka&index=3
+The Danish National Symphony Orchestra:Narnia Suite:c,i:https://www.youtube.com/watch?v=nkcXqYaAFl0&list=PLysPxrQwj2YevRncX7gwFzXni4RuiKhka&index=10
+The Danish National Symphony Orchestra:Sherlock Suite:c,i:https://www.youtube.com/watch?v=CoI8ltxk30g&list=PLysPxrQwj2YdaokKTMGnujvTBAG9TNp8e&index=1
+The Danish National Symphony Orchestra:Star Trek:i:https://www.youtube.com/watch?v=Bfwiy9JQ-PI&list=PLysPxrQwj2Yf5zgXxNri8awObe3yf8bHj&index=13
+The Danish National Symphony Orchestra:The Good, the Bad and the Ugly:c,i:https://www.youtube.com/watch?v=enuOArEfqGo
+The Danish National Symphony Orchestra:Until We Go Down (Shannara Chronicles):c,i,b:https://www.youtube.com/watch?v=ykGBDHNP0v8&list=PLysPxrQwj2YevRncX7gwFzXni4RuiKhka&index=3
 The Danish National Symphony Orchestra:Vild::https://www.youtube.com/watch?v=4szJwOkYFFY&list=PLysPxrQwj2YcPqzrEsJ39MM9k6hmvLtAi&index=7
 The House On Cliff:The house of the rising sun::https://www.youtube.com/watch?v=2S9KipZ5F_g
 The Last Goodnight:Pictures Of You::https://www.youtube.com/watch?v=zmUtXrDBVtE
@@ -706,43 +701,43 @@ The Oh Hellos:Soldier, Poet, King::https://www.youtube.com/watch?v=pftwFnXNfkk
 The Partridge Family:I'll Meet You Halfway::https://www.youtube.com/watch?v=MU7psHBVyQE
 The Pieces:I will not be forgotton::https://www.youtube.com/watch?v=2gl0fb5NcEA
 The Real Ritchie Valens:La Bamba::https://www.youtube.com/watch?v=Jp6j5HJ-Cok
-The Score:Fire:c:https://www.youtube.com/watch?v=F4dctjz3tUk
+The Score:Fire:c,i:https://www.youtube.com/watch?v=F4dctjz3tUk
 The Score:Higher:c:https://www.youtube.com/watch?v=XclXvB1Gmnc
-The Score:Legend:c:https://www.youtube.com/watch?v=OjMnqnBSx2c
-The Score:Never Going Back:c:https://www.youtube.com/watch?v=vqNjxIZ6AnE
-The Score:Revolution:c:https://www.youtube.com/watch?v=b99r48grKGI
-The Score:Shakedown:c:https://www.youtube.com/watch?v=Rls-nEbHwXY
+The Score:Legend:c,i:https://www.youtube.com/watch?v=OjMnqnBSx2c
+The Score:Never Going Back:c,i:https://www.youtube.com/watch?v=vqNjxIZ6AnE
+The Score:Revolution:c,i:https://www.youtube.com/watch?v=b99r48grKGI
+The Score:Shakedown:c,i:https://www.youtube.com/watch?v=Rls-nEbHwXY
 The Score:Stronger:c,b:https://www.youtube.com/watch?v=cNld-AHw-Wg
-The Score:Unstoppable:c:https://www.youtube.com/watch?v=vZ-QMpCfPFo
+The Score:Unstoppable:c,i:https://www.youtube.com/watch?v=vZ-QMpCfPFo
 The Seekers:Georgy Girl::https://www.youtube.com/watch?v=wsIbfYEizLk
 The White Stripes:Seven Nation Army:c:https://www.youtube.com/watch?v=0J2QdDbelmY
-TheFatRat:Close to the Sun::https://www.youtube.com/watch?v=oJuGlqO85YI
+TheFatRat:Close to the Sun:i:https://www.youtube.com/watch?v=oJuGlqO85YI
 TheFatRat:Fly Away::https://www.youtube.com/watch?v=cMg8KaMdDYo
-TheFatRat:Monody::https://www.youtube.com/watch?v=B7xai5u_tnk
+TheFatRat:Monody:i:https://www.youtube.com/watch?v=B7xai5u_tnk
 TheFatRat:Never Be Alone::https://www.youtube.com/watch?v=Ic-gZlPFTkQ
-TheFatRat:The Calling::https://www.youtube.com/watch?v=KR-eV7fHNbM
-TheFatRat:Unity:c:https://www.youtube.com/watch?v=P7nF7jXF-Jg
-Thirty Seconds To Mars:This Is War:c:https://www.youtube.com/watch?v=hMAVLXk9QWA
-Thomas Bergersen: Rada:c:https://www.youtube.com/watch?v=u7j1Vn2TgLY
-Thomas Bergersen:A Place In Heaven:c:https://www.youtube.com/watch?v=8iHmWdbKp1w
-Thomas Bergersen:Age Of Gods:c:https://www.youtube.com/watch?v=wxtnFs7lpA4
-Thomas Bergersen:Brightest Smile [featuring Natalie Major]::https://www.youtube.com/watch?v=6nApHwqe25E
-Thomas Bergersen:Dreammaker:c:https://www.youtube.com/watch?v=k20NwCro8ig
-Thomas Bergersen:Empire Of Angels:c:https://www.youtube.com/watch?v=izsjRpcgfmk
-Thomas Bergersen:Empire Of Angels:c:https://www.youtube.com/watch?v=xcwnhQp7EyU
-Thomas Bergersen:Femme Fatale::https://www.youtube.com/watch?v=suUtJxccoaU
-Thomas Bergersen:Humanity [featuring Audrey Callahan]:c:https://www.youtube.com/watch?v=xvvY9vA9X78
-Thomas Bergersen:Humanity:c:https://www.youtube.com/watch?v=LC7ag6CqRus
-Thomas Bergersen:Hurt::https://www.youtube.com/watch?v=VbdTeKo14Jw
-Thomas Bergersen:Illusions:c:https://www.youtube.com/watch?v=Y1qzm3UUTrg
-Thomas Bergersen:Immortal:c:https://www.youtube.com/watch?v=o65GSQPRhhw
-Thomas Bergersen:In Orbit:c:https://www.youtube.com/watch?v=XW-hWnXA9X0
-Thomas Bergersen:Merchant Prince:c:https://www.youtube.com/watch?v=ZgSCNS851Rg
-Thomas Bergersen:Mountain Call:c:https://www.youtube.com/watch?v=ibufSTLNQrU
-Thomas Bergersen:Ocean Princess [featuring Merethe Soltvedt]:c:https://www.youtube.com/watch?v=kW3tKM2eJsw
-Thomas Bergersen:Sonera:c:https://www.youtube.com/watch?v=AC1w1FjAfqE
-Thomas Bergersen:Soulseeker:c:https://www.youtube.com/watch?v=0AIJEX7vQgg
-Thomas Burersen:Wings:c:https://www.youtube.com/watch?v=WVYiaboK1DI
+TheFatRat:The Calling:i:https://www.youtube.com/watch?v=KR-eV7fHNbM
+TheFatRat:Unity:c,i:https://www.youtube.com/watch?v=P7nF7jXF-Jg
+Thirty Seconds To Mars:This Is War:c,i:https://www.youtube.com/watch?v=hMAVLXk9QWA
+Thomas Bergersen: Rada:c,i:https://www.youtube.com/watch?v=u7j1Vn2TgLY
+Thomas Bergersen:A Place In Heaven:c,i:https://www.youtube.com/watch?v=8iHmWdbKp1w
+Thomas Bergersen:Age Of Gods:c,i:https://www.youtube.com/watch?v=wxtnFs7lpA4
+Thomas Bergersen:Brightest Smile [featuring Natalie Major]:i:https://www.youtube.com/watch?v=6nApHwqe25E
+Thomas Bergersen:Dreammaker:c,i:https://www.youtube.com/watch?v=k20NwCro8ig
+Thomas Bergersen:Empire Of Angels:c,i:https://www.youtube.com/watch?v=izsjRpcgfmk
+Thomas Bergersen:Empire Of Angels:c,i:https://www.youtube.com/watch?v=xcwnhQp7EyU
+Thomas Bergersen:Femme Fatale:i:https://www.youtube.com/watch?v=suUtJxccoaU
+Thomas Bergersen:Humanity [featuring Audrey Callahan]:c,i:https://www.youtube.com/watch?v=xvvY9vA9X78
+Thomas Bergersen:Humanity:c,i:https://www.youtube.com/watch?v=LC7ag6CqRus
+Thomas Bergersen:Hurt:i:https://www.youtube.com/watch?v=VbdTeKo14Jw
+Thomas Bergersen:Illusions:c,i:https://www.youtube.com/watch?v=Y1qzm3UUTrg
+Thomas Bergersen:Immortal:c,i:https://www.youtube.com/watch?v=o65GSQPRhhw
+Thomas Bergersen:In Orbit:c,i:https://www.youtube.com/watch?v=XW-hWnXA9X0
+Thomas Bergersen:Merchant Prince:c,i:https://www.youtube.com/watch?v=ZgSCNS851Rg
+Thomas Bergersen:Mountain Call:c,i:https://www.youtube.com/watch?v=ibufSTLNQrU
+Thomas Bergersen:Ocean Princess [featuring Merethe Soltvedt]:c,i:https://www.youtube.com/watch?v=kW3tKM2eJsw
+Thomas Bergersen:Sonera:c,i:https://www.youtube.com/watch?v=AC1w1FjAfqE
+Thomas Bergersen:Soulseeker:c,i:https://www.youtube.com/watch?v=0AIJEX7vQgg
+Thomas Burersen:Wings:c,i:https://www.youtube.com/watch?v=WVYiaboK1DI
 Thomas Burgersen:We Are One Beautiful People::https://www.youtube.com/watch?v=iTsz5x3abJA
 Thommee Profitt:Champion [Featuring Nicole Serrano]:c:https://www.youtube.com/watch?v=DSv_MCFhBQg
 Thousand Foot Krutch:All I Need To Know::https://www.youtube.com/watch?v=t5siAah-oMI
@@ -770,38 +765,38 @@ Thousand Foot Krutch:War Of Change:c:https://www.youtube.com/watch?v=Q-QhBfDnyNY
 Thousand Foot Krutch:We Are:c:https://www.youtube.com/watch?v=GqMbGQx05jg
 Todo:Africa::https://www.youtube.com/watch?v=FTQbiNvZqaY
 Tommee Profitt: Tomorrow We Fight [featuring Svrcina]:c:https://www.youtube.com/watch?v=xdrgTAt6Qxs
-Tommee Profitt:A Hero's Departure:c:https://www.youtube.com/watch?v=209A33_b0aQ
+Tommee Profitt:A Hero's Departure:c,i:https://www.youtube.com/watch?v=209A33_b0aQ
 Tommee Profitt:Believer [cover]:c:https://www.youtube.com/watch?v=yGnhEFeMNp8
 Tommee Profitt:Believer [cover]:c:https://www.youtube.com/watch?v=yGnhEFeMNp8
 Tommee Profitt:Breath (the Originals):c:https://www.youtube.com/watch?v=ADbpxe-e6O8
 Tommee Profitt:Can't Help Falling In Love (Dark Version) [cover]:c:https://www.youtube.com/watch?v=PDboeQfAsww
 Tommee Profitt:Can't Help Falling In Love (Light version) [cover]::https://www.youtube.com/watch?v=Bon37lZ5ZYA
-Tommee Profitt:Dark Conscience [Hedwig's Theme] (Harry Potter):c:https://www.youtube.com/watch?v=RQ5ROsgxDmg
-Tommee Profitt:Desolation:c,b:https://www.youtube.com/watch?v=0_Gge5bgHC8
+Tommee Profitt:Dark Conscience [Hedwig's Theme] (Harry Potter):c,i:https://www.youtube.com/watch?v=RQ5ROsgxDmg
+Tommee Profitt:Desolation:c,b,i:https://www.youtube.com/watch?v=0_Gge5bgHC8
 Tommee Profitt:Digging Deep:c:https://www.youtube.com/watch?v=ax2o3m8xXXs
 Tommee Profitt:Eye Of The Tiger [cover]:c:https://www.youtube.com/watch?v=Rk8QRRVxrOY
 Tommee Profitt:Gilligan's Island epic theme [Cover] (Gilligan's Island):c:https://www.youtube.com/watch?v=CnLaMJix26A
 Tommee Profitt:Gloria Regali [featuring Fleurie]:c:https://www.youtube.com/watch?v=fn_m9FDPuuw
-Tommee Profitt:Heroes Rise [featuring Sam Tinnesz]:c:https://www.youtube.com/watch?v=Gf5y1tiwg9M
-Tommee Profitt:Hold On For Your Life [featuring Sam Tinnesz] (Bull)::https://www.youtube.com/watch?v=x4nD8RucDU8
+Tommee Profitt:Heroes Rise [featuring Sam Tinnesz]:c,i:https://www.youtube.com/watch?v=Gf5y1tiwg9M
+Tommee Profitt:Hold On For Your Life [featuring Sam Tinnesz] (Bull):i:https://www.youtube.com/watch?v=x4nD8RucDU8
 Tommee Profitt:Hurricane [featuring Fleurie]::https://www.youtube.com/watch?v=3FV5w1ItblQ
 Tommee Profitt:I Know Your Secrets:c:https://www.youtube.com/watch?v=IGN3u8TBO4w
-Tommee Profitt:I'm Not Afraid [Featuring Wondra]:c:https://www.youtube.com/watch?v=telUyrGEZ5A
+Tommee Profitt:I'm Not Afraid [Featuring Wondra]:c,i:https://www.youtube.com/watch?v=telUyrGEZ5A
 Tommee Profitt:In The End [cover]:c:https://www.youtube.com/watch?v=8qLL2Gx3I_k
 Tommee Profitt:In The End [instrumental] [cover]::https://www.youtube.com/watch?v=aaVAFZiWGpA
 Tommee Profitt:In The End [Mellen Gi Remix] [featuring Fleurie]::https://www.youtube.com/watch?v=VHAYLOM0yEA
-Tommee Profitt:In The Zone:c:https://www.youtube.com/watch?v=D7L26eivNYE
-Tommee Profitt:Infidels At Bay:c:https://www.youtube.com/watch?v=aQB7rTBJliQ
+Tommee Profitt:In The Zone:c,i:https://www.youtube.com/watch?v=D7L26eivNYE
+Tommee Profitt:Infidels At Bay:c,i:https://www.youtube.com/watch?v=aQB7rTBJliQ
 Tommee Profitt:It's Got My Name On It [featuring Sarah Reeves]:c,b:https://www.youtube.com/watch?v=I8RbjeLH97s
 Tommee Profitt:It's Got My Name On It:c:https://www.youtube.com/watch?v=I8RbjeLH97s
 Tommee Profitt:Monsters [featuring Xeah]:c,b:https://www.youtube.com/watch?v=6UL1m5ZEPd0
-Tommee Profitt:Moonlight Sonata Mvt3::https://www.youtube.com/watch?v=aIprkYTGzDo
+Tommee Profitt:Moonlight Sonata Mvt3:i:https://www.youtube.com/watch?v=aIprkYTGzDo
 Tommee Profitt:Noble Blood:c:https://www.youtube.com/watch?v=WAkc8FS1WXk
 Tommee Profitt:Noel:x:https://www.youtube.com/watch?v=qDyA9W9CaeQ
 Tommee Profitt:Onward & Upward [featuring Fleurie]:c:https://www.youtube.com/watch?v=Tp4m5A2GM9U
 Tommee Profitt:Pyromania [featuring Royal and The Serpent]:c:https://www.youtube.com/watch?v=INVSK5kcOjE
-Tommee Profitt:Ready For War [featuring Liv Ash]:c:https://www.youtube.com/watch?v=lMiryutApRk
-Tommee Profitt:Remembrance::https://www.youtube.com/watch?v=08dVih0LNs8
+Tommee Profitt:Ready For War [featuring Liv Ash]:c,i:https://www.youtube.com/watch?v=lMiryutApRk
+Tommee Profitt:Remembrance:i:https://www.youtube.com/watch?v=08dVih0LNs8
 Tommee Profitt:Rescue [featuring Raine Wilder & Svrcina]::https://www.youtube.com/watch?v=BWQ_hm9HWmo
 Tommee Profitt:Shallow [cover] (A Star is Born)::https://www.youtube.com/watch?v=kAYOBD1xr-U
 Tommee Profitt:Shallow [cover]::https://www.youtube.com/watch?v=kAYOBD1xr-U
@@ -817,69 +812,69 @@ Tommee Profitt:Winter's Song:c:https://www.youtube.com/watch?v=kbJ1PZikcm0
 Tommee Profitt:With You Til The End [featuring Sam Tinnesz]::https://www.youtube.com/watch?v=eT_wKFBgYlo
 Tommee Profitt:Zero Tolerance [featuring Ruby Amanfu]:c:https://www.youtube.com/watch?v=wLyC-L-Bhe4
 Tommeee Profitt:Onward and Upward [Featuring Fleurie]::https://www.youtube.com/watch?v=Tp4m5A2GM9U
-Transformers:Honor To The End:c:https://www.youtube.com/watch?v=im9U5ngZ9Zs
-Transformers:It's Our Fight (Transformers)::https://www.youtube.com/watch?v=mRdwKq4meVY
-Two Steps From Hell:Age Of Gods:c:https://www.youtube.com/watch?v=wxtnFs7lpA4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=87
-Two Steps From Hell:Always Mine::https://www.youtube.com/watch?v=t62B1EzTmDg&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=79
-Two Steps From Hell:Amaria Silverbird (orchestral):c:https://www.youtube.com/watch?v=J6SrvLA1tRE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=94
+Transformers:Honor To The End (Transformers):c,i:https://www.youtube.com/watch?v=im9U5ngZ9Zs
+Transformers:It's Our Fight (Transformers):i:https://www.youtube.com/watch?v=mRdwKq4meVY
+Two Steps From Hell:Age Of Gods:c,i:https://www.youtube.com/watch?v=wxtnFs7lpA4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=87
+Two Steps From Hell:Always Mine:i:https://www.youtube.com/watch?v=t62B1EzTmDg&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=79
+Two Steps From Hell:Amaria Silverbird (orchestral):c,i:https://www.youtube.com/watch?v=J6SrvLA1tRE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=94
 Two Steps From Hell:BattleBorne:c:https://www.youtube.com/watch?v=MM9bi06JVV8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=66
-Two Steps From Hell:Birth Of A Hero:c:https://www.youtube.com/watch?v=zu93FnHm90g&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=57
-Two Steps From Hell:Black Blade:c,b:https://www.youtube.com/watch?v=HPe4G9BiIc4
-Two Steps From Hell:Blackheart:c:https://www.youtube.com/watch?v=vbttZVTSJRU&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=5
-Two Steps From Hell:Blackout:c:https://www.youtube.com/watch?v=JuvQit7JaZo
-Two Steps From Hell:Braveston:c:https://www.youtube.com/watch?v=AK85JgT5e0Q&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=54
-Two Steps From Hell:Bravestone:https://www.youtube.com/watch?v=AK85JgT5e0Q
-Two Steps From Hell:Cannon in D Minor:c:https://www.youtube.com/watch?v=RKmw9oS__MM&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=11
-Two Steps From Hell:Caradhras:c:https://www.youtube.com/watch?v=ZDci1jlOMQI
-Two Steps From Hell:Casablanca:c:https://www.youtube.com/watch?v=jTkPIl5KHJY
+Two Steps From Hell:Birth Of A Hero:c,i:https://www.youtube.com/watch?v=zu93FnHm90g&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=57
+Two Steps From Hell:Black Blade:c,b,i:https://www.youtube.com/watch?v=HPe4G9BiIc4
+Two Steps From Hell:Blackheart:c,i:https://www.youtube.com/watch?v=vbttZVTSJRU&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=5
+Two Steps From Hell:Blackout:c,i:https://www.youtube.com/watch?v=JuvQit7JaZo
+Two Steps From Hell:Braveston:c,i:https://www.youtube.com/watch?v=AK85JgT5e0Q&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=54
+Two Steps From Hell:Bravestone:i,c:https://www.youtube.com/watch?v=AK85JgT5e0Q
+Two Steps From Hell:Cannon in D Minor:c,i:https://www.youtube.com/watch?v=RKmw9oS__MM&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=11
+Two Steps From Hell:Caradhras:c,i:https://www.youtube.com/watch?v=ZDci1jlOMQI
+Two Steps From Hell:Casablanca:c,i:https://www.youtube.com/watch?v=jTkPIl5KHJY
 Two Steps From Hell:Children Of The Sun::https://www.youtube.com/watch?v=bpxtuUQ28UM&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=8
-Two Steps From Hell:Colors Of Love::https://www.youtube.com/watch?v=ZuGiwDQEvDc&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=20
-Two Steps From Hell:Compass::https://www.youtube.com/watch?v=GR3qkECLJbw&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=67
-Two Steps From Hell:Dragon Rider:c:https://www.youtube.com/watch?v=pKv_wua6kFE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=36
-Two Steps From Hell:Emerald Princess::https://www.youtube.com/watch?v=kBH-dO68ooA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=43
-Two Steps From Hell:Evergreen:c:https://www.youtube.com/watch?v=fZ1y_Z6Bc0M&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=42
-Two Steps From Hell:Fearless:c:https://www.youtube.com/watch?v=7SePx4QzzmY&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=46
-Two Steps From Hell:Flight Of The Siverbird:c:https://www.youtube.com/watch?v=n-Dh3ftkRAs&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=6
-Two Steps From Hell:For The Win:c:https://www.youtube.com/watch?v=rl_ndy61ON4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=16
-Two Steps From Hell:Freedom Fighters:c:https://www.youtube.com/watch?v=YP1QHVNHMAE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=41
-Two Steps From Hell:Freedom Ship::https://www.youtube.com/watch?v=w8GwTV1TAns&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=58
-Two Steps From Hell:Gife Of Love::https://www.youtube.com/watch?v=qgOoB4BeNso&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=91
-Two Steps From Hell:Heart Of Courage:c:https://www.youtube.com/watch?v=8NGtL3HUPUo&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=48
-Two Steps From Hell:High C's:c:https://www.youtube.com/watch?v=MdrPl_7LncU&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=97
+Two Steps From Hell:Colors Of Love:i:https://www.youtube.com/watch?v=ZuGiwDQEvDc&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=20
+Two Steps From Hell:Compass:i:https://www.youtube.com/watch?v=GR3qkECLJbw&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=67
+Two Steps From Hell:Dragon Rider:c,i:https://www.youtube.com/watch?v=pKv_wua6kFE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=36
+Two Steps From Hell:Emerald Princess:i:https://www.youtube.com/watch?v=kBH-dO68ooA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=43
+Two Steps From Hell:Evergreen:c,i:https://www.youtube.com/watch?v=fZ1y_Z6Bc0M&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=42
+Two Steps From Hell:Fearless:c,i:https://www.youtube.com/watch?v=7SePx4QzzmY&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=46
+Two Steps From Hell:Flight Of The Siverbird:c,i:https://www.youtube.com/watch?v=n-Dh3ftkRAs&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=6
+Two Steps From Hell:For The Win:c,i:https://www.youtube.com/watch?v=rl_ndy61ON4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=16
+Two Steps From Hell:Freedom Fighters:c,i:https://www.youtube.com/watch?v=YP1QHVNHMAE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=41
+Two Steps From Hell:Freedom Ship:i:https://www.youtube.com/watch?v=w8GwTV1TAns&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=58
+Two Steps From Hell:Gife Of Love:i:https://www.youtube.com/watch?v=qgOoB4BeNso&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=91
+Two Steps From Hell:Heart Of Courage:c,i:https://www.youtube.com/watch?v=8NGtL3HUPUo&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=48
+Two Steps From Hell:High C's:c,i:https://www.youtube.com/watch?v=MdrPl_7LncU&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=97
 Two Steps From Hell:I'll Stand Alone:c:https://www.youtube.com/watch?v=jHFIhJKeiww
-Two Steps From Hell:Immortal:c:https://www.youtube.com/watch?v=o65GSQPRhhw&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=34
-Two Steps From Hell:Impossible:c:https://www.youtube.com/watch?v=6qTghUgMOeY&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=3
-Two Steps From Hell:Jump:c:https://www.youtube.com/watch?v=NDypKtiDWdA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=71
-Two Steps From Hell:Magic Of Love::https://www.youtube.com/watch?v=t62B1EzTmDg&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=79
-Two Steps From Hell:Magika:c:https://www.youtube.com/watch?v=pbAt34gxdB0&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=101
-Two Steps From Hell:Nero:c:https://www.youtube.com/watch?v=7LtnLVRvypw&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=39
-Two Steps From Hell:Never Back Down:c:https://www.youtube.com/watch?v=uZTkg8GGEOo&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=15
-Two Steps From Hell:Never Give Up On Your Dreams:c:https://www.youtube.com/watch?v=V17ij5Ap1pA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=12
-Two Steps From Hell:Neverdark:c:https://www.youtube.com/watch?v=2nKqerDrg7M&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=47
-Two Steps From Hell:No Honor In Blood::https://www.youtube.com/watch?v=rNdZu0A6Qks&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=44
-Two Steps From Hell:Ocean Princess::https://www.youtube.com/watch?v=IwRPc2041Sc&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=49
-Two Steps From Hell:Protectors Of The Earth:c:https://www.youtube.com/watch?v=x5Q_TSNk-p4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=17
-Two Steps From Hell:Release Me::https://www.youtube.com/watch?v=8D26vYP1Nxc&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=72
-Two Steps From Hell:Riders:c:https://www.youtube.com/watch?v=2adbILDntC8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=83
-Two Steps From Hell:Run Free::https://www.youtube.com/wahitch?v=RKelBDsTae4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=63
-Two Steps From Hell:Sariel:c:https://www.youtube.com/watch?v=PMPefT3IUZ8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=19
-Two Steps From Hell:Secret Melody::https://www.youtube.com/watch?v=AfMV4ZC4AnA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=65
-Two Steps From Hell:See Me Fight:c:https://www.youtube.com/watch?v=qzzbi6Wev9A&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=85
-Two Steps From Hell:Star Sky (Instrumental):c:https://www.youtube.com/watch?v=NDypKtiDWdA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=76
-Two Steps From Hell:Star Sky:c:https://www.youtube.com/watch?v=pICAha0nsb0&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=2
-Two Steps From Hell:Starchild:c:https://www.youtube.com/watch?v=hguvzsLUD5E&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=61
-Two Steps From Hell:Starvation::https://www.youtube.com/watch?v=YnGaCAHhGfo&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=40
+Two Steps From Hell:Immortal:c,i:https://www.youtube.com/watch?v=o65GSQPRhhw&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=34
+Two Steps From Hell:Impossible:c,i:https://www.youtube.com/watch?v=6qTghUgMOeY&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=3
+Two Steps From Hell:Jump:c,i:https://www.youtube.com/watch?v=NDypKtiDWdA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=71
+Two Steps From Hell:Magic Of Love:i:https://www.youtube.com/watch?v=t62B1EzTmDg&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=79
+Two Steps From Hell:Magika:c,i:https://www.youtube.com/watch?v=pbAt34gxdB0&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=101
+Two Steps From Hell:Nero:c,i:https://www.youtube.com/watch?v=7LtnLVRvypw&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=39
+Two Steps From Hell:Never Back Down:c,i:https://www.youtube.com/watch?v=uZTkg8GGEOo&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=15
+Two Steps From Hell:Never Give Up On Your Dreams:c,i:https://www.youtube.com/watch?v=V17ij5Ap1pA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=12
+Two Steps From Hell:Neverdark:c,i:https://www.youtube.com/watch?v=2nKqerDrg7M&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=47
+Two Steps From Hell:No Honor In Blood:i:https://www.youtube.com/watch?v=rNdZu0A6Qks&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=44
+Two Steps From Hell:Ocean Princess:i:https://www.youtube.com/watch?v=IwRPc2041Sc&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=49
+Two Steps From Hell:Protectors Of The Earth:c,i:https://www.youtube.com/watch?v=x5Q_TSNk-p4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=17
+Two Steps From Hell:Release Me:i:https://www.youtube.com/watch?v=8D26vYP1Nxc&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=72
+Two Steps From Hell:Riders:c,i:https://www.youtube.com/watch?v=2adbILDntC8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=83
+Two Steps From Hell:Run Free:i:https://www.youtube.com/wahitch?v=RKelBDsTae4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=63
+Two Steps From Hell:Sariel:c,i:https://www.youtube.com/watch?v=PMPefT3IUZ8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=19
+Two Steps From Hell:Secret Melody:i:https://www.youtube.com/watch?v=AfMV4ZC4AnA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=65
+Two Steps From Hell:See Me Fight:c,i:https://www.youtube.com/watch?v=qzzbi6Wev9A&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=85
+Two Steps From Hell:Star Sky (Instrumental):c,i:https://www.youtube.com/watch?v=NDypKtiDWdA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=76
+Two Steps From Hell:Star Sky:c,i:https://www.youtube.com/watch?v=pICAha0nsb0&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=2
+Two Steps From Hell:Starchild:c,i:https://www.youtube.com/watch?v=hguvzsLUD5E&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=61
+Two Steps From Hell:Starvation:i:https://www.youtube.com/watch?v=YnGaCAHhGfo&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=40
 Two Steps From Hell:Stay::https://www.youtube.com/watch?v=ICYhocUr6aQ&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=88
-Two Steps From Hell:Stronger Faster Braver:c:https://www.youtube.com/watch?v=NDypKtiDWdA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=69
-Two Steps From Hell:The Colonel:c:https://www.youtube.com/watch?v=F_I3SY_E4fU&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=56
+Two Steps From Hell:Stronger Faster Braver:c,i:https://www.youtube.com/watch?v=NDypKtiDWdA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=69
+Two Steps From Hell:The Colonel:c,i:https://www.youtube.com/watch?v=F_I3SY_E4fU&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=56
 Two Steps From Hell:The Hero In Your Heart::https://www.youtube.com/watch?v=W6o64vhegms&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=98
-Two Steps From Hell:To Glory:c:https://www.youtube.com/watch?v=abjE9Qx0O60&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=31
-Two Steps From Hell:Two Hearts::https://www.youtube.com/watch?v=AHINPB_-wRA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=99
-Two Steps From Hell:Unbreakable:c:https://www.youtube.com/watch?v=MK-lwIGwp9Y&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=26
-Two Steps From Hell:Unforgiven:c:https://www.youtube.com/watch?v=EjIvnm0GBH8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=38
-Two Steps From Hell:Unleashed:c:https://www.youtube.com/watch?v=fO6Zrk-WZFE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=51
-Two Steps From Hell:Victory (Instrumental):c:https://www.youtube.com/watch?v=U6K-ZeqpO8k&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=35
-Two Steps From Hell:Victory:c:https://www.youtube.com/watch?v=hKRUPYrAQoE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=1
+Two Steps From Hell:To Glory:c,i:https://www.youtube.com/watch?v=abjE9Qx0O60&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=31
+Two Steps From Hell:Two Hearts:i:https://www.youtube.com/watch?v=AHINPB_-wRA&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=99
+Two Steps From Hell:Unbreakable:c,i:https://www.youtube.com/watch?v=MK-lwIGwp9Y&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=26
+Two Steps From Hell:Unforgiven:c,i:https://www.youtube.com/watch?v=EjIvnm0GBH8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=38
+Two Steps From Hell:Unleashed:c,i:https://www.youtube.com/watch?v=fO6Zrk-WZFE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=51
+Two Steps From Hell:Victory (Instrumental):c,i:https://www.youtube.com/watch?v=U6K-ZeqpO8k&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=35
+Two Steps From Hell:Victory:c,i:https://www.youtube.com/watch?v=hKRUPYrAQoE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=1
 Valley Of Wolves:Out For Blood:c:https://www.youtube.com/watch?v=6DHklmc5wBo
 VoicePlay:Oogie Boogie's Song:b:https://www.youtube.com/watch?v=EbxkOntz2SA
 War*Hall:All This Power:c:https://www.youtube.com/watch?v=NirFRYne3fo
@@ -925,4 +920,4 @@ Zayde Wolf:The Jungle:c:https://www.youtube.com/watch?v=aK4DLPw2gWQ
 Zayde Wolf:Top Of The World::https://www.youtube.com/watch?v=Sdy9PY0CVQ0
 Zayde Wolf:We Got The Power:c:https://www.youtube.com/watch?v=YWUUuVLZo6w
 ZHL242:The Force Theme:c:https://www.youtube.com/watch?v=plZ8cPbKNcc
-Zoe Benson:A Drop In The Ocean::https://www.youtube.com/watch?v=-QfTICrKVqM
+Zoe Benson:A Drop In The Ocean:s:https://www.youtube.com/watch?v=-QfTICrKVqM
