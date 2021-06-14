@@ -336,7 +336,7 @@ Frostudio Chambersonic:Dark Vuelie [cover]:c,i:https://www.youtube.com/watch?v=n
 Frostudio Chambersonic:Prince For A Dancing Queen:c,i:https://www.youtube.com/watch?v=jB44TSJtn8o
 Frostudio Chambersonic:Captain Sparrow (Pirates of the Carribean):i:https://www.youtube.com/watch?v=rzTklvRhgOY
 Frostudio Chambersonic:Speechless (Aladin):i,s:https://www.youtube.com/watch?v=TDQsaaiNVH8
-Frostudio Chambersonic:The Next Right Thing (Frozen 2):i:https://www.youtube.com/watch?v=hP0ajIN7mzY
+Frostudio Chambersonic:The Next Right Thing (Frozen 2):i,s:https://www.youtube.com/watch?v=hP0ajIN7mzY
 Frostudio Chambersonic:I'll Make a Man Out of You (Mulan):i:https://www.youtube.com/watch?v=D4Bbdf59vnw
 Frostudio Chambersonic:Let It Go (Frozen):i:https://www.youtube.com/watch?v=WqylDwL7oI4
 Frostudio Chambersonic:All is Found [cover] (Frozen 2):c,i:https://www.youtube.com/watch?v=Wg0Jg1FFq4c
@@ -356,7 +356,7 @@ Gentri:Let It Be [Beatles Cover]::https://www.youtube.com/watch?v=b3wu3RbVqd8
 Gentri:Made of Stone:c:https://www.youtube.com/watch?v=gZXVxCNf5sM&list=UU4KEno3vtFbQussF1SM-9Lg&index=17
 Gentri:More::https://www.youtube.com/watch?v=hE5k_aJL3IQ&list=UU4KEno3vtFbQussF1SM-9Lg&index=31
 Gentri:Soldier:c,b:https://www.youtube.com/watch?v=Jd_jXenFl1g&list=UU4KEno3vtFbQussF1SM-9Lg&index=63
-Globus:Madre Terra:i:https://www.youtube.com/watch?v=-cOz0WBoDLg
+Globus:Madre Terra:i,s:https://www.youtube.com/watch?v=-cOz0WBoDLg
 Globus:Orchard Of Mines:c:https://www.youtube.com/watch?v=QvepGKH4hds
 Gloria Gaynor:I will survive::https://www.youtube.com/watch?v=ARt9HV9T0w8
 Gloryhammer:Hootsforce::https://www.youtube.com/watch?v=BkUAzcja74Y
@@ -409,7 +409,7 @@ Jefferson Airplane:White Rabbit::https://www.youtube.com/watch?v=dSAzIbo7zrY
 Jenn Sakura:Fear Not This Night::https://www.youtube.com/watch?v=9jRLwdNyX3w
 John Denver:Annie's Song::https://www.youtube.com/watch?time_continue=3&v=RNOTF-znQyw&feature=emb_title
 John Dreamer:Becoming A Legend:c,i,s:https://www.youtube.com/watch?v=toPm-L7Ib44
-John Dreamer:Rise:c,i:https://www.youtube.com/watch?v=qXJf6CVj4FM
+John Dreamer:Rise:c,i,s:https://www.youtube.com/watch?v=qXJf6CVj4FM
 Johnny Cash:Ghost Riders In The Sky::https://www.youtube.com/watch?v=Mynzbmrtp9I
 Joseph William Morgan:Crazy Train:c,i:https://www.youtube.com/watch?v=HcvV_ezc5vw
 Journey:Dopn't Stop Believing::https://www.youtube.com/watch?v=1k8craCGpgs
@@ -631,7 +631,7 @@ Samuel Kim Music:Giorno's Theme (JoJo's Bizare Adventure):i:https://www.youtube.
 Samuel Kim Music:Kakyoin's Theme (JoJo's Bizarre Adventure):i,c:https://www.youtube.com/watch?v=mZ_ZwWJsSk4
 Samuel Kim Music:Gurenge (Demon Slayer) [featuring Unravel] [attack on titan style]:c:https://www.youtube.com/watch?v=UWCwnnO0SuI
 Samuel Kim Music:Kamado Tanjiro no Uta [featuring Call of Silence] (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=Nq5MPsZiyyk
-Samuel Kim Music:Rengoku Theme [Demon Slayer]:c,i:https://www.youtube.com/watch?v=SVhHhtG4DPM
+Samuel Kim Music:Rengoku Theme [Demon Slayer]:c,i,s:https://www.youtube.com/watch?v=SVhHhtG4DPM
 Samuel Kim Music:Inosuke Theme (Demon Slayer):c,i:https://www.youtube.com/watch?v=mp_t-oMycyE&list=PL9PLUrw0CbcS0ZQNU4S32zwShVmWFE_rN&index=22
 Samuel Kim Music:The Clones Theme (Star Wars):c,i:https://www.youtube.com/watch?v=UM_XVDG4Xto
 Samuel Kim Music:Something In The Way (The Batman) [cover]:c,i:https://www.youtube.com/watch?v=IHHQm4MeoV0
@@ -660,6 +660,12 @@ Shinedown:Unity:c:https://www.youtube.com/watch?v=_gVdi6sizeY
 Sia:Unstroppable:c:https://www.youtube.com/watch?v=_PO04wGyxzw
 Simple Plan:In:c:https://www.youtube.com/watch?v=Mgj3dWR9i4Y
 Skillet:Feel Invincible:c,b:https://www.youtube.com/watch?v=Qzw6A2WC5Qo
+Skillet:Stars:c:https://www.youtube.com/watch?v=TbLJyjfyACM
+Skillet:I Want To Live:c:https://www.youtube.com/watch?v=KQcY1aj9XTI
+Skillet:Brave:s:https://www.youtube.com/watch?v=4A3NqfV994k
+Skillet:Famous:c:https://www.youtube.com/watch?v=4wIo7pFpiIc
+Skillet:Lions:c:https://www.youtube.com/watch?v=DzjfNI2XEBs
+
 Skylar Grey:Love The Way You Lie::https://www.youtube.com/watch?v=py60E_EvlcY
 Smash Into Pieces:A Friend Like You::https://www.youtube.com/watch?v=ezq_WbEc1TU
 Smash Into Pieces:All Eyes On You:c:https://www.youtube.com/watch?v=tSQ6CyyPatM
@@ -727,7 +733,7 @@ Thomas Bergersen:Dreammaker:c,i:https://www.youtube.com/watch?v=k20NwCro8ig
 Thomas Bergersen:Empire Of Angels:c,i,s:https://www.youtube.com/watch?v=izsjRpcgfmk
 Thomas Bergersen:Empire Of Angels:c,i,s:https://www.youtube.com/watch?v=xcwnhQp7EyU
 Thomas Bergersen:Femme Fatale:i:https://www.youtube.com/watch?v=suUtJxccoaU
-Thomas Bergersen:Humanity [featuring Audrey Callahan]:c,i:https://www.youtube.com/watch?v=xvvY9vA9X78
+Thomas Bergersen:Humanity [featuring Audrey Callahan]:c,i,s:https://www.youtube.com/watch?v=xvvY9vA9X78
 Thomas Bergersen:Humanity:c,i:https://www.youtube.com/watch?v=LC7ag6CqRus
 Thomas Bergersen:Hurt:i:https://www.youtube.com/watch?v=VbdTeKo14Jw
 Thomas Bergersen:Illusions:c,i:https://www.youtube.com/watch?v=Y1qzm3UUTrg
@@ -787,7 +793,7 @@ Tommee Profitt:In The End [cover]:c:https://www.youtube.com/watch?v=8qLL2Gx3I_k
 Tommee Profitt:In The End [instrumental] [cover]::https://www.youtube.com/watch?v=aaVAFZiWGpA
 Tommee Profitt:In The End [Mellen Gi Remix] [featuring Fleurie]::https://www.youtube.com/watch?v=VHAYLOM0yEA
 Tommee Profitt:In The Zone:c,i:https://www.youtube.com/watch?v=D7L26eivNYE
-Tommee Profitt:Infidels At Bay:c,i:https://www.youtube.com/watch?v=aQB7rTBJliQ
+Tommee Profitt:Infidels At Bay:c,i,s:https://www.youtube.com/watch?v=aQB7rTBJliQ
 Tommee Profitt:It's Got My Name On It [featuring Sarah Reeves]:c,b:https://www.youtube.com/watch?v=I8RbjeLH97s
 Tommee Profitt:It's Got My Name On It:c:https://www.youtube.com/watch?v=I8RbjeLH97s
 Tommee Profitt:Monsters [featuring Xeah]:c,b:https://www.youtube.com/watch?v=6UL1m5ZEPd0
@@ -817,7 +823,7 @@ Transformers:Honor To The End (Transformers):c,i:https://www.youtube.com/watch?v
 Transformers:It's Our Fight (Transformers):i:https://www.youtube.com/watch?v=mRdwKq4meVY
 Two Steps From Hell:Age Of Gods:c,i:https://www.youtube.com/watch?v=wxtnFs7lpA4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=87
 Two Steps From Hell:Always Mine:i:https://www.youtube.com/watch?v=t62B1EzTmDg&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=79
-Two Steps From Hell:Amaria Silverbird (orchestral):c,i:https://www.youtube.com/watch?v=J6SrvLA1tRE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=94
+Two Steps From Hell:Amaria Silverbird (orchestral):c,i,s:https://www.youtube.com/watch?v=J6SrvLA1tRE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=94
 Two Steps From Hell:BattleBorne:c:https://www.youtube.com/watch?v=MM9bi06JVV8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=66
 Two Steps From Hell:Birth Of A Hero:c,i:https://www.youtube.com/watch?v=zu93FnHm90g&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=57
 Two Steps From Hell:Black Blade:c,b,i:https://www.youtube.com/watch?v=HPe4G9BiIc4
