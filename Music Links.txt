@@ -400,6 +400,7 @@ Globus:Orchard Of Mines:c:https://www.youtube.com/watch?v=QvepGKH4hds
 Gloria Gaynor:I will survive::https://www.youtube.com/watch?v=ARt9HV9T0w8
 Gloryhammer:Hootsforce::https://www.youtube.com/watch?v=BkUAzcja74Y
 Go Shiian:Reason (Zodiac War)::https://www.youtube.com/watch?v=jHzeUbtyjFE
+Green Day:Boulevard Of Broken Dreams:c:https://www.youtube.com/watch?v=Soa3gO7tL-c
 Grandson:Blood // Water::https://www.youtube.com/watch?v=Sk-U8ruIQyA
 Heart:Stairway to Heaven::https://www.youtube.com/watch?v=LFxOaDeJmXk
 Hidden Citizens:Aint No Grave:c:https://www.youtube.com/watch?v=9w11qnvcJFA
@@ -725,6 +726,7 @@ Shinedown:Special::https://www.youtube.com/watch?v=0Ab81gCsplQ&list=UUv7Bgr5Mq-d
 Shinedown:Thick As Thieves:c:https://www.youtube.com/watch?v=eg3k1c9e74Y
 Shinedown:Unity:c:https://www.youtube.com/watch?v=_gVdi6sizeY
 Sia:Unstroppable:c:https://www.youtube.com/watch?v=_PO04wGyxzw
+Shikata Akiko:Akatsuki (Yona Of The Dawn) [ending 2]::https://www.youtube.com/watch?v=Y8QYYSrNilQ
 Simple Plan:In:c:https://www.youtube.com/watch?v=Mgj3dWR9i4Y
 Simon Khorolskiy:Poor Wayfaring Stranger (1917):c,i,s:https://www.youtube.com/watch?v=G2GOlOv05YY
 Skillet:Feel Invincible:c,b:https://www.youtube.com/watch?v=Qzw6A2WC5Qo
