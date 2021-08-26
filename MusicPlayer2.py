@@ -73,7 +73,8 @@ def playSong(URL):
     URL = "https:"+URL
     #get the audio link
     video = pafy.new(URL)
-    audio = video.getbestaudio()
+    #audio = video.getbestaudio()
+    audio = video.getbest()
     playurl = audio.url
 
     #play the audio
@@ -117,7 +118,7 @@ def playerController(command):
         songArray = getData(fileArray[number])
 
         #ensure that the song's genre listing contains the genre set
-        if(genre in songGenre):
+        if(genre in songGenre and 's' not in songGenre):
             say(command)
             playSong(songURL)
             print("\n"*30)
