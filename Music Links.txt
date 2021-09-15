@@ -271,7 +271,7 @@ Cjbeards:Love You:c:https://www.youtube.com/watch?v=nA6hTk30KpI
 Cjbeards:Climb:c,i,b:https://www.youtube.com/watch?v=1S1lxItqGyY
 Cjbeards:Let It Burn:c,b:https://www.youtube.com/watch?v=ALi6es4KNeg
 Cjbeards:Brave The Storm:c,i,s:https://www.youtube.com/watch?v=dGmLKmxvJ0I
-
+Strive To Be:A Great Work [featuring Nik Day] (2021 Youth Album):s:https://www.youtube.com/watch?v=xJHQQDoBfdg
 Citizen Soldier:Death Of Me:c:https://www.youtube.com/watch?v=ahMZEFLTm6U
 Citizen Soldier:Devil Inside:c:https://www.youtube.com/watch?v=B_9fg9PRKck
 Citizen Soldier:Found:c:https://www.youtube.com/watch?v=EdfhzKK3WJs
@@ -417,13 +417,18 @@ Hidden Citizens:Heroes Fall:c,b:https://www.youtube.com/watch?time_continue=1&v=
 Hidden Citizens:It's A Sin::https://www.youtube.com/watch?v=PP7IxnP5Wik
 Hidden Citizens:Paint It Black:c,b:https://www.youtube.com/watch?v=BaXSbsZoYnU
 Hidden Citizens:Run Run Rebel::https://www.youtube.com/watch?v=mTuTsqCo4uE
-Hiroyuki Sawano:Perfect Time:c:https://www.youtube.com/watch?v=v3nLH9vF6Hg
+Hiroyuki Sawano:Perfect Time:c:https://www.youtube.com/watch?v=5-Ltm-3lmss
 Hitomi Mieno:Dearest (I My Me, Strawberry Eggs)::https://www.youtube.com/watch?v=jI5cMVpjtBk
 Home Free:Everybody Walkin' This Land:c,b:https://www.youtube.com/watch?v=q5H1i2GBxEc
 Home Free:God Bless The USA:s:https://www.youtube.com/watch?v=SrMftm6Km3g&list=PLfWdh4XTtIqnVcLdXTjXzvv_ahtWOC2S7&index=7
 Home Free:The Gambler::https://www.youtube.com/watch?v=ZZQXj7K-_1M&list=PLfWdh4XTtIqnVcLdXTjXzvv_ahtWOC2S7&index=4
 Home Free:Sea Shanty Medly:c,s:https://www.youtube.com/watch?v=lLGLUSzzuWU
 Human Design:King or  Not:c,b:https://www.youtube.com/watch?v=RonHnhK4GuQ
+Hillsong Worship:Hosanna:s:https://www.youtube.com/watch?v=KBWhgjuzgzw
+Hillsong Worship:King Of Kings [acoustic]:s:https://www.youtube.com/watch?v=tl7ckz0iPoU
+Hillsong Worship:Who You Say I Am:s:https://www.youtube.com/watch?v=RiRKTvqsnlw
+Hillsong Worship:King Of Kings:s:https://www.youtube.com/watch?v=Of5IcFWiEpg
+Hillsong Worship:What a Beautiful Name:s:https://www.youtube.com/watch?v=8GV9pQo4wZo
 Imagine Dragons:Birds::https://www.youtube.com/watch?v=vOXZkm9p_zY
 Imagine Dragons:Demons::https://www.youtube.com/watch?v=Tur7i37z8dI
 IMAscore:Winterstorm:c,i:https://www.youtube.com/watch?v=vXQnFG6Z5fE
@@ -512,7 +517,7 @@ Max Grigoryev:The Unsubdued:c,i,s:https://www.youtube.com/watch?v=QASjLo7CstY
 Max Grigoryev:Bright Future Tomorrow:c,i:https://www.youtube.com/watch?v=AnfwNZWowVg
 Max Grigoryev:Way To Valhalla:c,i:https://www.youtube.com/watch?v=rUBvh7-NVlc
 Max Grigoryev:The Last Crusade Knights:c,i:https://www.youtube.com/watch?v=05gH4x5MmLs
-Max Grigoryev:птичка:c,i:https://www.youtube.com/watch?v=_5GrvvtuaIs
+Max Grigoryev:птичка:c,i,s:https://www.youtube.com/watch?v=_5GrvvtuaIs
 Max Grigoryev:The Future:c,i:https://www.youtube.com/watch?v=3kDYqyqwqpI
 Max Grigoryev:Devestation:c,b,i:https://www.youtube.com/watch?v=7urRhuDM6cI
 Max Grigoryev:Essence:c,i:https://www.youtube.com/watch?v=VLm1dVyrzME
@@ -547,8 +552,11 @@ Michael Schulte:Back To The Start::https://www.youtube.com/watch?v=SF8OalDtKnQ
 Miley Syrus:Jolene::https://www.youtube.com/watch?v=wOwblaKmyVw
 Maho Studios:Blue Rose Knows (By The Grace Of The Gods)::https://www.youtube.com/watch?v=taYpbN8fd-o
 Missing in Action:Ashes Remain:c,i:https://www.youtube.com/watch?v=IfWWJBcOX3U
+Morris Le Veritable:Wayfaring Stranger (1917) [Orchestral]:c,s:https://www.youtube.com/watch?v=mEM2THbEZQU
 Mufaya:A Warrior's Footsteps:c,i:https://www.youtube.com/watch?v=UMt5Z2Bnr7U
 Mufaya:The Last Spirit Guardian:c,i,s:https://www.youtube.com/watch?v=QM2BHc1UnMY
+Mufaya:Rebroken Main Theme (Rebroken):c,i:https://www.youtube.com/watch?v=HuRYQdsynvA
+Mufaya:Free Shipping Inc Main Theme (Free Shipping Inc):i:https://www.youtube.com/watch?v=N0cgOKHoMxY
 Nathan Wagner:1,000 Lifetimes::https://www.youtube.com/watch?v=PWC2-8KfRdY&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=69
 Nathan Wagner:Burn:c:https://www.youtube.com/watch?v=gStLzynyYJo&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=76
 Nathan Wagner:Deception:c:https://www.youtube.com/watch?v=lYdepUeRpXs&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=68
@@ -564,7 +572,7 @@ Nathan Wagner:Kiss Under The Rain::https://www.youtube.com/watch?v=roLO-B0ARRw&l
 Nathan Wagner:Light:c:https://www.youtube.com/watch?v=U4x3cPzOy9c&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=64
 Nathan Wagner:Lonely::https://www.youtube.com/watch?v=5vzMmfQlBH4&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=101
 Nathan Wagner:Lost Souls:c:https://www.youtube.com/watch?v=LTrk0zwkF3o&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=83
-Nathan Wagner:Mad World [cover]:c:https://www.youtube.com/watch?v=q5GLeLKpoV0&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=20
+Nathan Wagner:Mad World [cover]::https://www.youtube.com/watch?v=q5GLeLKpoV0&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=20
 Nathan Wagner:Man of Stone::https://www.youtube.com/watch?v=qZOllrRG2G0&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=84
 Nathan Wagner:My Demons [cover]:c:https://www.youtube.com/watch?v=xYEgK27VpDo&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=17
 Nathan Wagner:Numb [cover]:c:https://www.youtube.com/watch?v=Ls4aMA2Gr8s&list=UUHbuxE4Q21o_QnGohSiBVNQ&index=36
@@ -739,7 +747,7 @@ Shikata Akiko:Akatsuki (Yona Of The Dawn) [ending 2]::https://www.youtube.com/wa
 Simple Plan:In:c:https://www.youtube.com/watch?v=Mgj3dWR9i4Y
 Simon Khorolskiy:Poor Wayfaring Stranger (1917):c,i,s:https://www.youtube.com/watch?v=G2GOlOv05YY
 Skillet:Feel Invincible:c,b:https://www.youtube.com/watch?v=Qzw6A2WC5Qo
-Skillet:Stars:c:https://www.youtube.com/watch?v=TbLJyjfyACM
+Skillet:Stars:s:https://www.youtube.com/watch?v=TbLJyjfyACM
 Skillet:I Want To Live:c:https://www.youtube.com/watch?v=KQcY1aj9XTI
 Skillet:Brave:s:https://www.youtube.com/watch?v=4A3NqfV994k
 Skillet:Famous:c:https://www.youtube.com/watch?v=4wIo7pFpiIc
@@ -829,6 +837,7 @@ Thomas Bergersen:Dreammaker:c,i:https://www.youtube.com/watch?v=k20NwCro8ig
 Thomas Bergersen:Empire Of Angels:c,i,s:https://www.youtube.com/watch?v=izsjRpcgfmk
 Thomas Bergersen:Empire Of Angels:c,i,s:https://www.youtube.com/watch?v=xcwnhQp7EyU
 Thomas Bergersen:Femme Fatale:i:https://www.youtube.com/watch?v=suUtJxccoaU
+Thomas Bergersen:Orbital:s:https://www.youtube.com/watch?v=8LHxk2L1OnY
 Thomas Bergersen:Humanity [featuring Audrey Callahan]:c,i,s:https://www.youtube.com/watch?v=xvvY9vA9X78
 Thomas Bergersen:Humanity:c,i:https://www.youtube.com/watch?v=LC7ag6CqRus
 Thomas Bergersen:Hurt:i:https://www.youtube.com/watch?v=VbdTeKo14Jw
@@ -840,7 +849,7 @@ Thomas Bergersen:Mountain Call:c,i:https://www.youtube.com/watch?v=ibufSTLNQrU
 Thomas Bergersen:Ocean Princess [featuring Merethe Soltvedt]:c,i:https://www.youtube.com/watch?v=kW3tKM2eJsw
 Thomas Bergersen:Sonera:c:https://www.youtube.com/watch?v=AC1w1FjAfqE
 Thomas Bergersen:Soulseeker:c,i,s:https://www.youtube.com/watch?v=0AIJEX7vQgg
-Thomas Burersen:Wings:c,i:https://www.youtube.com/watch?v=WVYiaboK1DI
+Thomas Bergersen:Wings:c,i:https://www.youtube.com/watch?v=WVYiaboK1DI
 Thomas Burgersen:We Are One Beautiful People::https://www.youtube.com/watch?v=iTsz5x3abJA
 Thommee Profitt:Champion [Featuring Nicole Serrano]:c:https://www.youtube.com/watch?v=DSv_MCFhBQg
 Thousand Foot Krutch:All I Need To Know::https://www.youtube.com/watch?v=t5siAah-oMI
@@ -898,7 +907,7 @@ Tommee Profitt:Noble Blood:c:https://www.youtube.com/watch?v=WAkc8FS1WXk
 Tommee Profitt:Noel:x:https://www.youtube.com/watch?v=qDyA9W9CaeQ
 Tommee Profitt:Onward & Upward [featuring Fleurie]:c:https://www.youtube.com/watch?v=Tp4m5A2GM9U
 Tommee Profitt:Pyromania [featuring Royal and The Serpent]:c:https://www.youtube.com/watch?v=INVSK5kcOjE
-Tommee Profitt:Ready For War [featuring Liv Ash]:c,i:https://www.youtube.com/watch?v=lMiryutApRk
+Tommee Profitt:Ready For War [featuring Liv Ash]:c:https://www.youtube.com/watch?v=lMiryutApRk
 Tommee Profitt:Remembrance:i,s:https://www.youtube.com/watch?v=08dVih0LNs8
 Tommee Profitt:Rescue [featuring Raine Wilder & Svrcina]::https://www.youtube.com/watch?v=BWQ_hm9HWmo
 Tommee Profitt:Shallow [cover] (A Star is Born)::https://www.youtube.com/watch?v=kAYOBD1xr-U
@@ -918,6 +927,7 @@ Tommeee Profitt:Onward and Upward [Featuring Fleurie]::https://www.youtube.com/w
 Transformers:Honor To The End (Transformers):c,i:https://www.youtube.com/watch?v=im9U5ngZ9Zs
 Transformers:It's Our Fight (Transformers):i:https://www.youtube.com/watch?v=mRdwKq4meVY
 Two Steps From Hell:Age Of Gods:c,i:https://www.youtube.com/watch?v=wxtnFs7lpA4&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=87
+Two Steps From Hell:Legion Of Faith:c,i,s:https://www.youtube.com/watch?v=pMZgRCO_y-M
 Two Steps From Hell:Always Mine:i:https://www.youtube.com/watch?v=t62B1EzTmDg&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=79
 Two Steps From Hell:Amaria Silverbird (orchestral):c,i,s:https://www.youtube.com/watch?v=J6SrvLA1tRE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=94
 Two Steps From Hell:BattleBorne:c:https://www.youtube.com/watch?v=MM9bi06JVV8&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=66
@@ -925,6 +935,10 @@ Two Steps From Hell:Birth Of A Hero:c,i:https://www.youtube.com/watch?v=zu93FnHm
 Two Steps From Hell:Black Blade:c,b,i:https://www.youtube.com/watch?v=HPe4G9BiIc4
 Two Steps From Hell:Blackheart:c,i:https://www.youtube.com/watch?v=vbttZVTSJRU&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=5
 Two Steps From Hell:Blackout:c,i:https://www.youtube.com/watch?v=JuvQit7JaZo
+Thomas Bergersen:Materialize:i,s:https://www.youtube.com/watch?v=wfrzqGKF5IA
+Thomas Bergersen:We Are Legends [short version]:c,i,s:https://www.youtube.com/watch?v=9k_m4_PYlsI
+Two Steps From Hell:Fate Unknown:c,b,i:https://www.youtube.com/watch?v=9I1Kw9-AcEE
+Two Steps From Hell:White Witch [no choir]:i,s:https://www.youtube.com/watch?v=esz_31vqZCQ
 Two Steps From Hell:Braveston:c,i:https://www.youtube.com/watch?v=AK85JgT5e0Q&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=54
 Two Steps From Hell:Bravestone:i,c:https://www.youtube.com/watch?v=AK85JgT5e0Q
 Two Steps From Hell:Cannon in D Minor:c,i:https://www.youtube.com/watch?v=RKmw9oS__MM&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=11
@@ -978,6 +992,20 @@ Two Steps From Hell:Unforgiven:c,i:https://www.youtube.com/watch?v=EjIvnm0GBH8&l
 Two Steps From Hell:Unleashed:c,i:https://www.youtube.com/watch?v=fO6Zrk-WZFE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=51
 Two Steps From Hell:Victory (Instrumental):c,i:https://www.youtube.com/watch?v=U6K-ZeqpO8k&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=35
 Two Steps From Hell:Victory:c,i:https://www.youtube.com/watch?v=hKRUPYrAQoE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=1
+Two Steps From Hell:Nightwing:c,i:https://www.youtube.com/watch?v=m0gy3BDmeZA
+Two Steps From Hell:Nighthawk:c,i,s:https://www.youtube.com/watch?v=U-c1fBoyBPc
+Two Steps From Hell:Lonely Are The Brave:c,i,s:https://www.youtube.com/watch?v=25v3SZWw_CY
+Two Steps From Hell:Dragonwing:c,i:https://www.youtube.com/watch?v=qad3rIJ9tsE
+Two Steps From Hell:Riders Of The Apocolypse:c,i:https://www.youtube.com/watch?v=jEtlpzYtLXs
+Two Steps From Hell:Wild Heart:c,s,i:https://www.youtube.com/watch?v=r-Bkyj1TJ6g
+Two Steps From Hell:Rune:c:https://www.youtube.com/watch?v=xX2_9aSVtp8
+Thomas Bergersen:One Million Voices:c,i,s:https://www.youtube.com/watch?v=qmN4jzEr7TE
+Thomas Bergersen:Imagine:s:https://www.youtube.com/watch?v=g9sZVgdDQr0
+Thomas Bergersen:All Hands On Deck:c,s:https://www.youtube.com/watch?v=TSAj0qV2kB4
+Two Steps From Hell:Dangerous [instrumental]:https://www.youtube.com/watch?v=NRELLWp2ul8
+Thomas Bergersen:Dear Mr. Alien:c,i,s:https://www.youtube.com/watch?v=_DaR1J0Cl8I
+Two Steps From Hell:Descendant Of The Sun [Featuring Felicia Farerre]:c,i,s:https://www.youtube.com/watch?v=iwJ0Jdp0tLo
+
 Twelve Titans Music:Duality:c,i,s:https://www.youtube.com/watch?v=8uC4ZoJW3QA
 Twelve Titans Music:From The Ashes Reborn:c,i,s:https://www.youtube.com/watch?v=bvp6UlxYPwc
 Twelve Titans Music:On The Shore Of Forever:c,i,s:https://www.youtube.com/watch?v=umM9HWvBgfI
