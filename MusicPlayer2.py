@@ -145,7 +145,7 @@ def command():
     global genre
     #timeout = player.get_length()
     timeout = 0
-    print("\n\n\ncommand? ('toggle' = pause/play, 'next' = next, 'combat' = combat, 'normal' = normal, 'boss' = boss, 'instrumental' = instrumental)\n")
+    print("\n\n\ncommand? ('toggle' = pause/play, 'next' = next, 'combat' = combat, 'normal' = normal, 'boss' = boss, 'instrumental' = instrumental, 'depressing' = depressing)\n")
 
     input1 = ""
 
@@ -194,6 +194,10 @@ def command():
     if input1 == 'boss':
         genre = 'b'
         print('boss genre')
+        
+    if input1 == 'depressing':
+        genre = 'd'
+        print('depressing genre')
 
     if input1 == 'exit':
         print('exiting')
