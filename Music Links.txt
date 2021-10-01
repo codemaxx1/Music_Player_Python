@@ -17,20 +17,32 @@
 :Nightcore A Drop In The Ocean::https://www.youtube.com/watch?v=168VjhTWGiM
 :Nightcore A Million Dreams::https://www.youtube.com/watch?v=KsHVjO-936g
 :Nightcore Africa::https://www.youtube.com/watch?v=OpVcSeHAPI4
-:Nightcore Africa::https://www.youtube.com/watch?v=OpVcSeHAPI4
+:Nightcore Fire On Fire:n:https://www.youtube.com/watch?v=u8EHpqQ7dVg
+Sam Smith:Fire On Fire (Watership Down)::https://www.youtube.com/watch?v=vk_xq1P7vIU
 :Nightcore My Name Is:c:https://www.youtube.com/watch?v=jmZCjEpiTXo
 :Nightcore All I Know::https://www.youtube.com/watch?v=7ZgBuVv4dVU
+Kodaline:Brother:d:https://www.youtube.com/watch?v=m6TXPNybrmk
+:Nightcore Brother:n,d:https://www.youtube.com/watch?v=1SpAisqmRQc 
+Beyond Gaia's Horizon:How To Train Your Dragon Theme (How To Train Your Dragon):i:https://www.youtube.com/watch?v=3MwX5CHG6WE
 :Nightcore Already Gone::https://www.youtube.com/watch?v=vMcp4luIHdQ
 :Nightcore Angel of the Morning::https://www.youtube.com/watch?v=7PyWds66hvs
 :Nightcore Angel With A Shotgun:c:https://www.youtube.com/watch?v=cvaIgq5j2Q8
 :Nightcore Talking To The Moon::https://www.youtube.com/watch?v=STri3oj2nUw
 :Nightcore Army::https://www.youtube.com/watch?v=fNNhfN_ZtCk
 :Nightcore Arrival To Earth (Transformers):c:https://www.youtube.com/watch?v=HcomWaqjwnc
+:Nightcore Dark Horse::https://www.youtube.com/watch?v=0QHgh9hIVkA
+Beyond Gaia's Horizon:He's A Pirate (Pirates of the Caribbean):i:https://www.youtube.com/watch?v=YZk-nMQ1DkU
+:Nightcore I Think I'm In Love::https://www.youtube.com/watch?v=UfwPbtHeOKY
+Beyond Gaia's Horizon:Faded:i,s:https://www.youtube.com/watch?v=ErgLmgnKXZQ
+Beyond Gaia's Horizon:Faded [remix]:i,c,s:https://www.youtube.com/watch?v=s-oQ08lJvys
+Beyond Gaia's Horizon:Time (Inception):i,c:https://www.youtube.com/watch?v=p6VoW20flHU
 :Nightcore Back To The Start::https://www.youtube.com/watch?v=wHAFcQzY7PbM
 :Nightcore Bad Liar::https://www.youtube.com/watch?v=4OcdJzbOLb8
+:Nightcore Hallelujah:n:https://www.youtube.com/watch?v=fuqb8JWaR2I
 :Nightcore Battle Cry::https://www.youtube.com/watch?v=jp09ktChKOo
 :Nightcore Be Alright::https://www.youtube.com/watch?v=gT8Mn0WOK6k
 :Nightcore Believer::https://www.youtube.com/watch?v=9dQNoOWjLWk
+:Nightcore Silent Scream:n,d:https://www.youtube.com/watch?v=hURKoqiWeD8https://www.youtube.com/watch?v=qrjWwCGsYuM
 :Nightcore Born For This:c:https://www.youtube.com/watch?v=W_J1kTajcao
 :Nightcore Boulevard Of Broken Dreams::https://www.youtube.com/watch?v=iW5fN65oNls
 :Nightcore Angel Of Darkness::https://www.youtube.com/watch?v=baBVGXfOBXA
@@ -53,6 +65,7 @@
 :Nightcore Fight Song::https://www.youtube.com/watch?v=jB71xKfszmA
 :Nightcore Final Countdown (Remix):c:https://www.youtube.com/watch?v=ZKsDPKshanY
 :Nightcore Flesh and Bone::https://www.youtube.com/watch?v=RZVwHvPF-ds
+Haruka Chisuga:Pray (Angels of Death):d:https://www.youtube.com/watch?v=WB7S9C-UZys
 :Nightcore God is a Girl::https://www.youtube.com/watch?v=TiVIFMbwxOc
 :Nightcore Hard To Kill:c,b:https://www.youtube.com/watch?v=yG-K_MIbOVQ
 :Nightcore Heart of Courage (Remix):i,c:https://www.youtube.com/watch?v=7SbnOio8LCQ
@@ -84,6 +97,8 @@
 :Nightcore Rise:c:https://www.youtube.com/watch?v=MH-oUqxsyX4
 :Nightcore Runnin'::https://www.youtube.com/watch?v=yb1Err8hvzE
 :Nightcore I Scare Myself::https://www.youtube.com/watch?v=OWhLh9vBnng
+Plumb:I Want You Here:d:https://www.youtube.com/watch?v=7ukQ7nxFTUc
+:Nightcore I Want You Here:d:https://www.youtube.com/watch?v=tswnZTjAtm8
 :Nightcore Savages::https://www.youtube.com/watch?v=3WaXX7F-sNc
 :Nightcore Savior::https://www.youtube.com/watch?v=vfqZ5tgBaeQ
 :Nightcore Seven Nation Army [Female Version]:c:https://www.youtube.com/watch?v=SewpndxZDl0
@@ -99,6 +114,7 @@
 :Nightcore Rewrite The Stars::https://www.youtube.com/watch?v=pcLZdYEAAzM
 :Nightcore Drag Me Down::https://www.youtube.com/watch?v=frx_yogdSEg
 :Nightcore Unbreakable::https://www.youtube.com/watch?v=VGzVxRJm3eI
+:Nichtcore Stronger Than My Storm:c:https://www.youtube.com/watch?v=taml4eWywC4
 :Nightcore This Is It:c:https://www.youtube.com/watch?v=_LjR8cayt2c
 :Nightcore This is What I Live For:c:https://www.youtube.com/watch?v=vt9QTF00WQ8
 :Nightcore Unstoppable:c:https://www.youtube.com/watch?v=xYzwcftQ158
@@ -302,6 +318,7 @@ David Chappel:Heroes Never Die:c:https://www.youtube.com/watch?v=D6uTtpZf9Ko
 DHT:Listen To Your Heart::https://www.youtube.com/watch?v=x9U65tEwc8o
 Diane Taraz:Johnny Has Gone For a Soldier::https://www.youtube.com/watch?v=KqMgjqViB5c
 Dream Factory Music:Dawn Of A New World:c,i:https://www.youtube.com/watch?v=UiVYYQ_JlSQ
+Guy Sebastion:Battle Scars [featuring Lupe]:c:https://www.youtube.com/watch?v=hrdi_dUL5J4
 Edvin Marton:Tchaikovsky Remix:c,i:https://www.youtube.com/watch?v=FwA25yJOQFY
 Efisio Cross:All Heroes Suffer:c,b,i,s:https://www.youtube.com/watch?v=BuqiymOs-Vs
 Efisio Cross:Almighty:c,b,i,s:https://www.youtube.com/watch?v=OrubM2bwE60
@@ -337,18 +354,28 @@ Epic Score:Siren's Call:c,i:https://www.youtube.com/watch?v=8NknmpdEEFI
 Eurielle:City Of The Dead::https://www.youtube.com/watch?v=5VInr-cSNNU
 Fall Out Boy:Immortals (Big Hero 6):c:https://www.youtube.com/watch?v=Y4o_8zbelwY
 Fall Out Boy:Lght Em Up:c:https://www.youtube.com/watch?v=LkIWmsP3c_s
+Fall Out Boy:Thanks For The Memories::https://www.youtube.com/watch?v=eK8Ri0COF1w
+5 Seconds Of Summer:Teeth:c:https://www.youtube.com/watch?v=_03wQecDt4U
 Fearless Motivation:Heroes Are Made By The Path They Choose:c,i:https://www.youtube.com/watch?v=I68LeM1d9EE
 Felicia Farerre:Secret Garden:i:https://www.youtube.com/watch?v=CCVZ8axb9nE
 Fleurie:Breathe:c:https://www.youtube.com/watch?v=JE60q4Kf8f8
+:Nightcore The A Team:d:https://www.youtube.com/watch?v=4i6APxyIBQ4;./
 Fleurie:Hurricane:c:https://www.youtube.com/watch?v=nZcf3oXfz5k
+:Nightcore Everybody Lies:d:https://www.youtube.com/watch?v=FXMOcqqPNhQ
 Fleurie:Sirens:c:https://www.youtube.com/watch?v=RFXkdXBZCDE
+Ed Sheeran:The A Team:d:https://www.youtube.com/watch?v=UAWcs5H-qgQ
 Fleurie:Soldier:c,b:https://www.youtube.com/watch?v=32W3J7XaNH8
 Florance + the machines:Jenny of Oldstones (Game Of Thrones):c:https://www.youtube.com/watch?v=eTa1jHk1Lxc
 Fox Sailer:A World of Knights and Dragons:c,b,i:https://www.youtube.com/watch?v=TPphu2_vcIE
 Fox Sailer:Albina:c,i:https://www.youtube.com/watch?v=GNNwAxEIyvE
 Fox Sailer:Belt of Orion:c,i:https://www.youtube.com/watch?v=CnBj-y1-jrg
+Halsey:Sorry:d:https://www.youtube.com/watch?v=tEnCoocmPQM
 Fox Sailer:Climb To The Top:i:https://www.youtube.com/watch?v=ERumlrkBac4
+:Nightcore Who You Are:d:https://www.youtube.com/watch?v=b3VBAr2YcEY
 Fox Sailer:Cross The World:c,i:https://www.youtube.com/watch?v=V_dwrONAdnI
+Jessie J:Who You Are::https://www.youtube.com/watch?v=j2WWrupMBAE
+Jason Walker:Everybody Lies:d:https://www.youtube.com/watch?v=J_34ZKbJg-M
+:Nightcore City Of The Dead:b:https://www.youtube.com/watch?v=b_g8CocJlBE
 Fox Sailer:Elven Kingdom:c,i:https://www.youtube.com/watch?v=jMuTP8Oq4Hc
 Fox Sailer:Lionheart:c,i:https://www.youtube.com/watch?v=9kKdHWg3jrU
 Fox Sailer:Lord of Fire:c,i:https://www.youtube.com/watch?v=OqkE6-Tb_nQ
@@ -376,6 +403,7 @@ Frostudio Chambersonic:Dark Vuelie [cover]:c,i:https://www.youtube.com/watch?v=n
 Frostudio Chambersonic:Prince For A Dancing Queen:c,i:https://www.youtube.com/watch?v=jB44TSJtn8o
 Frostudio Chambersonic:Captain Sparrow (Pirates of the Carribean):i:https://www.youtube.com/watch?v=rzTklvRhgOY
 Frostudio Chambersonic:Speechless (Aladin):i,s:https://www.youtube.com/watch?v=TDQsaaiNVH8
+:Nightcore Speechless:n:https://www.youtube.com/watch?v=fOnSPV_yvHQ
 Frostudio Chambersonic:The Next Right Thing (Frozen 2):i,s:https://www.youtube.com/watch?v=hP0ajIN7mzY
 Frostudio Chambersonic:I'll Make a Man Out of You (Mulan):i:https://www.youtube.com/watch?v=D4Bbdf59vnw
 Frostudio Chambersonic:Let It Go (Frozen):i:https://www.youtube.com/watch?v=WqylDwL7oI4
@@ -386,6 +414,7 @@ Frostudio Chambersonic:Let It Go (Frozen)::https://www.youtube.com/watch?v=AF2CR
 Frostudio Chambersonic:Undeniable:i:https://www.youtube.com/watch?v=rf5054brQUM9:51 AM 5/15/2021
 Frostudio Chambersonic:Let It Go [instrumental] (Frozen):i:https://www.youtube.com/watch?v=55Ht_Cyn3EQ
 Frostudio Chambersonic:Ultra Violet:c,i,s:https://www.youtube.com/watch?v=GxR-1Avj2qE
+:Nightcore Viva La Vida:n:https://www.youtube.com/watch?v=GGEPW6PdUks
 Gill Chang & Danni Carra:Why Do I Try::https://www.youtube.com/watch?v=jqZTVisVjUc
 Galneryus:Hunting For Your Dream (Hunter x Hunter):c:https://www.youtube.com/watch?v=6FhmyWT-_0U
 Geoff Castellucci:Far Over The Misty Mountains Cold [cover] [low bass] (The Hobbit):c,s:https://www.youtube.com/watch?v=Erkv1-_xR7U
@@ -424,6 +453,7 @@ Home Free:God Bless The USA:s:https://www.youtube.com/watch?v=SrMftm6Km3g&list=P
 Home Free:The Gambler::https://www.youtube.com/watch?v=ZZQXj7K-_1M&list=PLfWdh4XTtIqnVcLdXTjXzvv_ahtWOC2S7&index=4
 Home Free:Sea Shanty Medly:c,s:https://www.youtube.com/watch?v=lLGLUSzzuWU
 Human Design:King or  Not:c,b:https://www.youtube.com/watch?v=RonHnhK4GuQ
+Landon Austin:Armor:d:https://www.youtube.com/watch?v=gqfHKoH2eMg
 Hillsong Worship:Hosanna:s:https://www.youtube.com/watch?v=KBWhgjuzgzw
 Hillsong Worship:King Of Kings [acoustic]:s:https://www.youtube.com/watch?v=tl7ckz0iPoU
 Hillsong Worship:Who You Say I Am:s:https://www.youtube.com/watch?v=RiRKTvqsnlw
@@ -442,6 +472,8 @@ Intermediate Music:Survive the Game (Hunger Games|Catching Fire):c:https://www.y
 Intermediate Music:The End Of Days:c,b,i:https://www.youtube.com/watch?v=0Lf5HL_Z0vc
 Intermediate Music:The Mighty Shall Rise:c,i:https://www.youtube.com/watch?v=8eCLV434TCo
 Intermediate Music:We Made This War:c,i:https://www.youtube.com/watch?v=zX_cEhJfX2I
+ILIRA:Pay Me Back!::https://www.youtube.com/watch?v=cP5LvGH050o
+:Nightcore Pay Me Back:n:https://www.youtube.com/watch?v=liVCWLmgI0Y
 Ivan Torrent:Gallactic Invasion:c,i,b:https://www.youtube.com/watch?v=F8AEHMQP3LQ
 Ivan Torrent:Glimmer Of Hope:c,i,s:https://www.youtube.com/watch?v=ODgUlTAVMiU
 Ivan Torrent:Impossible [Featuring Rangel Da Silva]::https://www.youtube.com/watch?v=Bm5f_glnQ5M
@@ -457,6 +489,11 @@ James Paget:Rubicon:i,s:https://www.youtube.com/watch?v=scL3KqBR3Bo&list=OLAK5uy
 James Paget:Shine Bright:c:https://www.youtube.com/watch?v=LN8qPacZa4c&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=5
 James Paget:The Wondor of Gaia:c,i:https://www.youtube.com/watch?v=7TZUFrVQVMs&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=4
 James Paget:Throw Off the Bowlines:c,i,s:https://www.youtube.com/watch?v=aIHvr5zKquw&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=6
+Sam Smith:Too Good At Goodbyes:d:https://www.youtube.com/watch?v=E_jQS76JqD0
+:Nightcore Maps:n,d:https://www.youtube.com/watch?v=vqj2F9G5jtA
+
+:Nightcore Too Good At Goodbyes:n,d:https://www.youtube.com/watch?v=PL9B6JkQdqs 
+Coldplay:Viva La Vida::https://www.youtube.com/watch?v=dvgZkm1xWPE
 Jefferson Airplane:White Rabbit::https://www.youtube.com/watch?v=dSAzIbo7zrY
 Jenn Sakura:Fear Not This Night::https://www.youtube.com/watch?v=9jRLwdNyX3w
 John Denver:Annie's Song::https://www.youtube.com/watch?time_continue=3&v=RNOTF-znQyw&feature=emb_title
@@ -634,6 +671,12 @@ Position Music:Fall Of Glory:c,i,b:https://www.youtube.com/watch?v=EfFESDS6ZzA
 Position Music:Hiraeth:c,i:https://www.youtube.com/watch?v=KiJ8xz4BogE
 Position Music:Meraki:c,i:https://www.youtube.com/watch?v=aS9rJcL3NDw
 Plain White T's:1234:e:https://www.youtube.com/watch?v=y9u3c65LHIY
+Rachel Hardy:The Dragonborn Comes (Skyrim):c,s:https://www.youtube.com/watch?v=PjUh7PY__UE
+Rachel Hardy:Ezio's Family [cover] (Assasin's Creed):s:https://www.youtube.com/watch?v=oky6_i8gndA
+Rachel Hardy:The Misty Mountains Cold [cover](The Hobbit):c,s:https://www.youtube.com/watch?v=RaMpnl4DrVM
+Rachel Hardy:My Jolly Sailer Bold (Pirates of the Caribbean):d:https://www.youtube.com/watch?v=ElWddM8hqcU
+Rachel Hardy:My Mother Told Me:d,s:https://www.youtube.com/watch?v=y12oQzvhX3g
+
 Rachel Hardy: Jenny of Oldstones (Game of Thrones):c,s:https://www.youtube.com/watch?v=KZ0eJ6Q54eE
 Rachel Hardy:May It Be (Lord Of The Rings):s:https://www.youtube.com/watch?v=vQxmnU22kG0&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=14
 Rachel Hardy:Toss A Coin To Your Witcher (The Witcher)::https://www.youtube.com/watch?v=g_87_sp6ROs&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=9
@@ -817,12 +860,12 @@ The Score:Higher:c:https://www.youtube.com/watch?v=XclXvB1Gmnc
 The Score:Legend:c,i:https://www.youtube.com/watch?v=OjMnqnBSx2c
 The Score:Never Going Back:c:https://www.youtube.com/watch?v=vqNjxIZ6AnE
 The Score:Revolution:c,i:https://www.youtube.com/watch?v=b99r48grKGI
-The Score:Shakedown:c,i:https://www.youtube.com/watch?v=Rls-nEbHwXY
+The Score:Shakedown:c:https://www.youtube.com/watch?v=Rls-nEbHwXY
 The Score:Stronger:c,b:https://www.youtube.com/watch?v=cNld-AHw-Wg
 The Score:Unstoppable:c,i:https://www.youtube.com/watch?v=vZ-QMpCfPFo
 The Seekers:Georgy Girl::https://www.youtube.com/watch?v=wsIbfYEizLk
 The White Stripes:Seven Nation Army:c:https://www.youtube.com/watch?v=0J2QdDbelmY
-TheFatRat:Close to the Sun:i:https://www.youtube.com/watch?v=oJuGlqO85YI
+TheFatRat:Close to the Sun:s:https://www.youtube.com/watch?v=oJuGlqO85YI
 TheFatRat:Fly Away::https://www.youtube.com/watch?v=cMg8KaMdDYo
 TheFatRat:Monody:i:https://www.youtube.com/watch?v=B7xai5u_tnk
 TheFatRat:Never Be Alone::https://www.youtube.com/watch?v=Ic-gZlPFTkQ
@@ -864,6 +907,8 @@ Thousand Foot Krutch:Honest:c:https://www.youtube.com/watch?v=UznRqXRhaH4
 Thousand Foot Krutch:I See Red:c:https://www.youtube.com/watch?v=rTyKk53Wq3w
 Thousand Foot Krutch:In My Room::https://www.youtube.com/watch?v=tOT0ewK1QYo
 Thousand Foot Krutch:Lifeline:c:https://www.youtube.com/watch?v=-HXUyEWP1DE
+Chord Overstreet:Hold On:d:https://www.youtube.com/watch?v=8ofCZObsnOo
+:Nightcore Hold On:n,d:https://www.youtube.com/watch?v=3ojRHkcy4Oc
 Thousand Foot Krutch:Light Up::https://www.youtube.com/watch?v=4YT8wraO5Vk
 Thousand Foot Krutch:Push:c:https://www.youtube.com/watch?v=9VON4tVuaKE
 Thousand Foot Krutch:So Far Gone::https://www.youtube.com/watch?v=ODocRLIVV6k
@@ -874,6 +919,8 @@ Thousand Foot Krutch:The End is Where We Begin:c:https://www.youtube.com/watch?v
 Thousand Foot Krutch:Untraveled Road:c:https://www.youtube.com/watch?v=jSD5vSSGLOM
 Thousand Foot Krutch:War Of Change [Andy Hunter Remix]:c:https://www.youtube.com/watch?v=noGd-YtdIBM
 Thousand Foot Krutch:War Of Change:c:https://www.youtube.com/watch?v=Q-QhBfDnyNY
+:Nightcore Don't You Worry Child:n:https://www.youtube.com/watch?v=pVutbfJ1Oec
+Madilyn:Don't You Worry Child:s:https://www.youtube.com/watch?v=kAHT-j614kk
 Thousand Foot Krutch:We Are:c:https://www.youtube.com/watch?v=GqMbGQx05jg
 Todo:Africa::https://www.youtube.com/watch?v=FTQbiNvZqaY
 Tommee Profitt: Tomorrow We Fight [featuring Svrcina]:c:https://www.youtube.com/watch?v=xdrgTAt6Qxs
@@ -894,7 +941,7 @@ Tommee Profitt:Hold On For Your Life [featuring Sam Tinnesz] (Bull):i:https://ww
 Tommee Profitt:Hurricane [featuring Fleurie]::https://www.youtube.com/watch?v=3FV5w1ItblQ
 Tommee Profitt:I Know Your Secrets:c:https://www.youtube.com/watch?v=IGN3u8TBO4w
 Tommee Profitt:I'm Not Afraid [Featuring Wondra]:c:https://www.youtube.com/watch?v=telUyrGEZ5A
-Tommee Profitt:In The End [cover]:c:https://www.youtube.com/watch?v=8qLL2Gx3I_k
+Tommee Profitt:In The End [cover]:c,d:https://www.youtube.com/watch?v=8qLL2Gx3I_k
 Tommee Profitt:In The End [instrumental] [cover]::https://www.youtube.com/watch?v=aaVAFZiWGpA
 Tommee Profitt:In The End [Mellen Gi Remix] [featuring Fleurie]::https://www.youtube.com/watch?v=VHAYLOM0yEA
 Tommee Profitt:In The Zone:c,i:https://www.youtube.com/watch?v=D7L26eivNYE
