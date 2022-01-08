@@ -72,7 +72,9 @@ def playSong(URL):
 
     URL = "https:"+URL
     #get the audio link
-    video = pafy.new(URL)
+    # errors were returned based on certificate checking
+    #video = pafy.new(URL)
+    video = pafy.new(URL, ydl_opts={'nocheckcertificate': True, 'buffer-size':3600})
     audio = video.getbestaudio()
     #audio = video.getbest()
     playurl = audio.url
