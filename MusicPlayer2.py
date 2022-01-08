@@ -73,8 +73,8 @@ def playSong(URL):
     URL = "https:"+URL
     #get the audio link
     video = pafy.new(URL)
-    #audio = video.getbestaudio()
-    audio = video.getbest()
+    audio = video.getbestaudio()
+    #audio = video.getbest()
     playurl = audio.url
 
     #play the audio
