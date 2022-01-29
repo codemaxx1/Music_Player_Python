@@ -35,7 +35,6 @@ genre = ""
 
 #gtts output system
 def say(audio):
-    return 0
     print(audio)
     for line in audio.splitlines():
         tts = gTTS(text=str(audio))
@@ -76,14 +75,7 @@ def playSong(URL):
     # errors were returned based on certificate checking
     #video = pafy.new(URL)
     video = pafy.new(URL, ydl_opts={'nocheckcertificate': True, 'buffer-size':3600})
-
-    audioStreams = video.audiostreams
-    fastestStream = audioStreams[0]
-    for i in range(len(audioStreams)):
-        if audioStreams[i].bitrate < fastestStream.bitrate:
-            fastestStream = audioStreams[i]
-            
-    audio = video.audiostreams[0] #video.getbestaudio()
+    audio = video.getbestaudio()
     #audio = video.getbest()
     playurl = audio.url
 
@@ -106,13 +98,13 @@ def getFileInfo():
     return array
 
 
-def playerController(command):
+ 	def playerController(command):
     global genre
     number = random.randint(0, len(getFileInfo()))
 
     # if it is Sunday, only play instrumental music
     if (day == 6):
-        genre = "i"
+        genre = "s"
 
     # if an input is passed
     if(command == "next"):
