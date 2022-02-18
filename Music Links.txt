@@ -23,6 +23,25 @@ MaxKoMusic:Tragedy:i,s,c:https://www.youtube.com/watch?v=CosDs7Su_GI
 MaxKoMusic:Pure Epicness:i,s,c:https://www.youtube.com/watch?v=z2VtcUDGpH0
 MaxKoMusic:Reporting From The Scene:c,i,s:https://www.youtube.com/watch?v=sYfxo7nvJwU
 MaxKoMusic:Powerful:c,i:https://www.youtube.com/watch?v=melOAoLyobg
+MaxKoMusic:Heroic:c,i,s:https://www.youtube.com/watch?v=lL7J5zNbgO4
+MaxKoMusic:Drums:i:https://www.youtube.com/watch?v=ao_leGeqmVs
+MaxKoMusic:Epic Cinematic:c,i,s:https://www.youtube.com/watch?v=w9EMZvSj7ro
+MaxKoMusic:Epic Trailer:c,i,s:https://www.youtube.com/watch?v=s3S7lf9Usi8
+MaxKoMusic:Cinematic Trailer:c,i,s:https://www.youtube.com/watch?v=HS0hPkctahE
+MaxKoMusic:Christmas background:x,i:https://www.youtube.com/watch?v=hUEtKXz_XVQ
+MaxKoMusic:Dramatic Adventure:c,i,s:https://www.youtube.com/watch?v=MUL9_KctfeI
+MaxKoMusic:Trailer Background:c,i,s:https://www.youtube.com/watch?v=3KxVdwt-uaY
+MaxKoMusic:Pandemia:c,i,s:https://www.youtube.com/watch?v=8uRdbfS1b_Y
+MaxKoMusic:Patriotic Feelings:c,i,s:https://www.youtube.com/watch?v=A2bNy1VwAD4
+MaxKoMusic:An Epic Story:c,i,s:https://www.youtube.com/watch?v=SVtwciP_zBk
+MaxKoMusic:Dark Side of Our Past:c,i,s:https://www.youtube.com/watch?v=_s6Rz7O0Ae4
+MaxKoMusic:Dark Ages:c,i,s:https://www.youtube.com/watch?v=hu3FPs2MYc0
+MaxKoMusic:Dramatic Epic:c,i,s:https://www.youtube.com/watch?v=gO2hB1d6BqM
+MaxKoMusic:Powerful Emotional:c,i,s:https://www.youtube.com/watch?v=JqjDV2hWr8o
+MaxKoMusic:Modern Baroque:i,s:https://www.youtube.com/watch?v=wCxyLel-0DQ
+MaxKoMusic:Dramatic Background:c,i,s:https://www.youtube.com/watch?v=Z8PRav3NDDE
+MaxKoMusic:The Epic Story:c,i,s:https://www.youtube.com/watch?v=a5u119xTa6M
+MaxKoMusic:Patriotic Heroism:c,i,s:https://www.youtube.com/watch?v=5TI-p-am27I
 MaxKoMusic:Achievement:c,i:https://www.youtube.com/watch?v=3HM7ir5C2Tg
 Jeremy Soule and Ree Soesbee:Fear Not This Night:s,c:https://www.youtube.com/watch?v=dlBvKzc8Odo
 MaxKoMusic:Medieval Fantasy:c,i,s:https://www.youtube.com/watch?v=HHmC31-7N7o
@@ -68,8 +87,6 @@ Simon Khorolskey:I Wonder As I Wander:r,s:https://www.youtube.com/watch?v=zF3zb4
 Simon Khorolskey:Избери жизнь (Choose Life):r,s,c:https://www.youtube.com/watch?v=XFM6BxUp2i0
 Simon Khorolskey:Всему свое время:r,s:https://www.youtube.com/watch?v=w58TChCLnoI
 Simon Khorolskey:Кто как Ты, Господи?:r,s:https://www.youtube.com/watch?v=Y-9vas27OzY
-Simon Khorolskey:
-
 :Nightcore Marry Me:n:https://www.youtube.com/watch?v=os6cN-Jup4o
 Lisa Komine:Resuscitated Hope (Gosick)::https://www.youtube.com/watch?v=i8wghCdMncU
 Mischa Chillak:Ready Or Not:c,b:https://www.youtube.com/watch?v=qVrumBAl_iM
@@ -235,8 +252,6 @@ Adrian von Ziegler:Fairy Tale:i,s:https://www.youtube.com/watch?v=ImlvUlNCWPs
 Adrian von Ziegler:Aelathen:i,s:https://www.youtube.com/watch?v=vFQ9Av41tCk
 Adrian von Ziegle:Longing:s,i:https://www.youtube.com/watch?v=VkhDAvTVSd8
 Adrian von Ziegle:Wolf Princess:c,i,s:https://www.youtube.com/watch?v=AJ_xsMnG26U
-
-
 Aerosmith:Dream On::https://www.youtube.com/watch?v=sZfZ8uWaOFI
 Alan Walker:Faded::https://www.youtube.com/watch?v=qdpXxGPqW-Y
 All Good Things:Angry Young Men:c:https://www.youtube.com/watch?v=IdyQBYSsja0
@@ -341,7 +356,6 @@ Beyond Gaia's Horizon:Flying:i,s,d:https://www.youtube.com/watch?v=kKsQOYEALag
 Beyond Gaia's Horizon:Heart Of Courage [cover]:c,i,s:https://www.youtube.com/watch?v=Dxk9yUAnbUI
 Beyond Gaia's Horizon:Fight and Fall:c,i,s:https://www.youtube.com/watch?v=XT9gRj1d66s
 Beyond Gaia's Horizon:Windfall:c,s,i:https://www.youtube.com/watch?v=-9oODi4hUMg
-
 Beyond Gaia's Horizon:Moldau Smetana:i,s:https://www.youtube.com/watch?v=zqRoXHJK1P0
 Beyond Gaia's Horizon:Ascendance:c,i,s:https://www.youtube.com/watch?v=dhfsiLLvDUA
 Beyond Gaia's Horizon:United:s:https://www.youtube.com/watch?v=zpvuikgn2JE
