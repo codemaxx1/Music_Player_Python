@@ -17,6 +17,14 @@
 :Nightcore A Drop In The Ocean::https://www.youtube.com/watch?v=168VjhTWGiM
 :Nightcore A Million Dreams::https://www.youtube.com/watch?v=KsHVjO-936g
 :Nightcore Africa::https://www.youtube.com/watch?v=OpVcSeHAPI4
+:Nightcore I'm a Mess:n:https://www.youtube.com/watch?v=jPR0raa5kP4
+:Nightcore Nothing Stopping Me Now:n:https://www.youtube.com/watch?v=DFlu2Df652M
+:Nightcore Linked:n:https://www.youtube.com/watch?v=Dsi5uZxoy-E
+:Nightcore In My Mind:n:https://www.youtube.com/watch?v=7svmoZcY8UA
+:Nightcore Ignite:n:https://www.youtube.com/watch?v=bj4ul946k2o
+:Nightcore Lost Control:n:https://www.youtube.com/watch?v=tsoho0c8WBQ
+:Nightcore Unity:n:https://www.youtube.com/watch?v=Lsj7ga90Z3E
+:Nightcore On My Own:n:https://www.youtube.com/watch?v=ipQ-ofD2sv0
 MaxKoMusic:Beauty:i,s:https://www.youtube.com/watch?v=SiYl1Vbnr7o
 MaxKoMusic:Dramatic Trailer:i,c:https://www.youtube.com/watch?v=M6oevmCNelw
 MaxKoMusic:Tragedy:i,s,c:https://www.youtube.com/watch?v=CosDs7Su_GI
