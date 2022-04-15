@@ -302,6 +302,12 @@ Beyond Gaia's Horizon:Infinity:c,i,s:https://www.youtube.com/watch?v=owdOTafPyKY
 Beyond Gaia's Horizon:Moldau Smetana:i,s:https://www.youtube.com/watch?v=zqRoXHJK1P0
 Beyond Gaia's Horizon:Monody [cover]:c,i,s:https://www.youtube.com/watch?v=qv5-RtpcdQQ
 Beyond Gaia's Horizon:Narnia Theme [Narnia]:c,i,s:https://www.youtube.com/watch?v=w0VvmB6ayBw
+Beyond Gaia's Horizon:The Storm:c,s:https://www.youtube.com/watch?v=4y6ntH2vvPI
+Beyond Gaia's Horizon:Xenogenesis:c,s:https://www.youtube.com/watch?v=OuaD4wQd-jg
+Beyond Gaia's Horizon:Skyrim Main Theme (Skyrim):c,i,s:https://www.youtube.com/watch?v=NZj8xUB21Ck
+Beyond Gaia's Horizon:Shrek:s,i:https://www.youtube.com/watch?v=urad_EveZ6E
+Beyond Gaia's Horizon:Time Lapse:c,i,s:https://www.youtube.com/watch?v=l7sAbgj18Ig
+Beyond Gaia's Horizon:Fight and Fall:c,i,s:https://www.youtube.com/watch?v=XT9gRj1d66s&t=22s
 Beyond Gaia's Horizon:National Anthem of the Roman Empire:c,i,s:https://www.youtube.com/watch?v=WP_33K0RRhw
 Beyond Gaia's Horizon:Never Let Go:d,s:https://www.youtube.com/watch?v=QLs5OL0Ywvw
 Beyond Gaia's Horizon:Prepare For The Battle:c,i,s:https://www.youtube.com/watch?v=EdJkd_XpkFs
