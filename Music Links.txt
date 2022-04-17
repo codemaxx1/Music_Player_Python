@@ -925,6 +925,11 @@ Samuel Kim Music:Loki Trailer Music (Loki):c,i:https://www.youtube.com/watch?v=4
 Samuel Kim Music:The Mandalorian Theme x Carol of the Bells:x,i:https://www.youtube.com/watch?v=21dBlN8AiFQ
 Samuel Kim Music:The Force Theme (The Mandalorian):c,i,s:https://www.youtube.com/watch?v=WK7VSNT5lIc
 Samuel Kim Music:Nighty City (Cyberpunk 2077):c,i:https://www.youtube.com/watch?v=mkkdDnK1z44
+Samuel Kim Music:At the Speed of Force (Zach Snyder's Justice League):c,i:https://www.youtube.com/watch?v=ZFtlMX-7cI4
+Samuel Kim Music:Jonathan Joestar Theme (Jojo's Bizzare Adventure):c,i:https://www.youtube.com/watch?v=3lTcZL9J5ow
+Samuel Kim Music:Zenitsu Theme (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=1PO2AVXWBhk
+Samuel Kim Music:Rengoku 9th Form (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=SVhHhtG4DPM
+Samuel Kim Music:Thunderclap and Flash (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=P8l2ZeOUZEA
 
 Samuel Kim Music:Bloody Tears (Castlevania):c,s:https://www.youtube.com/watch?v=GQc92nHJtWU
 Samuel Kim Music:DCTV Crisis on Infinite Earths Theme (Arrowverse)c,i:https://www.youtube.com/watch?v=YYFxsIhky6Q
