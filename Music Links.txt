@@ -437,6 +437,17 @@ ElanyiMusic:Footsteps:s:https://www.youtube.com/watch?v=dYVpb4dpWTE&list=UUe32KL
 ElanyiMusic:Gone, Gone,Gone::https://www.youtube.com/watch?v=XcCjFlxDkc4&list=UUe32KL4vjDdhFurvCHfWU9Q&index=43
 ElanyiMusic:Oceans:s:https://www.youtube.com/watch?v=ssBmFi51z_k&list=UUe32KL4vjDdhFurvCHfWU9Q&index=26
 ElanyiMusic:What A Beautiful Name:s:https://www.youtube.com/watch?v=rXqd36oY7Jg&list=UUe32KL4vjDdhFurvCHfWU9Q&index=3
+Eternal Eclipse:Timeless Tale [feat. Merethe Soltvedt]:c,i,s:https://www.youtube.com/watch?v=ow2hGEZCSbs
+Eternal Eclipse:Redemption:c,i,s:https://www.youtube.com/watch?v=3dpxVIXindY
+Eternal Eclipse:The Ritual:c,i:https://www.youtube.com/watch?v=AAnTtPFHPsI
+Eternal Eclipse:Cloak and Dagger:c,i:https://www.youtube.com/watch?v=rNO7Q9kPb_M
+Eternal Eclipse:Hidden Machinations:c,i:https://www.youtube.com/watch?v=VfSvMknKbZI
+Eternal Eclipse:Fayte of the Clockmaker:c,i,b:https://www.youtube.com/watch?v=kfVmldkxgQc
+Eternal Eclipse:Forgotten Odes:c,i,s:https://www.youtube.com/watch?v=piRBMOxum3o
+Eternal Eclipse:Wings of Apocolypse:c,i:https://www.youtube.com/watch?v=bq2MifsyTq4
+Eternal Eclipse:Twilight Huntress [feat. Merethe Soltvedt]:c,i:https://www.youtube.com/watch?v=eb-2ljQDYFU
+
+
 Elevation Worship:Graves Into Gardens:s:https://www.youtube.com/watch?v=KwX1f2gYKZ4
 End of Silence:From Hell To Glory:c,i:https://www.youtube.com/watch?v=gcnJD7q1YZc
 Ennio Morricone:The Good the Bad and the Ugly:c,i:https://www.youtube.com/watch?v=h1PfrmCGFnk
