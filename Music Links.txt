@@ -936,7 +936,18 @@ Samuel Kim Music:The Bad Batch Theme [Mandalorian version](The Bad Batch):c,i,s:
 Samuel Kim Music:Marvel Phase 4 Theme (Marvel):c,i:https://www.youtube.com/watch?v=Jc8IfS2lpJU
 Samuel Kim Music:Sylvie Theme (Loki):c,i:https://www.youtube.com/watch?v=lV2gGymch0Q
 Samuel Kim Music:To Your Eternity Main Theme (To Your Eternity):i,s:https://www.youtube.com/watch?v=MPDlSxJre7Y
-the Ninetys:All Saints:c,s,b:https://www.youtube.com/watch?v=0d5njd-0YjM
+The Ninetys:All Saints:c,s,b:https://www.youtube.com/watch?v=0d5njd-0YjM
+Samuel Kim Music:Tengen Uzui Theme (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=S4iGXg0QcrU
+Samuel Kim Music:You Are My King x Rule The Battlefield (Fate/Zero):c,i,s:https://www.youtube.com/watch?v=qqmO0b_JiPE
+Samuel Kim Music:Ghostbusters Theme (Ghostbusters):c,i:https://www.youtube.com/watch?v=H4IF3xQO_uk
+Samuel Kim Music:Spider Man (Spider-Man: No Way Home):c,i,s:https://www.youtube.com/watch?v=OFwP9dr6zbM
+Samuel Kim Music:Something In The Way (The Batman)::https://www.youtube.com/watch?v=_PlSTjgcpa8
+Samuel Kim Music:Smells Like Teen Spirit:c:https://www.youtube.com/watch?v=1fsrR_U-qEU
+Samuel Kim Music:Raiden Shogun Nightmare Theme (Genshin Impact):c,i,s:https://www.youtube.com/watch?v=H2wrGtIDWLg
+Samuel Kim Music:For The Damaged Coda (Rick and Morty):c,i:https://www.youtube.com/watch?v=zh4gzV_x3UM
+Samuel Kim Music:Pink Soldiers:c,i:https://www.youtube.com/watch?v=8aGkeN9Jdrg
+Samuel Kim Music:Naruto Main Theme x Baryon Mode (Naruto):i,s:https://www.youtube.com/watch?v=IApTa7uaWCU
+
 Samuel Kim Music:Bloody Tears (Castlevania):c,s:https://www.youtube.com/watch?v=GQc92nHJtWU
 Samuel Kim Music:DCTV Crisis on Infinite Earths Theme (Arrowverse)c,i:https://www.youtube.com/watch?v=YYFxsIhky6Q
 Samuel Kim Music:Dio's Theme (JoJo's Bizzare Adventure):c,b:https://www.youtube.com/watch?v=95SLYQ26RQ8
