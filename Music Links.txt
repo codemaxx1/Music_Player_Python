@@ -947,7 +947,9 @@ Samuel Kim Music:Raiden Shogun Nightmare Theme (Genshin Impact):c,i,s:https://ww
 Samuel Kim Music:For The Damaged Coda (Rick and Morty):c,i:https://www.youtube.com/watch?v=zh4gzV_x3UM
 Samuel Kim Music:Pink Soldiers:c,i:https://www.youtube.com/watch?v=8aGkeN9Jdrg
 Samuel Kim Music:Naruto Main Theme x Baryon Mode (Naruto):i,s:https://www.youtube.com/watch?v=IApTa7uaWCU
-
+Samuel Kim Music:Tanjiro vs Daki Theme (Demon Slayer):c,i:https://www.youtube.com/watch?v=oSkBiili1lI
+Samuel Kim Music:Yoriichi Theme (Demon Slayer):c,i:https://www.youtube.com/watch?v=WP7u3EF3Mns
+Samuel Kim Music:Zenitsu Theme (Demon Slayer):c,i:https://www.youtube.com/watch?v=xe5E6PjR9sg
 Samuel Kim Music:Bloody Tears (Castlevania):c,s:https://www.youtube.com/watch?v=GQc92nHJtWU
 Samuel Kim Music:DCTV Crisis on Infinite Earths Theme (Arrowverse)c,i:https://www.youtube.com/watch?v=YYFxsIhky6Q
 Samuel Kim Music:Dio's Theme (JoJo's Bizzare Adventure):c,b:https://www.youtube.com/watch?v=95SLYQ26RQ8
@@ -988,7 +990,7 @@ Samuel Kim Music:The Apocolypse (Attack On Titan):c:https://www.youtube.com/watc
 Samuel Kim Music:The Batman Theme x The Imperial March [mashup]:c,i,b:https://www.youtube.com/watch?v=zmeVHKr-Pd4
 Samuel Kim Music:The Battle Theme (Chronicles Of Narnia):c,i:https://www.youtube.com/watch?v=yrNvfSsj2aY
 Samuel Kim Music:The Clones Theme (Star Wars):c,i:https://www.youtube.com/watch?v=UM_XVDG4Xto
-Samuel Kim Music:The Dragonborn Comes (Skyrim):c:https://www.youtube.com/watch?v=RSFP-M_QjdQ
+Samuel Kim Music:The Dragonborn Comes [Featuring Colm McGuinness Music](Skyrim):c:https://www.youtube.com/watch?v=RSFP-M_QjdQ
 Samuel Kim Music:The Final Battle (Elden Ring):c:https://www.youtube.com/watch?v=N2p_JFF4lR0
 Samuel Kim Music:The Force Theme (Hans Zimmer Style):c,i:https://www.youtube.com/watch?v=6MjCnfoGTP8&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=173
 Samuel Kim Music:The Hobbit Theme:i:https://www.youtube.com/watch?v=ZyI8CxIm_P4
