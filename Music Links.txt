@@ -930,7 +930,13 @@ Samuel Kim Music:Jonathan Joestar Theme (Jojo's Bizzare Adventure):c,i:https://w
 Samuel Kim Music:Zenitsu Theme (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=1PO2AVXWBhk
 Samuel Kim Music:Rengoku 9th Form (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=SVhHhtG4DPM
 Samuel Kim Music:Thunderclap and Flash (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=P8l2ZeOUZEA
-
+Samuel Kim Music:Trevor Belmont vs Death (Castlevania):c,i:https://www.youtube.com/watch?v=Rrp9RRu9UR0
+Samuel Kim Music:Chaos (Loki):c,i,b:https://www.youtube.com/watch?v=Mo5hACqkVGQ
+Samuel Kim Music:The Bad Batch Theme [Mandalorian version](The Bad Batch):c,i,s:https://www.youtube.com/watch?v=72Wf8pWBZPg
+Samuel Kim Music:Marvel Phase 4 Theme (Marvel):c,i:https://www.youtube.com/watch?v=Jc8IfS2lpJU
+Samuel Kim Music:Sylvie Theme (Loki):c,i:https://www.youtube.com/watch?v=lV2gGymch0Q
+Samuel Kim Music:To Your Eternity Main Theme (To Your Eternity):i,s:https://www.youtube.com/watch?v=MPDlSxJre7Y
+the Ninetys:All Saints:c,s,b:https://www.youtube.com/watch?v=0d5njd-0YjM
 Samuel Kim Music:Bloody Tears (Castlevania):c,s:https://www.youtube.com/watch?v=GQc92nHJtWU
 Samuel Kim Music:DCTV Crisis on Infinite Earths Theme (Arrowverse)c,i:https://www.youtube.com/watch?v=YYFxsIhky6Q
 Samuel Kim Music:Dio's Theme (JoJo's Bizzare Adventure):c,b:https://www.youtube.com/watch?v=95SLYQ26RQ8
