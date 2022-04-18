@@ -452,8 +452,8 @@ Eternal Eclipse:Inferia [feat. Merethe Soltvedt]:c,i,s:https://www.youtube.com/w
 Eternal Eclipse:Harbinger:c,i:https://www.youtube.com/watch?v=2vCfy87VW0A
 Eternal Eclipse:Seventh Element:c,i:https://www.youtube.com/watch?v=nENlTKQiY38
 Eternal Eclipse:Lornsword Main Theme (Lornsword):c,i,s:https://www.youtube.com/watch?v=S12-oHtTMwk
-
-
+Eternal Eclipse:Oathkeeper:c,i,s:https://www.youtube.com/watch?v=2ajOuXuL-gk
+Eternal Eclipse:Dawn of Faith (The OA):c,i,s:https://www.youtube.com/watch?v=6FTr73B4Wz0
 Elevation Worship:Graves Into Gardens:s:https://www.youtube.com/watch?v=KwX1f2gYKZ4
 End of Silence:From Hell To Glory:c,i:https://www.youtube.com/watch?v=gcnJD7q1YZc
 Ennio Morricone:The Good the Bad and the Ugly:c,i:https://www.youtube.com/watch?v=h1PfrmCGFnk
