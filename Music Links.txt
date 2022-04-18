@@ -449,6 +449,9 @@ Eternal Eclipse:Twilight Huntress [feat. Merethe Soltvedt]:c,i:https://www.youtu
 Eternal Eclipse:Shield of Justice:c,i,s:https://www.youtube.com/watch?v=HcRutKm2tvs
 Eternal Eclipse:Shadows in the Sea:c,i,s:https://www.youtube.com/watch?v=5E87Mz4X4K8
 Eternal Eclipse:Inferia [feat. Merethe Soltvedt]:c,i,s:https://www.youtube.com/watch?v=u3MCvVSxybI
+Eternal Eclipse:Harbinger:c,i:https://www.youtube.com/watch?v=2vCfy87VW0A
+Eternal Eclipse:Seventh Element:c,i:https://www.youtube.com/watch?v=nENlTKQiY38
+Eternal Eclipse:Lornsword Main Theme (Lornsword):c,i,s:https://www.youtube.com/watch?v=S12-oHtTMwk
 
 
 Elevation Worship:Graves Into Gardens:s:https://www.youtube.com/watch?v=KwX1f2gYKZ4
