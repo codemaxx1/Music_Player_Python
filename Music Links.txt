@@ -446,6 +446,9 @@ Eternal Eclipse:Fayte of the Clockmaker:c,i,b:https://www.youtube.com/watch?v=kf
 Eternal Eclipse:Forgotten Odes:c,i,s:https://www.youtube.com/watch?v=piRBMOxum3o
 Eternal Eclipse:Wings of Apocolypse:c,i:https://www.youtube.com/watch?v=bq2MifsyTq4
 Eternal Eclipse:Twilight Huntress [feat. Merethe Soltvedt]:c,i:https://www.youtube.com/watch?v=eb-2ljQDYFU
+Eternal Eclipse:Shield of Justice:c,i,s:https://www.youtube.com/watch?v=HcRutKm2tvs
+Eternal Eclipse:Shadows in the Sea:c,i,s:https://www.youtube.com/watch?v=5E87Mz4X4K8
+Eternal Eclipse:Inferia [feat. Merethe Soltvedt]:c,i,s:https://www.youtube.com/watch?v=u3MCvVSxybI
 
 
 Elevation Worship:Graves Into Gardens:s:https://www.youtube.com/watch?v=KwX1f2gYKZ4
