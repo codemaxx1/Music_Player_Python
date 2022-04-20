@@ -229,6 +229,14 @@ Annapantsu:In a crowd of thousands (Anastasia)::https://www.youtube.com/watch?v=
 Annapantsu:Prince Ali (Aladdin)::https://www.youtube.com/watch?v=buhxqbrY-Do
 Annapantsu:Rising Hope (The Irregular At Magic High School)::https://www.youtube.com/watch?v=pR6bKjI8VSE&list=PLL4sH3IVkDRRxIO-MQIk0wi9bSruZ-CwC&index=19
 Annapantsu:What's New Scooby-Doo (Scooby-Doo)::https://www.youtube.com/watch?v=YNKBcYtVQHQ
+Annapantsu:Under The Surface (Enchanto):s:https://www.youtube.com/watch?v=em9YRZwHQhw
+Annapantsu:Rasputin [female version]::https://www.youtube.com/watch?v=svDAU-AJ4Rc
+Annapantsu:Enemy (Arcane)::https://www.youtube.com/watch?v=BCznYfFZJUQ
+Annapantsu:I Put a Spell On You (Hocus Pocus):h:https://www.youtube.com/watch?v=NY6rEGcQf_E
+Annapantsu:Poor Unfortunate Souls (The Little Mermaid)::https://www.youtube.com/watch?v=LW-ph35-vtw
+Annapantsu:You Will Be Okay (Helluva Boss)::https://www.youtube.com/watch?v=-oX7_iEJznE
+Annapantsu:Think Of Me (Phantom Of The Opera):s:https://www.youtube.com/watch?v=AGwbuH7ql4I
+Annapantsu:I Will Survive::https://www.youtube.com/watch?v=B6Is0rSWq_Y
 Apocalyptica:Fields of Verdun [cover]:c,i:https://www.youtube.com/watch?v=bQDJpL_PbGg
 Apollon de Moura:Cthulhu Awakens:b:https://www.youtube.com/watch?v=C7xBEsLmklc
 Arn Andersson:Wisdom Of The Ages:i,c:https://www.youtube.com/watch?v=xJptrq-Yquk
@@ -415,6 +423,8 @@ David Chappel:Hunter Hunted:c,i,s:https://www.youtube.com/watch?v=d_RnYwdjt6w
 David Chappel:This Quiet Violence:i,s:https://www.youtube.com/watch?v=N35XW92tqcY
 David Chappel:Life Finds a Way:i,s:https://www.youtube.com/watch?v=gaD-zV81Sa4
 David Chappel:What we do for Love:i,s:https://www.youtube.com/watch?v=6-izcl6Jm9Q
+David Chappel:This Too Shall Pass:i,s:https://www.youtube.com/watch?v=5UMSGq02BNw
+David Chappel:Who Will Save Us Now:c,i,s:https://www.youtube.com/watch?v=LrTff8DWyIE
 DHT:Listen To Your Heart::https://www.youtube.com/watch?v=x9U65tEwc8o
 Diane Taraz:Johnny Has Gone For a Soldier::https://www.youtube.com/watch?v=KqMgjqViB5c
 Donna Taggart:Jealout Of The Angels:s,d:https://www.youtube.com/watch?v=0n67dSG35L4&t=1s
