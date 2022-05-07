@@ -16,6 +16,10 @@
 :Nichtcore Champions:c:https://www.youtube.com/watch?v=9n08VvYTQew&list=PLZtnLDtq1Rx5VxGUVfnaCW49bbYCsguM9&index=5
 :Nichtcore Dream On::https://www.youtube.com/watch?v=JQjPaqs2_04
 :Nichtcore Stronger Than My Storm:c:https://www.youtube.com/watch?v=taml4eWywC4
+:Nightcore Thunder:n:https://www.youtube.com/watch?v=SJRn5Pc-nJA
+Gabry Ponte, LUM!X, Prezioso:Thunder::https://www.youtube.com/watch?v=b_bEigUA1kk
+:Nightcore:Monster:n:https://www.youtube.com/watch?v=KWViX8-4uaI
+:Nightcore Runnin:n:https://www.youtube.com/watch?v=Afid86dXwu4
 :Nichtcore The Doctor Said:n,d:https://www.youtube.com/watch?v=JZkJCUYIaH4
 :Nightcore A Drop In The Ocean::https://www.youtube.com/watch?v=168VjhTWGiM
 :Nightcore A Light To Call :n,d:https://www.youtube.com/watch?v=aHlMRZAdSzE
@@ -31,6 +35,9 @@ Endigo:Big Chungus [Orchestral remix]:c,b,i:https://www.youtube.com/watch?v=fn3L
 :Nightcore Angel of the Morning::https://www.youtube.com/watch?v=7PyWds66hvs
 :Nightcore Angel With A Shotgun:c:https://www.youtube.com/watch?v=cvaIgq5j2Q8
 :Nightcore Army::https://www.youtube.com/watch?v=fNNhfN_ZtCk
+:Nightcore Victory:n,i,c,s:https://www.youtube.com/watch?v=HtsuUqd0UsI
+:Nightcore The Calling:n:https://www.youtube.com/watch?v=N--bhxJW7yY
+:Nightcore Star Sky:n,c,i,s:https://www.youtube.com/watch?v=BgA8G-_5LTA
 :Nightcore Arrival To Earth (Transformers):c:https://www.youtube.com/watch?v=HcomWaqjwnc
 :Nightcore Back To The Start::https://www.youtube.com/watch?v=wHAFcQzY7PbM
 :Nightcore Bad Liar::https://www.youtube.com/watch?v=4OcdJzbOLb8
