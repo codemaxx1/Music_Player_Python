@@ -18,7 +18,7 @@
 :Nichtcore Stronger Than My Storm:c:https://www.youtube.com/watch?v=taml4eWywC4
 :Nightcore Thunder:n:https://www.youtube.com/watch?v=SJRn5Pc-nJA
 Gabry Ponte, LUM!X, Prezioso:Thunder::https://www.youtube.com/watch?v=b_bEigUA1kk
-:Nightcore:Monster:n:https://www.youtube.com/watch?v=KWViX8-4uaI
+:Nightcore Monster:n:https://www.youtube.com/watch?v=KWViX8-4uaI
 :Nightcore Runnin:n:https://www.youtube.com/watch?v=Afid86dXwu4
 :Nichtcore The Doctor Said:n,d:https://www.youtube.com/watch?v=JZkJCUYIaH4
 :Nightcore A Drop In The Ocean::https://www.youtube.com/watch?v=168VjhTWGiM
@@ -58,7 +58,7 @@ Endigo:Big Chungus [Orchestral remix]:c,b,i:https://www.youtube.com/watch?v=fn3L
 :Nightcore Don't Fear The Reaper::https://www.youtube.com/watch?reload=9&v=U2WSZXGMaEA
 :Nightcore Don't You Worry Child:n:https://www.youtube.com/watch?v=pVutbfJ1Oec
 :Nightcore Drag Me Down::https://www.youtube.com/watch?v=frx_yogdSEg
-:Nightcore Elan:https:c://www.youtube.com/watch?v=dnlU6h5SjQA
+:Nightcore Elan:c:https://www.youtube.com/watch?v=dnlU6h5SjQA
 :Nightcore Electrified::https://www.youtube.com/watch?v=woBF4E5GDq8
 :Nightcore Empire:c:https://www.youtube.com/watch?v=032zvF0DZiE
 :Nightcore Everybody Lies:d:https://www.youtube.com/watch?v=FXMOcqqPNhQ
@@ -264,7 +264,7 @@ Annapantsu:My R:d:https://www.youtube.com/watch?v=oX7kvYrL6lQ
 Annapantsu:Your Turn To Roll (Critical Roll):c,s:https://www.youtube.com/watch?v=2Mx17eyAYdI
 Annapantsu:Little Miss Perfect::https://www.youtube.com/watch?v=WSw83vIol3A
 Annapantsu:Busted (Phineas and Ferb):s:https://www.youtube.com/watch?v=sN2lJHfNds8
-Annapantsu:Crossing the Line (Tangled: the series):s:https://www.youtube.com/watch?v=ISXGoMJ_hh8
+Annapantsu:Crossing the Line (Tangled the series):s:https://www.youtube.com/watch?v=ISXGoMJ_hh8
 Annapantsu:Soldier, Poet, King:s:https://www.youtube.com/watch?v=-d4fDO6Q04k
 Annapantsu:Free (Princess and the Pauper)::https://www.youtube.com/watch?v=CEJRiOdo0jU
 Annapantsu:Holding Out For a Hero (Shrek 2)::https://www.youtube.com/watch?v=CN7JSoGLaJE
@@ -414,7 +414,7 @@ Cami-cat:Daybreak:c:https://www.youtube.com/watch?v=Fq4MoUMKOTE
 Caroline Jones:Rise::https://www.youtube.com/watch?v=Eu-xNin-iNk
 Carrie Underwood:Little Toy Guns::https://www.youtube.com/watch?v=-iQvqP7GmJQ
 Casting Crowns:Scars In Heaven:s,d:https://www.youtube.com/watch?v=qCdevloDE6E
-Chemistry:Period (Fullmetal Alchemist: Brotherhood):c:https://www.youtube.com/watch?v=KMZBauH47Jo
+Chemistry:Period (Fullmetal Alchemist Brotherhood):c:https://www.youtube.com/watch?v=KMZBauH47Jo
 Chord Overstreet:Hold On:d:https://www.youtube.com/watch?v=8ofCZObsnOo
 Christian Reindl:Claim Your Weapon:c:https://www.youtube.com/watch?v=5EqdHxLoWFM
 Christopher Lennertz:A Future For The Krogan (Mass Effect 3):i,c:https://www.youtube.com/watch?v=29IgcwhkUrI
@@ -770,7 +770,7 @@ Max Grigoryev:The Sounds Of War:c,i,b:https://www.youtube.com/watch?v=uaQX2PrA57
 Max Grigoryev:The Unsubdued:c,i,s:https://www.youtube.com/watch?v=QASjLo7CstY
 Max Grigoryev:Way To Valhalla:c,i:https://www.youtube.com/watch?v=rUBvh7-NVlc
 Max Grigoryev:птичка:c,i,s:https://www.youtube.com/watch?v=_5GrvvtuaIs
-Max Legend:Liberty:https:c,i:https//www.youtube.com/watch?v=kw6bDRKcC9I
+Max Legend:Liberty:c,i:https://www.youtube.com/watch?v=kw6bDRKcC9I
 MaxKoMusic:Achievement:c,i:https://www.youtube.com/watch?v=3HM7ir5C2Tg
 MaxKoMusic:An Epic Story:c,i,s:https://www.youtube.com/watch?v=SVtwciP_zBk
 MaxKoMusic:Beauty:i,s:https://www.youtube.com/watch?v=SiYl1Vbnr7o
@@ -837,7 +837,7 @@ Mitchell Broom:Not Alone:c,i,s:https://www.youtube.com/watch?v=3MQTh38HN18
 Mitchell Broom:Sollitude:c,i,s:https://www.youtube.com/watch?v=nPeUUoJihR0
 Mitchell Broom:Suspended Time:c,i,b:https://www.youtube.com/watch?v=AUooYussKwk
 Mitchell Broom:Third Lifestream:c,i,s:https://www.youtube.com/watch?v=Wx2njdGj35A
-Mitchell Broom:To The Last Spartan's Breath (Halo: The Lost Wolves):c,i,s:https://www.youtube.com/watch?v=mXixS1Ua5gE
+Mitchell Broom:To The Last Spartan's Breath (Halo The Lost Wolves):c,i,s:https://www.youtube.com/watch?v=mXixS1Ua5gE
 Morris Le Veritable:Wayfaring Stranger (1917) [Orchestral]:c,s:https://www.youtube.com/watch?v=mEM2THbEZQU
 Morton Gould:The American Salute:i:https://www.youtube.com/watch?v=rkJTYA78Q64
 Mufaya:A Warrior's Footsteps:c,i:https://www.youtube.com/watch?v=UMt5Z2Bnr7U
@@ -941,7 +941,7 @@ Rachel Platton:Fight Song::https://www.youtube.com/watch?v=xo1VInw-SKc&feature=e
 Raon Lee:Kamado Tanjirou no Uta (Cover) [Demon Slayer]:s:https://www.youtube.com/watch?v=DAEg7zliSLw
 Really Slow Motion:Collapsing Universe:c,i:https://www.youtube.com/watch?v=ZcxH4wRZXoc
 Richard Armitage:Misty Mountain Cold (The Hobbit)::https://www.youtube.com/watch?v=16QXu3E3NEU
-Rival x Cadmium:c:https://www.youtube.com/watch?v=kddC4gi72UE
+Rival x Cadmium:Willow Tree:c:https://www.youtube.com/watch?v=kddC4gi72UE
 Rival:Let It Die::https://www.youtube.com/watch?v=3o1TwbGpxV4
 Robin Hustin x TobiMorrow:Light It Up:c:https://www.youtube.com/watch?v=bdE_SyHad90
 Ron Pope:A Drop In The Ocean:s:https://www.youtube.com/watch?v=mt8jifKlbTc
@@ -997,7 +997,7 @@ Sabaton:Race To The Sea:c:https://www.youtube.com/watch?v=UueFKWt6a1s
 Sabaton:Rorke's Drift:c:https://www.youtube.com/watch?v=emKPydpF7Aw
 Sabaton:Screaming Eagles:c:https://www.youtube.com/watch?v=kJVkE14kjhE
 Sabaton:Seven Pillars of Wisdom:c:https://www.youtube.com/watch?v=P_Igr355iVQ
-Sabaton:Shiroyama:https:c://www.youtube.com/watch?v=oKW6gLLmxDQ
+Sabaton:Shiroyama:c:https://www.youtube.com/watch?v=oKW6gLLmxDQ
 Sabaton:Smoking Snakes:c:https://www.youtube.com/watch?v=m3QMnxy2Grk
 Sabaton:Soldier of 3 Armies:c:https://www.youtube.com/watch?v=QD-sLewK22o
 Sabaton:Soldier Of Heaven:c:https://www.youtube.com/watch?v=LYI3eegIJlI
@@ -1061,7 +1061,7 @@ The Ninetys:All Saints:c,s,b:https://www.youtube.com/watch?v=0d5njd-0YjM
 Samuel Kim Music:Tengen Uzui Theme (Demon Slayer):c,i,s:https://www.youtube.com/watch?v=S4iGXg0QcrU
 Samuel Kim Music:You Are My King x Rule The Battlefield (Fate/Zero):c,i,s:https://www.youtube.com/watch?v=qqmO0b_JiPE
 Samuel Kim Music:Ghostbusters Theme (Ghostbusters):c,i:https://www.youtube.com/watch?v=H4IF3xQO_uk
-Samuel Kim Music:Spider Man (Spider-Man: No Way Home):c,i,s:https://www.youtube.com/watch?v=OFwP9dr6zbM
+Samuel Kim Music:Spider Man (Spider-Man No Way Home):c,i,s:https://www.youtube.com/watch?v=OFwP9dr6zbM
 Samuel Kim Music:Something In The Way (The Batman)::https://www.youtube.com/watch?v=_PlSTjgcpa8
 Samuel Kim Music:Smells Like Teen Spirit:c:https://www.youtube.com/watch?v=1fsrR_U-qEU
 Samuel Kim Music:Raiden Shogun Nightmare Theme (Genshin Impact):c,i,s:https://www.youtube.com/watch?v=H2wrGtIDWLg
@@ -1073,7 +1073,7 @@ Samuel Kim Music:Tanjiro vs Daki Theme (Demon Slayer):c,i:https://www.youtube.co
 Samuel Kim Music:Yoriichi Theme (Demon Slayer):c,i:https://www.youtube.com/watch?v=WP7u3EF3Mns
 Samuel Kim Music:Zenitsu Theme (Demon Slayer):c,i:https://www.youtube.com/watch?v=xe5E6PjR9sg
 Samuel Kim Music:Bloody Tears (Castlevania):c,s:https://www.youtube.com/watch?v=GQc92nHJtWU
-Samuel Kim Music:DCTV Crisis on Infinite Earths Theme (Arrowverse)c,i:https://www.youtube.com/watch?v=YYFxsIhky6Q
+Samuel Kim Music:DCTV Crisis on Infinite Earths Theme (Arrowverse):c,i:https://www.youtube.com/watch?v=YYFxsIhky6Q
 Samuel Kim Music:Dio's Theme (JoJo's Bizzare Adventure):c,b:https://www.youtube.com/watch?v=95SLYQ26RQ8
 Samuel Kim Music:Duel of the Fates:c,i:https://www.youtube.com/watch?v=PT7-JdKhzcU&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=183
 Samuel Kim Music:Fate/Zero main theme (Fate Zero):c,i,s,b:https://www.youtube.com/watch?v=8HTtWh1zw5E
@@ -1088,7 +1088,7 @@ Samuel Kim Music:Homura (Demon Slayer Movie):c,i,s:https://www.youtube.com/watch
 Samuel Kim Music:How To Train Your Dragon theme (How To Train Your Dragon):c,i:https://www.youtube.com/watch?v=_iLHwp3Kxvw
 Samuel Kim Music:I'll Make A Man Out Of You (Mulan):i,s:https://www.youtube.com/watch?v=rdbEJYS1wh4&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=130
 Samuel Kim Music:Inosuke Theme (Demon Slayer):c,i:https://www.youtube.com/watch?v=mp_t-oMycyE&list=PL9PLUrw0CbcS0ZQNU4S32zwShVmWFE_rN&index=22
-Samuel Kim Music:Iskandar Theme (Fate/Zero):c,i,s,https://www.youtube.com/watch?v=qqmO0b_JiPE
+Samuel Kim Music:Iskandar Theme (Fate/Zero):c,i,s:https://www.youtube.com/watch?v=qqmO0b_JiPE
 Samuel Kim Music:Its Our Fight and Battle [Mix]:c,b,i:https://www.youtube.com/watch?v=d6qkaTyyeAI
 Samuel Kim Music:Jonathan Joestar theme (JoJo's Bizzare Adventure):c,i:https://www.youtube.com/watch?v=3lTcZL9J5ow
 Samuel Kim Music:Kai's Theme + Agni Kai (mix):c,b,i:https://www.youtube.com/watch?v=cml8Qo74zNQ&list=UUuoKuTCQ9dmPIgOgyLm9HgQ&index=17
@@ -1165,7 +1165,7 @@ Simon Khorolskey:Искупитель мой жив:r,c:https://www.youtube.com/
 Simon Khorolskey:Как величественно имя Твое:s,c,r:https://www.youtube.com/watch?v=cOFSk-AdRrI
 Simon Khorolskey:Кто как Ты, Господи?:r,s:https://www.youtube.com/watch?v=Y-9vas27OzY
 Simon Khorolskey:Мой в небе край родной:s,c,r:https://www.youtube.com/watch?v=on7VPe_SG7s
-Simon Khorolskey:Помилуй меня:s,r:Боже:https://www.youtube.com/watch?v=RQly4H2iJYs
+Simon Khorolskey:Помилуй меня, Боже:s,r::https://www.youtube.com/watch?v=RQly4H2iJYs
 Simon Khorolskey:Я преклоняю колени:s,c,r:https://www.youtube.com/watch?v=_5dH3w8cq28
 Simon Khorolskiy:Poor Wayfaring Stranger (1917):c,i,s:https://www.youtube.com/watch?v=G2GOlOv05YY
 Simple Plan:In:c:https://www.youtube.com/watch?v=Mgj3dWR9i4Y
@@ -1497,7 +1497,7 @@ Two Steps From Hell:Casablanca:c,i:https://www.youtube.com/watch?v=jTkPIl5KHJY
 Two Steps From Hell:Children Of The Sun::https://www.youtube.com/watch?v=bpxtuUQ28UM&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=8
 Two Steps From Hell:Colors Of Love:i,s:https://www.youtube.com/watch?v=ZuGiwDQEvDc&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=20
 Two Steps From Hell:Compass:i,s:https://www.youtube.com/watch?v=GR3qkECLJbw&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=67
-Two Steps From Hell:Dangerous [instrumental]:https://www.youtube.com/watch?v=NRELLWp2ul8
+Two Steps From Hell:Dangerous [instrumental]:c,i,s:https://www.youtube.com/watch?v=NRELLWp2ul8
 Two Steps From Hell:Descendant Of The Sun [Featuring Felicia Farerre]:c,i,s:https://www.youtube.com/watch?v=iwJ0Jdp0tLo
 Two Steps From Hell:Dragon Rider:c,i:https://www.youtube.com/watch?v=pKv_wua6kFE&list=OLAK5uy_ms-gk7uSqHv8_xE1UZ9Eatv96V4WujITA&index=36
 Two Steps From Hell:Dragonwing:c,i:https://www.youtube.com/watch?v=qad3rIJ9tsE
