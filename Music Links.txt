@@ -363,7 +363,7 @@ Beyond Gaia's Horizon:Xenogenesis:c,s:https://www.youtube.com/watch?v=OuaD4wQd-j
 Beyond Gaia's Horizon:Skyrim Main Theme (Skyrim):c,i,s:https://www.youtube.com/watch?v=NZj8xUB21Ck
 Beyond Gaia's Horizon:Shrek:s,i:https://www.youtube.com/watch?v=urad_EveZ6E
 Beyond Gaia's Horizon:Time Lapse:c,i,s:https://www.youtube.com/watch?v=l7sAbgj18Ig
-Beyond Gaia's Horizon:Fight and Fall:c,i,s:https://www.youtube.com/watch?v=XT9gRj1d66s&t=22s
+Beyond Gaia's Horizon:Fight and Fall:c,i,s:https://www.youtube.com/watch?v=XT9gRj1d66s
 Beyond Gaia's Horizon:National Anthem of the Roman Empire:c,i,s:https://www.youtube.com/watch?v=WP_33K0RRhw
 Beyond Gaia's Horizon:Never Let Go:d,s:https://www.youtube.com/watch?v=QLs5OL0Ywvw
 Beyond Gaia's Horizon:Prepare For The Battle:c,i,s:https://www.youtube.com/watch?v=EdJkd_XpkFs
@@ -494,7 +494,7 @@ Efisio Cross:I Will Never Abandom You:c,i,s:https://www.youtube.com/watch?v=ay-2
 Efisio Cross:Invincible Messiah:c,i,s:https://www.youtube.com/watch?v=1qHmBT1E-Bo
 Efisio Cross:King Yeshua The Messiah:i,s:https://www.youtube.com/watch?v=hwIcv62WZ6A
 Efisio Cross:Kiss Me Before You Go:i,s:https://www.youtube.com/watch?v=LgIuzhEWHSI
-Efisio Cross:The Return Of The Christ:c,i,s:https://www.youtube.com/watch?v=1B2hJFaP0Mc&t=240s
+Efisio Cross:The Return Of The Christ:c,i,s:https://www.youtube.com/watch?v=1B2hJFaP0Mc
 Efisio Cross:Through The Storms We Stand:i,c,s:https://www.youtube.com/watch?v=Mvf3iHo9whk
 Efisio Cross:Thy Sleep Shall Be Sweet:i,s:https://www.youtube.com/watch?v=dLxjaMKmkxs
 Efisio Cross:Viens Petite Rose:i,c,s:https://www.youtube.com/watch?v=Dgk3xq5g1GY
@@ -504,7 +504,7 @@ ElanyiMusic:Be Thou My Vision:s:https://www.youtube.com/watch?v=_VpSqAcLrDI&list
 ElanyiMusic:Footsteps:s:https://www.youtube.com/watch?v=dYVpb4dpWTE&list=UUe32KL4vjDdhFurvCHfWU9Q&index=9
 ElanyiMusic:Gone, Gone,Gone::https://www.youtube.com/watch?v=XcCjFlxDkc4&list=UUe32KL4vjDdhFurvCHfWU9Q&index=43
 ElanyiMusic:Oceans:s:https://www.youtube.com/watch?v=ssBmFi51z_k&list=UUe32KL4vjDdhFurvCHfWU9Q&index=26
-ElanyiMusic:What A Beautiful Name:s:https://www.youtube.com/watch?v=rXqd36oY7Jg&list=UUe32KL4vjDdhFurvCHfWU9Q&index=3
+ElanyiMusic:What A Beautiful Name:s:https://www.youtube.com/watch?v=rXqd36oY7Jg
 Eternal Eclipse:Timeless Tale [feat. Merethe Soltvedt]:c,i,s:https://www.youtube.com/watch?v=ow2hGEZCSbs
 Eternal Eclipse:Redemption:c,i,s:https://www.youtube.com/watch?v=3dpxVIXindY
 Eternal Eclipse:The Ritual:c,i:https://www.youtube.com/watch?v=AAnTtPFHPsI
@@ -620,7 +620,7 @@ Gentri:Barricade:c:https://www.youtube.com/watch?v=2GEO3u1uoIA&list=UU4KEno3vtFb
 Gentri:Danny Boy::https://www.youtube.com/watch?v=KZ3E7kIYtR0&list=UU4KEno3vtFbQussF1SM-9Lg&index=13
 Gentri:Dare:c:https://www.youtube.com/watch?v=hiTwY1nQjCE&list=UU4KEno3vtFbQussF1SM-9Lg&index=70
 Gentri:Edelweiss (The Sound Of Music)::https://www.youtube.com/watch?v=yMJsW1rxAbQ
-Gentri:God Bless The USA::https://www.youtube.com/watch?v=uhefaxIkzak&list=UU4KEno3vtFbQussF1SM-9Lg&index=45
+Gentri:God Bless The USA::https://www.youtube.com/watch?v=uhefaxIkzak
 Gentri:Let It Be [Beatles Cover]:s:https://www.youtube.com/watch?v=b3wu3RbVqd8
 Gentri:Made of Stone:c:https://www.youtube.com/watch?v=gZXVxCNf5sM&list=UU4KEno3vtFbQussF1SM-9Lg&index=17
 Gentri:More::https://www.youtube.com/watch?v=hE5k_aJL3IQ&list=UU4KEno3vtFbQussF1SM-9Lg&index=31
@@ -667,7 +667,7 @@ ILIRA:Pay Me Back!::https://www.youtube.com/watch?v=cP5LvGH050o
 Imagine Dragons:Birds::https://www.youtube.com/watch?v=vOXZkm9p_zY
 Imagine Dragons:Demons::https://www.youtube.com/watch?v=Tur7i37z8dI
 IMAscore:Winterstorm:c,i:https://www.youtube.com/watch?v=vXQnFG6Z5fE
-Immidiate Music:Follow Me:c,i,s:https://www.youtube.com/watch?v=unvPoKPbBIc
+Immidiate Music:Follow Me:c,i,s:https://www.youtube.com/watch?v=UW1h9zvjA9o
 Immidiate Music:Satellite Debris:c,b,i:https://www.youtube.com/watch?v=UqaehHaHvUc
 Immidiate Music:Subversion Medley [medley]:c,b,i:https://www.youtube.com/watch?v=GtE41tlUeqU
 Indiana Evans:No Ordinary Girl (H2o Just Add Water)::https://www.youtube.com/watch?v=Am5X4lLROOU
@@ -685,14 +685,14 @@ Jack Trammel:Sail:c:https://www.youtube.com/watch?v=fx8PJF8IFZY
 James Mraz:Have It All::https://www.youtube.com/watch?v=lCTVccHc5hA
 James Paget:Believe:c:https://www.youtube.com/watch?v=03m0YF9Npg8&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=3
 James Paget:Dream Revived:i:https://www.youtube.com/watch?v=5WpG_27mf98&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=10
-James Paget:Flight of The Swallows:c,i,s:https://www.youtube.com/watch?v=ToKM8RUq2mI&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=9
+James Paget:Flight of The Swallows:c,i,s:https://www.youtube.com/watch?v=ToKM8RUq2mI
 James Paget:Free:c:https://www.youtube.com/watch?v=LN8qPacZa4c&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=5
-James Paget:Pluto Reborn:c,i,s:https://www.youtube.com/watch?v=Nmq20zaTVao&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=2
+James Paget:Pluto Reborn:c,i,s:https://www.youtube.com/watch?v=Nmq20zaTVao
 James Paget:Possibilities:c:https://www.youtube.com/watch?v=2EnCwKMrBco&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=3
 James Paget:Rubicon:i,s:https://www.youtube.com/watch?v=scL3KqBR3Bo&list=OLAK5uy_lh3whCMmBBaMauzr49AS13DbS5eJ-OD-U&index=5
 James Paget:Shine Bright:c:https://www.youtube.com/watch?v=LN8qPacZa4c&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=5
 James Paget:The Wondor of Gaia:c,i:https://www.youtube.com/watch?v=7TZUFrVQVMs&list=OLAK5uy_nr-KZaN-R8MQmr12jsBIwy6_q0jM7G84s&index=4
-James Paget:Throw Off the Bowlines:c,i,s:https://www.youtube.com/watch?v=aIHvr5zKquw&list=OLAK5uy_m2oj03PU8CupkLSGHS_ZWgdaCkDiGj4FI&index=6
+James Paget:Throw Off the Bowlines:c,i,s:https://www.youtube.com/watch?v=aIHvr5zKquw
 Jason Walker:Everybody Lies:d:https://www.youtube.com/watch?v=J_34ZKbJg-M
 Jefferson Airplane:White Rabbit::https://www.youtube.com/watch?v=dSAzIbo7zrY
 Jenn Sakura:Fear Not This Night::https://www.youtube.com/watch?v=9jRLwdNyX3w
@@ -932,13 +932,13 @@ Position Music:Hiraeth:c,i:https://www.youtube.com/watch?v=KiJ8xz4BogE
 Position Music:Meraki:c,i:https://www.youtube.com/watch?v=aS9rJcL3NDw
 Rachel Hardy: Jenny of Oldstones (Game of Thrones):c,s:https://www.youtube.com/watch?v=KZ0eJ6Q54eE
 Rachel Hardy:Ezio's Family [cover] (Assasin's Creed):s:https://www.youtube.com/watch?v=oky6_i8gndA
-Rachel Hardy:May It Be (Lord Of The Rings):s:https://www.youtube.com/watch?v=vQxmnU22kG0&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=14
+Rachel Hardy:May It Be (Lord Of The Rings):s:https://www.youtube.com/watch?v=vQxmnU22kG0
 Rachel Hardy:My Jolly Sailer Bold (Pirates of the Caribbean):d:https://www.youtube.com/watch?v=ElWddM8hqcU
 Rachel Hardy:My Mother Told Me:d,s:https://www.youtube.com/watch?v=y12oQzvhX3g
 Rachel Hardy:The Dragonborn Comes (Skyrim):c,s:https://www.youtube.com/watch?v=PjUh7PY__UE
 Rachel Hardy:The Misty Mountains Cold [cover](The Hobbit):c,s:https://www.youtube.com/watch?v=RaMpnl4DrVM
 Rachel Hardy:Toss A Coin To Your Witcher (The Witcher)::https://www.youtube.com/watch?v=g_87_sp6ROs&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=9
-Rachel Hardy:Wayfaring Stranger (1917):s:https://www.youtube.com/watch?v=8oVGk3KzzY4&list=UUcxZOARrMHXpKCsP4WnJLAQ&index=6
+Rachel Hardy:Wayfaring Stranger (1917):s:https://www.youtube.com/watch?v=8oVGk3KzzY4
 Rachel Platton:Fight Song::https://www.youtube.com/watch?v=xo1VInw-SKc&feature=emb_title
 Raon Lee:Kamado Tanjirou no Uta (Cover) [Demon Slayer]:s:https://www.youtube.com/watch?v=DAEg7zliSLw
 Really Slow Motion:Collapsing Universe:c,i:https://www.youtube.com/watch?v=ZcxH4wRZXoc
@@ -1260,7 +1260,7 @@ The Bombshell Belles:The Last Stand [cover]::https://www.youtube.com/watch?v=Cav
 The Cab:Angel With A Shotgun:c:https://www.youtube.com/watch?v=rQKMLmXc0xo
 The Charlie Daniels Band:The Devil Went Down To Georgia:c:https://www.youtube.com/watch?v=K6RUg-NkjY4
 The Danish National Symphony Orchestra:A fistful of Dollars:c,i:https://www.youtube.com/watch?v=4niv522mbtM&list=PLysPxrQwj2Ye15guvnfKb4N0Ahqbmn7Zl&index=40
-The Danish National Symphony Orchestra:Mork er November:s:https://www.youtube.com/watch?v=iyIu_x36cVM&list=PLysPxrQwj2YcPqzrEsJ39MM9k6hmvLtAi&index=5
+The Danish National Symphony Orchestra:Mork er November:s:https://www.youtube.com/watch?v=iyIu_x36cVM
 The Danish National Symphony Orchestra:Narnia Suite:c,i,s:https://www.youtube.com/watch?v=nkcXqYaAFl0&list=PLysPxrQwj2YevRncX7gwFzXni4RuiKhka&index=10
 The Danish National Symphony Orchestra:Sherlock Suite:c,i,s:https://www.youtube.com/watch?v=CoI8ltxk30g&list=PLysPxrQwj2YdaokKTMGnujvTBAG9TNp8e&index=1
 The Danish National Symphony Orchestra:Star Trek:i:https://www.youtube.com/watch?v=Bfwiy9JQ-PI&list=PLysPxrQwj2Yf5zgXxNri8awObe3yf8bHj&index=13
